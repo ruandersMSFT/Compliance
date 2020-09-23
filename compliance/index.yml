@@ -3,7 +3,7 @@
 title: service documentation # < 60 chars
 summary: summary # < 160 chars
 # brand: aspnet | azure | dotnet | dynamics | m365 | ms-graph | office | power-bi | power-platform | sql | sql-server | vs | visual-studio | windows | xamarin
-brand: brand
+brand: m365
 
 metadata:
   title: title # Required; page title displayed in search results. Include the brand. < 60 chars.
@@ -24,15 +24,15 @@ highlightedContent:
   items:
     # Card
     - title: cardtitle1
-      itemType: itemType
+      itemType: concept
       url: file1.md OR https://docs.microsoft.com/file1
     # Card
     - title: cardtitle2
-      itemType: itemType
+      itemType: concept
       url: file2.md OR https://docs.microsoft.com/file2
     # Card
     - title: cardtitle3
-      itemType: itemType
+      itemType: concept
       url: file3.md OR https://docs.microsoft.com/file3
 
 # productDirectory section (optional)
@@ -76,13 +76,13 @@ conceptualContent:
     - title: cardtitle1
       links:
         - url: file1.md OR https://docs.microsoft.com/file1
-          itemType: itemType
+          itemType: concept
           text: linktext1
         - url: file2.md OR https://docs.microsoft.com/file2
-          itemType: itemType
+          itemType: concept
           text: linktext2
         - url: file3.md OR https://docs.microsoft.com/file3
-          itemType: itemType
+          itemType: concept
           text: linktext3
       # footerLink (optional)
       footerLink:
@@ -92,13 +92,13 @@ conceptualContent:
     - title: cardtitle2
       links:
         - url: file1.md OR https://docs.microsoft.com/file1
-          itemType: itemType
+          itemType: concept
           text: linktext1
         - url: file2.md OR https://docs.microsoft.com/file2
-          itemType: itemType
+          itemType: concept
           text: linktext2
         - url: file3.md OR https://docs.microsoft.com/file3
-          itemType: itemType
+          itemType: concept
           text: linktext3
       # footerLink (optional)
       footerLink:
@@ -108,13 +108,13 @@ conceptualContent:
     - title: cardtitle3
       links:
         - url: file1.md OR https://docs.microsoft.com/file1
-          itemType: itemType
+          itemType: concept
           text: linktext1
         - url: file2.md OR https://docs.microsoft.com/file2
-          itemType: itemType
+          itemType: concept
           text: linktext2
         - url: file3.md OR https://docs.microsoft.com/file3
-          itemType: itemType
+          itemType: concept
           text: linktext3
       # footerLink (optional)
       footerLink:
@@ -160,37 +160,5 @@ additionalContent:
         - title: cardtitle3
           summary: cardsummary3
           url: file1.md OR https://docs.microsoft.com/file3
-  # footer (optional)
-  footer: "footertext [linktext](https://docs.microsoft.com/footerfile)"
-
-# additionalContent section (optional)
-# Card with links style
-additionalContent:
-  # Supports up to 3 sections
-  sections:
-    - title: sectiontitle # < 60 chars (optional)
-      summary: sectionsummary # < 160 chars (optional)
-      items:
-        # Card
-        - title: cardtitle1
-          links:
-            - text: link1a
-              url: file1a.md OR https://docs.microsoft.com/file1a
-            - text: link1b
-              url: file1b.md OR https://docs.microsoft.com/file1b
-        # Card
-        - title: cardtitle2
-          links:
-            - text: link2a
-              url: file2a.md OR https://docs.microsoft.com/file2a
-            - text: link2b
-              url: file2b.md OR https://docs.microsoft.com/file2b
-        # Card
-        - title: cardtitle3
-          links:
-            - text: link3a
-              url: file3a.md OR https://docs.microsoft.com/file3a
-            - text: link3b
-              url: file3b.md OR https://docs.microsoft.com/file3b
   # footer (optional)
   footer: "footertext [linktext](https://docs.microsoft.com/footerfile)"
