@@ -43,7 +43,7 @@ productDirectory:
     # Card
     - title: cardtitle1
       # imageSrc should be square in ratio with no whitespace
-      imageSrc: https://docs.microsoft.com/office/media/icons/blocks.png
+      imageSrc: https://docs.microsoft.com/office/media/icons/blocks-blue.png
       links:
         - url: file1a.md OR https://docs.microsoft.com/file1a
           text: linktext1a
