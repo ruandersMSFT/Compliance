@@ -28,7 +28,7 @@ highlightedContent:
       url: file1.md OR https://docs.microsoft.com/file1
     # Card
     - title: cardtitle2
-      itemType: leran
+      itemType: learn
       url: file2.md OR https://docs.microsoft.com/file2
     # Card
     - title: cardtitle3
