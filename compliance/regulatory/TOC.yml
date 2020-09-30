@@ -1,0 +1,43 @@
+- name: Compliance offerings
+  items: 
+    - name: HIPPA
+      href: https://docs.microsoft.com/
+    - name: SOC
+      href: https://docs.microsoft.com/
+    - name: TISAX
+      href: https://docs.microsoft.com/
+    - name: FINRA
+      href: https://docs.microsoft.com/
+    - name: NIST
+      href: https://docs.microsoft.com/
+    - name: ISO 27001
+      href: https://docs.microsoft.com/
+
+- name: General Data Protection Regulation
+  items:
+    - name: GDPR overview
+      href: gdpr.md
+    - name: Recommended action plan for GDPR
+      href: https://docs.microsoft.com/
+    - name: Accountability readiness checklists
+      items:
+        - name: Accountability readiness checklists
+          href: https://docs.microsoft.com/
+        - name: Azure and Dynamics 365
+          href: https://docs.microsoft.com/
+        - name: Microsoft Support & Professional Services
+          href: https://docs.microsoft.com/
+        - name: Office 365
+          href: https://docs.microsoft.com/
+    - name: Data subject requests
+      items: 
+        - name: Data subject requests
+          href: https://docs.microsoft.com/
+        - name: Azure
+          href: https://docs.microsoft.com/
+        - name: Azure
+          href: https://docs.microsoft.com/
+        - name: Azure DevOps Services
+          href: https://docs.microsoft.com/
+        - name: Dynamics 365
+          href: chttps://docs.microsoft.com/

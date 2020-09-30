@@ -13,31 +13,17 @@
     - name: Customer Lockbox in Office 365
       href: https://docs.microsoft.com/
 
-- name: General Data Protection Regulation
+- name: Governance
   items:
-    - name: GDPR overview
+    - name: Overview
+      href: assurance-access-controls.md
+    - name: Governance in Microsoft 365
       href: https://docs.microsoft.com/
-    - name: Recommended action plan for GDPR
+    - name: Microsoft 365 personnel governance
       href: https://docs.microsoft.com/
-    - name: Accountability readiness checklists
-      items:
-        - name: Accountability readiness checklists
-          href: https://docs.microsoft.com/
-        - name: Azure and Dynamics 365
-          href: https://docs.microsoft.com/
-        - name: Microsoft Support & Professional Services
-          href: https://docs.microsoft.com/
-        - name: Office 365
-          href: https://docs.microsoft.com/
-    - name: Data subject requests
-      items: 
-        - name: Data subject requests
-          href: https://docs.microsoft.com/
-        - name: Azure
-          href: https://docs.microsoft.com/
-        - name: Azure
-          href: https://docs.microsoft.com/
-        - name: Azure DevOps Services
-          href: https://docs.microsoft.com/
-        - name: Dynamics 365
-          href: chttps://docs.microsoft.com/
+    - name: Microsoft 365 technology governance
+      href: https://docs.microsoft.com/
+    - name: Yammer enterprise governance
+      href: https://docs.microsoft.com/
+    - name: Governance in Office 365
+      href: https://docs.microsoft.com/
