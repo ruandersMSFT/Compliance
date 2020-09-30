@@ -35,49 +35,30 @@ highlightedContent:
       itemType: reference
       url: file3.md OR https://docs.microsoft.com/file3
 
-
-
-# conceptualContent section (optional)
-conceptualContent:
-# itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
-  title: Service assurance # < 60 chars (optional)
-  summary: sectionsummary # < 160 chars (optional)
-  items:
-    # Card
-    - title: Governance
-      links:
-        - url: file1.md OR https://docs.microsoft.com/file1
-          itemType: learn
-          text: Learn about identity and access management
-        - url: file2.md OR https://docs.microsoft.com/file2
-          itemType: concept
-          text: Governance overview
-    # Card
-    - title: Risk Management
-      links:
-        - url: file1.md OR https://docs.microsoft.com/file1
-          itemType: learn
-          text: Learn about risk management
-        - url: file2.md OR https://docs.microsoft.com/file2
-          itemType: concept
-          text: Risk management overview
-    # Card
-    - title: Architecture
-      links:
-        - url: file1.md OR https://docs.microsoft.com/file1
-          itemType: learn
-          text: Learn about architecture
-        - url: file2.md OR https://docs.microsoft.com/file2
-          itemType: concept
-          text: Architecture overview
-
-# additionalContent section (optional)
-# Card with summary style
 additionalContent:
-  # Supports up to 3 sections
+#  Maximum of 3 sections
   sections:
-    - title: Get started with compliance in Microsoft 365 # < 60 chars (optional)
-      summary: If you're new to Microsoft 365 compliance and wondering where to start, this section provides links to guidance on the basics and prioritizes important compliance tasks. # < 160 chars (optional)
+
+#  Section 1
+    - title: Regulatory compliance
+      summary: Microsoft guidance on regulatory compliance
+      items:
+        # Card
+        - title: General Data Protection Regulation (GDPR)
+          summary: Guidance to help you honor rights and fulfill obligations under the GDPR when using Microsoft products and services.
+          url: https://docs.microsoft.com/microsoft-365/compliance/gdpr
+        # Card
+        - title: Compliance offerings
+          summary: Microsoft offers a comprehensive set of compliance offerings to help your organization comply with national, regional, and industry-specific requirements governing the collection and use of data.
+          url: https://docs.microsoft.com/microsoft-365/compliance/offering-home
+        # Card
+        - title: TBD
+          summary: TBD
+          url: https://docs.microsoft.com
+
+#  Section 2
+    - title: Get started with compliance in Microsoft 365
+      summary: If you're new to Microsoft 365 compliance and wondering where to start, this section provides links to guidance on the basics and prioritizes important compliance tasks.
       items:
         # Card
         - title: Learn about Compliance Manager
@@ -99,3 +80,36 @@ additionalContent:
         - title: Manage eDiscovery
           summary: Use eDiscovery to identify and analyze content as evidence in legal cases.
           url: https://docs.microsoft.com/microsoft-365/compliance/ediscovery
+
+
+conceptualContent:
+  title: Service assurance
+  summary: sectionsummary
+  items:
+    # Card
+    - title: Governance
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about identity and access management
+        - url: file2.md OR https://docs.microsoft.com/file2
+          itemType: concept
+          text: Governance overview
+    # Card
+    - title: Risk Management
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about risk management
+        - url: file2.md OR https://docs.microsoft.com/file2
+          itemType: concept
+          text: Risk management overview
+   # Card
+    - title: Architecture
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about architecture
+        - url: file2.md OR https://docs.microsoft.com/file2
+          itemType: concept
+          text: Architecture overview
