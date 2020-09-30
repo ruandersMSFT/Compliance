@@ -62,14 +62,14 @@ conceptualContent:
           itemType: concept
           text: Risk management overview
     # Card
-    - title: cardtitle3
+    - title: Arcitecture
       links:
         - url: file1.md OR https://docs.microsoft.com/file1
-          itemType: concept
-          text: linktext1
+          itemType: learn
+          text: Understand architecture
         - url: file2.md OR https://docs.microsoft.com/file2
           itemType: concept
-          text: linktext2
+          text: Architecture overview
 
 # additionalContent section (optional)
 # Card with summary style
