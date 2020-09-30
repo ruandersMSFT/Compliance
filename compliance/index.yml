@@ -49,7 +49,7 @@ conceptualContent:
           itemType: concept
           text: Governance overview
     # Card 2
-    - title: Risk Management
+    - title: Risk management
       links:
         - url: file1.md OR https://docs.microsoft.com/file1
           itemType: learn
@@ -116,64 +116,64 @@ conceptualContent:
       links:
         - url: file1.md OR https://docs.microsoft.com/file1
           itemType: learn
-          text: Learn about sub-processor management
+          text: Learn about security monitoring
         - url: file2.md OR https://docs.microsoft.com/file2
           itemType: concept
-          text: Sub-processor management overview
+          text: Security monitoring overview
     # Card 10
     - title: Asset management
       links:
         - url: file1.md OR https://docs.microsoft.com/file1
           itemType: learn
-          text: Learn about sub-processor management
+          text: Learn about asset management
         - url: file2.md OR https://docs.microsoft.com/file2
           itemType: concept
-          text: Sub-processor management overview
+          text: Asset management overview
     # Card 11
     - title: Network security
       links:
         - url: file1.md OR https://docs.microsoft.com/file1
           itemType: learn
-          text: Learn about sub-processor management
+          text: Learn about network security
         - url: file2.md OR https://docs.microsoft.com/file2
           itemType: concept
-          text: Sub-processor management overview
+          text: Network security overview
     # Card 12
-    - title: Incident Management
+    - title: Incident management
       links:
         - url: file1.md OR https://docs.microsoft.com/file1
           itemType: learn
-          text: Learn about sub-processor management
+          text: Learn about incident management
         - url: file2.md OR https://docs.microsoft.com/file2
           itemType: concept
-          text: Sub-processor management overview
+          text: Incident management overview
     # Card 13
     - title: Privacy
       links:
         - url: file1.md OR https://docs.microsoft.com/file1
           itemType: learn
-          text: Learn about sub-processor management
+          text: Learn about privacy
         - url: file2.md OR https://docs.microsoft.com/file2
           itemType: concept
-          text: Sub-processor management overview
+          text: Privacy overview
     # Card 14
     - title: Physical and environmental
       links:
         - url: file1.md OR https://docs.microsoft.com/file1
           itemType: learn
-          text: Learn about sub-processor management
+          text: Learn about physical and environmental
         - url: file2.md OR https://docs.microsoft.com/file2
           itemType: concept
-          text: Sub-processor management overview
+          text: Physical and environmental overview
   # Card 15
     - title: Security development lifecycle
       links:
         - url: file1.md OR https://docs.microsoft.com/file1
           itemType: learn
-          text: Learn about sub-processor management
+          text: Learn about the security development lifecycle
         - url: file2.md OR https://docs.microsoft.com/file2
           itemType: concept
-          text: Sub-processor management overview
+          text: Security development lifecycle overview
   # Card 16
     - title: Access controls
       links:
