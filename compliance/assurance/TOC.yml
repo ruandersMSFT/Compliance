@@ -5,41 +5,41 @@
     - name: Overview
       href: assurance-access-controls.md
     - name: Administrative access controls in Microsoft 365
-      href: whats-new.md
+      href: https://docs.microsoft.com/
     - name: Microsoft 365 personnel controls
-      href: microsoft-365-compliance-center.md
+      href: https://docs.microsoft.com/
     - name: Microsoft 365 technology controls
-      href: microsoft-365-solution-catalog.md
+      href: https://docs.microsoft.com/
     - name: Yammer enterprise access controls
-      href: use-your-free-azure-ad-subscription-in-office-365.md
+      href: https://docs.microsoft.com/
     - name: Customer Lockbox in Office 365
-      href: plan-for-security-and-compliance.md
+      href: https://docs.microsoft.com/
 
 - name: General Data Protection Regulation
   items:
     - name: GDPR overview
-      href: compliance-quick-tasks.md
+      href: https://docs.microsoft.com/
     - name: Recommended action plan for GDPR
-      href: whats-new.md
+      href: https://docs.microsoft.com/
     - name: Accountability readiness checklists
       items:
         - name: Accountability readiness checklists
-          href: insider-risk-management.md
+          href: https://docs.microsoft.com/
         - name: Azure and Dynamics 365
-          href: insider-risk-management-plan.md
+          href: https://docs.microsoft.com/
         - name: Microsoft Support & Professional Services
-          href: insider-risk-management-settings.md
+          href: https://docs.microsoft.com/
         - name: Office 365
-          href: insider-risk-management-configure.md
+          href: https://docs.microsoft.com/
     - name: Data subject requests
       items: 
         - name: Data subject requests
-          href: communication-compliance.md
+          href: https://docs.microsoft.com/
         - name: Azure
-          href: communication-compliance.md
+          href: https://docs.microsoft.com/
         - name: Azure
-          href: communication-compliance.md
+          href: https://docs.microsoft.com/
         - name: Azure DevOps Services
-          href: communication-compliance.md
+          href: https://docs.microsoft.com/
         - name: Dynamics 365
-          href: communication-compliance.md
+          href: chttps://docs.microsoft.com/
