@@ -1,6 +1,6 @@
 ---
-title: "Communication compliance"
-description: "Learn about communication compliance in Microsoft 365"
+title: "Access controls"
+description: "Learn about access controls in Microsoft 365"
 f1.keywords:
 - NOCSH
 ms.author: robmazz
@@ -20,6 +20,6 @@ search.appverid:
 - MOE150
 ---
 
-# Communication compliance in Microsoft 365
+# Access controls in Microsoft 365
 
-Communication compliance is a insider risk solution in Microsoft 365 that helps minimize communication risks by helping you detect, capture, and act on inappropriate messages in your organization. Pre-defined and custom policies allow you to scan internal and external communications for policy matches so they can be examined by designated reviewers. Reviewers can investigate scanned email, Microsoft Teams, Yammer, or third-party communications in your organization and take appropriate actions to make sure they're compliant with your organization's message standards.
+Info.
