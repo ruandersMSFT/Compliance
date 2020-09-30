@@ -145,19 +145,27 @@ tools:
 additionalContent:
   # Supports up to 3 sections
   sections:
-    - title: sectiontitle # < 60 chars (optional)
-      summary: sectionsummary # < 160 chars (optional)
+    - title: Compliance with Microsoft 365 # < 60 chars (optional)
+      summary: If you're new to Microsoft 365 compliance and wondering where to start, this section provides links to guidance on the basics and prioritizes important compliance tasks. # < 160 chars (optional)
       items:
         # Card
-        - title: cardtitle1
+        - title: Identity risks with Compliance Manager
+          summary: cardsummary3
+          url: file1.md OR https://docs.microsoft.com/file3
+        # Card
+        - title: Manage insider risks
           summary: cardsummary1
           url: file1.md OR https://docs.microsoft.com/file1
         # Card
-        - title: cardtitle2
+        - title: Manage information protection
           summary: cardsummary2
           url: file1.md OR https://docs.microsoft.com/file2
         # Card
-        - title: cardtitle3
+        - title: Manage information governance
+          summary: cardsummary3
+          url: file1.md OR https://docs.microsoft.com/file3
+        # Card
+        - title: Manage eDiscovery
           summary: cardsummary3
           url: file1.md OR https://docs.microsoft.com/file3
   # footer (optional)
