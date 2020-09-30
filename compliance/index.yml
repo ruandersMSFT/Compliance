@@ -208,7 +208,7 @@ additionalContent:
 
 #  Section 2
     - title: Get started with compliance in Microsoft 365
-      summary: If you're new to Microsoft 365 compliance and wondering where to start, this section provides links to key solutions and prioritizes important compliance tasks.
+      summary: If you're new to Microsoft 365 compliance and wondering where to start, this section provides links to key solutions and prioritizes important compliance areas.
       items:
         # Card
         - title: Learn about Compliance Manager
