@@ -70,22 +70,13 @@ conceptualContent:
         - url: file2.md OR https://docs.microsoft.com/file2
           itemType: concept
           text: linktext2
-        - url: file3.md OR https://docs.microsoft.com/file3
-          itemType: concept
-          text: linktext3
-      # footerLink (optional)
-      footerLink:
-        url: filefooter.md OR https://docs.microsoft.com/filefooter
-        text: See more
-
-
 
 # additionalContent section (optional)
 # Card with summary style
 additionalContent:
   # Supports up to 3 sections
   sections:
-    - title: Get started with compliance with Microsoft 365 # < 60 chars (optional)
+    - title: Get started with compliance in Microsoft 365 # < 60 chars (optional)
       summary: If you're new to Microsoft 365 compliance and wondering where to start, this section provides links to guidance on the basics and prioritizes important compliance tasks. # < 160 chars (optional)
       items:
         # Card
