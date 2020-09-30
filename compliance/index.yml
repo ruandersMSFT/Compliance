@@ -35,36 +35,7 @@ highlightedContent:
       itemType: reference
       url: file3.md OR https://docs.microsoft.com/file3
 
-# productDirectory section (optional)
-productDirectory:
-  title: sectiontitle # < 60 chars (optional)
-  summary: sectionsummary # < 160 chars (optional)
-  items:
-    # Card
-    - title: cardtitle1
-      # imageSrc should be square in ratio with no whitespace
-      imageSrc: https://docs.microsoft.com/office/media/icons/blocks-blue.png
-      links:
-        - url: file1a.md OR https://docs.microsoft.com/file1a
-          text: linktext1a
-        - url: file1b.md OR https://docs.microsoft.com/file1b
-          text: linktext1b
-    # Card
-    - title: cardtitle2
-      imageSrc: https://docs.microsoft.com/office/media/icons//collaborate-blue.png
-      links:
-        - url: file2a.md OR https://docs.microsoft.com/file2a
-          text: linktext2a
-        - url: file2b.md OR https://docs.microsoft.com/file2b
-          text: linktext2b
-    # Card
-    - title: cardtitle3
-      imageSrc: https://docs.microsoft.com/office/media/icons/deploy-blue.png
-      links:
-        - url: file3a.md OR https://docs.microsoft.com/file3a
-          text: linktext3a
-        - url: file3b.md OR https://docs.microsoft.com/file3b
-          text: linktext3b
+
 
 # conceptualContent section (optional)
 conceptualContent:
@@ -154,5 +125,3 @@ additionalContent:
         - title: Manage eDiscovery
           summary: Use eDiscovery to identify and analyze content as evidence in legal cases.
           url: https://docs.microsoft.com/microsoft-365/compliance/ediscovery
-  # footer (optional)
-  footer: "footertext [linktext](https://docs.microsoft.com/footerfile)"
