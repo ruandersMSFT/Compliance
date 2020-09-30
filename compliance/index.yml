@@ -200,7 +200,7 @@ additionalContent:
         # Card
         - title: Compliance offerings
           summary: Microsoft offers a comprehensive set of compliance offerings to help your organization comply with national, regional, and industry-specific requirements governing the collection and use of data.
-          url: https://docs.microsoft.com/microsoft-365/compliance/offering-home
+          url: /compliance/regulatory/offering-home
         # Card
         - title: Regulatory compliance and Microsoft Azure
           summary: Learn about regulatory compliance and Microsoft Azure cloud services.
