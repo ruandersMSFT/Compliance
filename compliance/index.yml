@@ -180,7 +180,7 @@ conceptualContent:
         - url: file1.md OR https://docs.microsoft.com/file1
           itemType: learn
           text: Learn about access controls
-        - url: /compliance/assurance/assurance-access-controls.md
+        - url: /compliance/assurance/assurance-access-controls
           itemType: concept
           text: Access controls overview
 
