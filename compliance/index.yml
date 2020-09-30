@@ -23,20 +23,20 @@ highlightedContent:
 # itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
   items:
     # Card
-    - title: cardtitle1
-      itemType: concept
-      url: file1.md OR https://docs.microsoft.com/file1
+    - title: Quick tasks for getting started with Microsoft 365 compliance
+      itemType: get-started
+      url: https://docs.microsoft.com/microsoft-365/compliance/compliance-quick-tasks
     # Card
-    - title: cardtitle2
+    - title: Understand Microsoft 365 risk management
       itemType: learn
-      url: file2.md OR https://docs.microsoft.com/file2
+      url: https://docs.microsoft.com/learn/modules/audit-risk-management/
     # Card
-    - title: cardtitle3
-      itemType: reference
-      url: file3.md OR https://docs.microsoft.com/file3
+    - title: Understand Microsoft 365 privacy
+      itemType: learn
+      url: https://docs.microsoft.com/learn/modules/audit-privacy/
 
 conceptualContent:
-  title: Service assurance
+  title: Compliance and service assurance
   summary: Guidance on Microsoft responsibilities for service compliance.
   items:
     # Card 1
@@ -119,7 +119,7 @@ additionalContent:
 
 #  Section 1
     - title: Regulatory compliance
-      summary: Microsoft guidance on international and domestic regulatory compliance.
+      summary: Microsoft guidance on compliance with international and domestic standards and regulations.
       items:
         # Card
         - title: General Data Protection Regulation (GDPR)
