@@ -111,6 +111,69 @@ conceptualContent:
         - url: file2.md OR https://docs.microsoft.com/file2
           itemType: concept
           text: Sub-processor management overview
+    # Card 9
+    - title: Security monitoring
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about sub-processor management
+        - url: file2.md OR https://docs.microsoft.com/file2
+          itemType: concept
+          text: Sub-processor management overview
+    # Card 10
+    - title: Asset management
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about sub-processor management
+        - url: file2.md OR https://docs.microsoft.com/file2
+          itemType: concept
+          text: Sub-processor management overview
+    # Card 11
+    - title: Network security
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about sub-processor management
+        - url: file2.md OR https://docs.microsoft.com/file2
+          itemType: concept
+          text: Sub-processor management overview
+    # Card 12
+    - title: Incident Management
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about sub-processor management
+        - url: file2.md OR https://docs.microsoft.com/file2
+          itemType: concept
+          text: Sub-processor management overview
+    # Card 13
+    - title: Privacy
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about sub-processor management
+        - url: file2.md OR https://docs.microsoft.com/file2
+          itemType: concept
+          text: Sub-processor management overview
+    # Card 14
+    - title: Physical and environmental
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about sub-processor management
+        - url: file2.md OR https://docs.microsoft.com/file2
+          itemType: concept
+          text: Sub-processor management overview
+  # Card 15
+    - title: Security development lifecycle
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about sub-processor management
+        - url: file2.md OR https://docs.microsoft.com/file2
+          itemType: concept
+          text: Sub-processor management overview
 
 
 additionalContent:

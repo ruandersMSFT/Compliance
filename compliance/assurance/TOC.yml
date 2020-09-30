@@ -1,0 +1,45 @@
+- name: Compliance
+  href: index.yml
+- name: Access controls
+  items: 
+    - name: Overview
+      href: compliance-quick-tasks.md
+    - name: Administrative access controls in Microsoft 365
+      href: whats-new.md
+    - name: Microsoft 365 personnel controls
+      href: microsoft-365-compliance-center.md
+    - name: Microsoft 365 technology controls
+      href: microsoft-365-solution-catalog.md
+    - name: Yammer enterprise access controls
+      href: use-your-free-azure-ad-subscription-in-office-365.md
+    - name: Customer Lockbox in Office 365
+      href: plan-for-security-and-compliance.md
+
+- name: General Data Protection Regulation
+  items:
+    - name: GDPR overview
+      href: compliance-quick-tasks.md
+    - name: Recommended action plan for GDPR
+      href: whats-new.md
+    - name: Accountability readiness checklists
+      items:
+        - name: Accountability readiness checklists
+          href: insider-risk-management.md
+        - name: Azure and Dynamics 365
+          href: insider-risk-management-plan.md
+        - name: Microsoft Support & Professional Services
+          href: insider-risk-management-settings.md
+        - name: Office 365
+          href: insider-risk-management-configure.md
+    - name: Data subject requests
+      items: 
+        - name: Data subject requests
+          href: communication-compliance.md
+        - name: Azure
+          href: communication-compliance.md
+        - name: Azure
+          href: communication-compliance.md
+        - name: Azure DevOps Services
+          href: communication-compliance.md
+        - name: Dynamics 365
+          href: communication-compliance.md
