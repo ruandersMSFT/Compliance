@@ -206,7 +206,6 @@ additionalContent:
           summary: Learn about regulatory compliance and Microsoft Azure cloud services.
           url: https://docs.microsoft.com/azure/compliance/
 
-
 #  Section 2
     - title: Get started with compliance in Microsoft 365
       summary: If you're new to Microsoft 365 compliance and wondering where to start, this section provides links to guidance on the basics and prioritizes important compliance tasks.
