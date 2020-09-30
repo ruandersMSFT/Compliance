@@ -48,7 +48,7 @@ conceptualContent:
       links:
         - url: file1.md OR https://docs.microsoft.com/file1
           itemType: learn
-          text: Understand identity and access management
+          text: Learn about identity and access management
         - url: file2.md OR https://docs.microsoft.com/file2
           itemType: concept
           text: Governance overview
@@ -57,16 +57,16 @@ conceptualContent:
       links:
         - url: file1.md OR https://docs.microsoft.com/file1
           itemType: learn
-          text: Understand risk management
+          text: Learn about risk management
         - url: file2.md OR https://docs.microsoft.com/file2
           itemType: concept
           text: Risk management overview
     # Card
-    - title: Arcitecture
+    - title: Architecture
       links:
         - url: file1.md OR https://docs.microsoft.com/file1
           itemType: learn
-          text: Understand architecture
+          text: Learn about architecture
         - url: file2.md OR https://docs.microsoft.com/file2
           itemType: concept
           text: Architecture overview
