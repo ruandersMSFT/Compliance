@@ -27,13 +27,17 @@ highlightedContent:
       itemType: get-started
       url: https://docs.microsoft.com/microsoft-365/compliance/compliance-quick-tasks
     # Card
-    - title: Understand Microsoft 365 risk management
+    - title: Manage insider risk in Microsoft 365
       itemType: learn
-      url: https://docs.microsoft.com/learn/modules/audit-risk-management/
+      url: https://docs.microsoft.com/learn/paths/m365-compliance-insider/
     # Card
-    - title: Understand Microsoft 365 privacy
+    - title: Manage information protection and governance
       itemType: learn
-      url: https://docs.microsoft.com/learn/modules/audit-privacy/
+      url: https://docs.microsoft.com/learn/paths/m365-compliance-information/
+    # Card
+    - title: Learn how Microsoft safeguards customer data
+      itemType: learn
+      url: https://docs.microsoft.com/learn/paths/audit-safeguard-customer-data/
 
 conceptualContent:
   title: Compliance and service assurance
