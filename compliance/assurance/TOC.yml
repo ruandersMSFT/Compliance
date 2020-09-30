@@ -1,5 +1,3 @@
-- name: Compliance
-  href: index.yml
 - name: Access controls
   items: 
     - name: Overview
