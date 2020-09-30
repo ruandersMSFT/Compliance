@@ -3,7 +3,7 @@
 - name: Access controls
   items: 
     - name: Overview
-      href: compliance-quick-tasks.md
+      href: assurance-access-controls.md
     - name: Administrative access controls in Microsoft 365
       href: whats-new.md
     - name: Microsoft 365 personnel controls
