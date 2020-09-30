@@ -174,6 +174,15 @@ conceptualContent:
         - url: file2.md OR https://docs.microsoft.com/file2
           itemType: concept
           text: Sub-processor management overview
+  # Card 16
+    - title: Access controls
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about access controls
+        - url: /assurance/assurance-access-controls.md
+          itemType: concept
+          text: Access controls overview
 
 
 additionalContent:
