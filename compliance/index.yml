@@ -35,13 +35,91 @@ highlightedContent:
       itemType: reference
       url: file3.md OR https://docs.microsoft.com/file3
 
+conceptualContent:
+  title: Service assurance
+  summary: Guidance on Microsoft responsibilities for service compliance.
+  items:
+    # Card 1
+    - title: Governance
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about identity and access management
+        - url: file2.md OR https://docs.microsoft.com/file2
+          itemType: concept
+          text: Governance overview
+    # Card 2
+    - title: Risk Management
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about risk management
+        - url: file2.md OR https://docs.microsoft.com/file2
+          itemType: concept
+          text: Risk management overview
+   # Card 3
+    - title: Architecture
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about architecture
+        - url: file2.md OR https://docs.microsoft.com/file2
+          itemType: concept
+          text: Architecture overview
+    # Card 4
+    - title: Human resources
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about human resources
+        - url: file2.md OR https://docs.microsoft.com/file2
+          itemType: concept
+          text: Human resources overview
+    # Card 5
+    - title: Encryption and key management
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about encryption and key management
+        - url: file2.md OR https://docs.microsoft.com/file2
+          itemType: concept
+          text: Encryption and key management overview
+    # Card 6
+    - title: Resiliency and continuity
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about resiliency and continuity
+        - url: file2.md OR https://docs.microsoft.com/file2
+          itemType: concept
+          text: Resiliency and continuity overview
+    # Card 7
+    - title: Audit logging
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about audit logging
+        - url: file2.md OR https://docs.microsoft.com/file2
+          itemType: concept
+          text: Audit logging overview
+    # Card 8
+    - title: Sub-processor management
+      links:
+        - url: file1.md OR https://docs.microsoft.com/file1
+          itemType: learn
+          text: Learn about sub-processor management
+        - url: file2.md OR https://docs.microsoft.com/file2
+          itemType: concept
+          text: Sub-processor management overview
+
+
 additionalContent:
 #  Maximum of 3 sections
   sections:
 
 #  Section 1
     - title: Regulatory compliance
-      summary: Microsoft guidance on regulatory compliance
+      summary: Microsoft guidance on international and domestic regulatory compliance.
       items:
         # Card
         - title: General Data Protection Regulation (GDPR)
@@ -52,9 +130,9 @@ additionalContent:
           summary: Microsoft offers a comprehensive set of compliance offerings to help your organization comply with national, regional, and industry-specific requirements governing the collection and use of data.
           url: https://docs.microsoft.com/microsoft-365/compliance/offering-home
         # Card
-        - title: TBD
-          summary: TBD
-          url: https://docs.microsoft.com
+        - title: Regulatory compliance and Microsoft Azure
+          summary: Learn about regulatory compliance and Microsoft Azure cloud services.
+          url: https://docs.microsoft.com/azure/compliance/
 
 #  Section 2
     - title: Get started with compliance in Microsoft 365
@@ -81,35 +159,3 @@ additionalContent:
           summary: Use eDiscovery to identify and analyze content as evidence in legal cases.
           url: https://docs.microsoft.com/microsoft-365/compliance/ediscovery
 
-
-conceptualContent:
-  title: Service assurance
-  summary: sectionsummary
-  items:
-    # Card
-    - title: Governance
-      links:
-        - url: file1.md OR https://docs.microsoft.com/file1
-          itemType: learn
-          text: Learn about identity and access management
-        - url: file2.md OR https://docs.microsoft.com/file2
-          itemType: concept
-          text: Governance overview
-    # Card
-    - title: Risk Management
-      links:
-        - url: file1.md OR https://docs.microsoft.com/file1
-          itemType: learn
-          text: Learn about risk management
-        - url: file2.md OR https://docs.microsoft.com/file2
-          itemType: concept
-          text: Risk management overview
-   # Card
-    - title: Architecture
-      links:
-        - url: file1.md OR https://docs.microsoft.com/file1
-          itemType: learn
-          text: Learn about architecture
-        - url: file2.md OR https://docs.microsoft.com/file2
-          itemType: concept
-          text: Architecture overview
