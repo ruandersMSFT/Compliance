@@ -234,4 +234,9 @@ additionalContent:
         - title: Manage eDiscovery
           summary: Use eDiscovery to identify and analyze content as evidence in legal cases.
           url: https://docs.microsoft.com/microsoft-365/compliance/ediscovery
+        # Card
+        - title: Discover compliance solutions
+          summary: Use solutions to help address specific business problems and needs.
+          url: https://docs.microsoft.com/microsoft-365/solutions/
+  
 
