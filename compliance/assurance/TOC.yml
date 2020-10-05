@@ -6,6 +6,7 @@
       href: https://docs.microsoft.com/
     - name: Microsoft 365 personnel controls
       href: https://docs.microsoft.com/
+
 - name: Audit logging
   items:
     - name: Overview
@@ -14,6 +15,7 @@
       href: https://docs.microsoft.com/
     - name: Microsoft 365 personnel governance
       href: https://docs.microsoft.com/
+
 - name: Datacenter security
   items:
     - name: Overview
@@ -22,78 +24,91 @@
       href: https://docs.microsoft.com/
     - name: Microsoft 365 personnel governance
       href: https://docs.microsoft.com/
+
 - name: Encryption and key management
   items:
     - name: Overview
       href: https://docs.microsoft.com/
     - name: Governance in Microsoft 365
       href: https://docs.microsoft.com/
+
 - name: Governance
   items:
     - name: Overview
       href: https://docs.microsoft.com/
     - name: Governance in Microsoft 365
       href: https://docs.microsoft.com/
+
 - name: Human resources
   items:
     - name: Overview
       href: https://docs.microsoft.com/
     - name: Governance in Microsoft 365
       href: https://docs.microsoft.com/
+
 - name: Identity and access management
   items:
     - name: Overview
       href: assurance-access-controls.md
     - name: Governance in Microsoft 365
       href: https://docs.microsoft.com/
+
 - name: Incident management
   items:
     - name: Overview
       href: https://docs.microsoft.com/
     - name: Governance in Microsoft 365
       href: https://docs.microsoft.com/
+
 - name: Network security
   items:
     - name: Overview
       href: https://docs.microsoft.com/
     - name: Governance in Microsoft 365
       href: https://docs.microsoft.com/
+
 - name: Privacy
   items:
     - name: Overview
       href: https://docs.microsoft.com/
     - name: Governance in Microsoft 365
       href: https://docs.microsoft.com/
+
 - name: Resiliency and continuity
   items:
     - name: Overview
       href: https://docs.microsoft.com/
     - name: Governance in Microsoft 365
       href: https://docs.microsoft.com/
+
 - name: Risk management
   items:
     - name: Overview
       href: https://docs.microsoft.com/
     - name: Governance in Microsoft 365
       href: https://docs.microsoft.com/
+
 - name: Security development and operation
   items:
     - name: Overview
       href: https://docs.microsoft.com/
     - name: Governance in Microsoft 365
       href: https://docs.microsoft.com/
+
 - name: Security monitoring
   items:
     - name: Overview
       href: https://docs.microsoft.com/
     - name: Governance in Microsoft 365
       href: https://docs.microsoft.com/
+
 - name: Sub-processor management
   items:
     - name: Overview
       href: https://docs.microsoft.com/
     - name: Governance in Microsoft 365
       href: https://docs.microsoft.com/
+
 - name: Vulnerability management
   items:
     - name: Overview
