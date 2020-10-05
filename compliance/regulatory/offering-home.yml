@@ -6,7 +6,7 @@ summary: Learn how Microsoft products and services help your organization meet r
 brand: m365
 
 metadata:
-  title: Microsoft compliance offerings # Required; page title displayed in search results. Include the brand. < 60 chars.
+  title: Compliance offerings for Microsoft 364, Azure Cloud Services, and other Microsoft services. # Required; page title displayed in search results. Include the brand. < 60 chars.
   description: Learn how Microsoft products and services help your organization meet regulatory compliance standards. # Required; article description that is displayed in search results. < 160 chars.
   services: service
   ms.service: O365-seccomp #Required; service per approved list. service slug assigned to your service by ACOM.
@@ -348,7 +348,7 @@ additionalContent:
   # Supports up to 3 sections
   sections:
     - title: Azure Cloud Services compliance offerings
-      summary: Compliance offerings for Azure Cloud Services help your organization comply with national, regional, and industry-specific requirements governing the collection and use of data.
+      summary: Compliance offerings specifically for Azure Cloud Services to help your organization comply with national, regional, and industry-specific requirements governing the collection and use of data.
       items:
         # Card
         - title: Global
