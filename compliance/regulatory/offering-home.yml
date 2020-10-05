@@ -343,3 +343,68 @@ conceptualContent:
         - url: https://aka.ms/TRUCS-Compliance
           itemType: reference
           text: TRUCS (China)
+
+additionalContent:
+  # Supports up to 3 sections
+  sections:
+    - title: Azure Cloud Services compliance offerings # < 60 chars (optional)
+      summary: sectionsummary # < 160 chars (optional)
+      items:
+        # Card
+        - title: Global
+          links:
+            - text: CSA-STAR attestation
+              url: file1a.md OR https://docs.microsoft.com/file1a
+            - text: CSA-STAR certification
+              url: file1b.md OR https://docs.microsoft.com/file1b
+            - text: CSA-STAR self-assessment
+              url: file1b.md OR https://docs.microsoft.com/file1b
+            - text: ISO 27701
+              url: file1b.md OR https://docs.microsoft.com/file1b
+            - text: ISO-9001
+              url: file1b.md OR https://docs.microsoft.com/file1b
+        # Card
+        - title: US Government
+          links:
+            - text: CNSSI 1253
+              url: file2a.md OR https://docs.microsoft.com/file2a
+            - text: link2b
+              url: file2b.md OR https://docs.microsoft.com/file2b
+        # Card
+        - title: Industry
+          links:
+            - text: CDSA
+              url: file3a.md OR https://docs.microsoft.com/file3a
+            - text: DPP (UK)
+              url: file3b.md OR https://docs.microsoft.com/file3b
+            - text: FACT (UK)
+              url: file3a.md OR https://docs.microsoft.com/file3a
+            - text: FCA (UK)
+              url: file3b.md OR https://docs.microsoft.com/file3b
+            - text: MARS-E
+              url: file3a.md OR https://docs.microsoft.com/file3a
+            - text: MPAA
+              url: file3b.md OR https://docs.microsoft.com/file3b
+            - text: NERC
+              url: file3a.md OR https://docs.microsoft.com/file3a
+            - text: PCI DSS
+              url: file3b.md OR https://docs.microsoft.com/file3b
+            - text: SEC Regulations SCI
+              url: file3b.md OR https://docs.microsoft.com/file3b
+            - text: Shared Assessments
+              url: file3a.md OR https://docs.microsoft.com/file3a
+            - text: TISAX (Germany)
+              url: file3b.md OR https://docs.microsoft.com/file3b
+        # Card
+        - title: Regional
+          links:
+            - text: Canadian Privacy Laws
+              url: file3a.md OR https://docs.microsoft.com/file3a
+            - text: Cyber Essentials Plus (UK)
+              url: file3b.md OR https://docs.microsoft.com/file3b
+            - text: ENISA IAF (EU)
+              url: file3a.md OR https://docs.microsoft.com/file3a
+            - text: ISMS (Korea)
+              url: file3b.md OR https://docs.microsoft.com/file3b
+            - text: IT Grundschutz Workbook (Germany)
+              url: file3b.md OR https://docs.microsoft.com/file3b
