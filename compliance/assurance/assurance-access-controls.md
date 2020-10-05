@@ -1,6 +1,6 @@
 ---
-title: "Access controls"
-description: "Learn about access controls in Microsoft 365"
+title: "Identity and access management"
+description: "Learn about identity and access management in Microsoft 365"
 f1.keywords:
 - NOCSH
 ms.author: robmazz
@@ -20,6 +20,6 @@ search.appverid:
 - MOE150
 ---
 
-# Access controls in Microsoft 365
+# Identity and access management
 
 Info.
