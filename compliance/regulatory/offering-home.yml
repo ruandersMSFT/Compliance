@@ -281,7 +281,7 @@ conceptualContent:
 additionalContent:
   # Supports up to 3 sections
   sections:
-    - title: Azure Cloud Services compliance offerings
+    - title: Compliance offerings for Azure Cloud Services
       summary: Compliance offerings specifically for Azure Cloud Services to help your organization comply with national, regional, and industry-specific requirements governing the collection and use of data.
       items:
         # Card
