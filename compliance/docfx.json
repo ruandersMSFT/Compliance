@@ -24,7 +24,10 @@
       {
         "files": [
           "**/*.png",
-          "**/*.jpg"
+          "**/*.jpg",
+          "**/*.gif",
+          "**/*.svg",
+          "**/*.pdf"
         ],
         "exclude": [
           "**/obj/**",
@@ -41,7 +44,8 @@
     "globalMetadata": {
       "breadcrumb_path": "/compliance/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "searchScope": ["Compliance"]
     },
     "fileMetadata": {},
     "template": [],
