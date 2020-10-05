@@ -302,8 +302,6 @@ additionalContent:
           links:
             - text: CNSSI 1253
               url: file2a.md OR https://docs.microsoft.com/file2a
-            - text: link2b
-              url: file2b.md OR https://docs.microsoft.com/file2b
         # Card
         - title: Industry
           links:
