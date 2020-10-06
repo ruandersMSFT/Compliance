@@ -55,15 +55,15 @@ productDirectory:
       summary: Guidance to help you honor rights and fulfill obligations under the GDPR when using Microsoft products and services.
       url: /compliance/regulatory/gdpr
     # Card
-    - title: cardtitle2
+    - title: Microsoft compliance offerings
       imageSrc: ./media/index/image2.svg OR https://docs.microsoft.com/media/logos/image2.svg
-      summary: cardsummary2
+      summary: Microsoft offers a comprehensive set of compliance offerings to help your organization comply with national, regional, and industry-specific requirements governing the collection and use of data.
       url: file2.md OR https://docs.microsoft.com/file2
     # Card
-    - title: cardtitle3
+    - title: Regulatory compliance and Microsoft Azure
       imageSrc: ./media/index/image3.svg OR https://docs.microsoft.com/media/logos/image3.svg
-      summary: cardsummary3
-      url: file3.md OR https://docs.microsoft.com/file3
+      summary: Learn about regulatory compliance and Microsoft Azure cloud services.
+      url: https://docs.microsoft.com/azure/compliance/
 
 
 conceptualContent:
