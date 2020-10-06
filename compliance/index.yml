@@ -28,7 +28,7 @@ highlightedContent:
       url: https://docs.microsoft.com/microsoft-365/compliance/compliance-quick-tasks
     # Card
     - title: Learn about shared responsibility in the cloud
-      itemType: architecture
+      itemType: overview
       url: https://docs.microsoft.com/azure/security/fundamentals/shared-responsibility
     # Card
     - title: Learn how Microsoft safeguards customer data
@@ -217,23 +217,6 @@ additionalContent:
   sections:
 
 #  Section 1
-    - title: Regulatory compliance
-      summary: Microsoft guidance on compliance with international and domestic standards and regulations.
-      items:
-        # Card
-        - title: General Data Protection Regulation (GDPR)
-          summary: Guidance to help you honor rights and fulfill obligations under the GDPR when using Microsoft products and services.
-          url: /compliance/regulatory/gdpr
-        # Card
-        - title: Compliance offerings
-          summary: Microsoft offers a comprehensive set of compliance offerings to help your organization comply with national, regional, and industry-specific requirements governing the collection and use of data.
-          url: /compliance/regulatory/offering-home
-        # Card
-        - title: Regulatory compliance and Microsoft Azure
-          summary: Learn about regulatory compliance and Microsoft Azure cloud services.
-          url: https://docs.microsoft.com/azure/compliance/
-
-#  Section 2
     - title: Get started with compliance in Microsoft 365
       summary: If you're new to Microsoft 365 compliance and wondering where to start, this section provides links to key solutions and prioritizes important compliance areas.
       items:
