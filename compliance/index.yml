@@ -27,6 +27,10 @@ highlightedContent:
       itemType: get-started
       url: https://docs.microsoft.com/microsoft-365/compliance/compliance-quick-tasks
     # Card
+    - title: Learn about shared responsibility in the cloud
+      itemType: architecture
+      url: https://docs.microsoft.com/azure/security/fundamentals/shared-responsibility
+    # Card
     - title: Learn how Microsoft safeguards customer data
       itemType: learn
       url: https://docs.microsoft.com/learn/paths/audit-safeguard-customer-data/
@@ -167,14 +171,14 @@ conceptualContent:
           itemType: concept
           text: Security monitoring overview
     # Card 15
-    - title: Sub-processor management
+    - title: Supplier management
       links:
         - url: https://docs.microsoft.com/learn/modules/audit-subprocessor-management/
           itemType: learn
-          text: Learn about sub-processor management
+          text: Learn about supplier management
         - url: file2.md OR https://docs.microsoft.com/file2
           itemType: concept
-          text: Sub-processor management overview
+          text: Supplier management overview
     # Card 16
     - title: Vulnerability management
       links:
