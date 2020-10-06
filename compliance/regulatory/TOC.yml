@@ -1,16 +1,10 @@
 - name: Compliance offerings
   items: 
-    - name: HIPPA
+    - name: HIPAA
       href: https://docs.microsoft.com/
     - name: SOC
       href: https://docs.microsoft.com/
     - name: TISAX
-      href: https://docs.microsoft.com/
-    - name: FINRA
-      href: https://docs.microsoft.com/
-    - name: NIST
-      href: https://docs.microsoft.com/
-    - name: ISO 27001
       href: https://docs.microsoft.com/
 
 - name: General Data Protection Regulation
@@ -40,4 +34,52 @@
         - name: Azure DevOps Services
           href: https://docs.microsoft.com/
         - name: Dynamics 365
+          href: chttps://docs.microsoft.com/
+    - name: Breach notification
+      items: 
+        - name: Data subject requests
+          href: https://docs.microsoft.com/
+        - name: Azure
+          href: https://docs.microsoft.com/
+        - name: Azure
+          href: https://docs.microsoft.com/
+        - name: Azure DevOps Services
+          href: https://docs.microsoft.com/
+        - name: Dynamics 365
+          href: chttps://docs.microsoft.com/
+    - name: Data protection impact statements
+      items: 
+        - name: Data subject requests
+          href: https://docs.microsoft.com/
+        - name: Azure
+          href: https://docs.microsoft.com/
+        - name: Azure
+          href: https://docs.microsoft.com/
+        - name: Azure DevOps Services
+          href: https://docs.microsoft.com/
+        - name: Dynamics 365
+          href: chttps://docs.microsoft.com/
+    - name: Office 365 information protection for GDPR
+      items: 
+        - name: Information protection for GDPR
+          href: https://docs.microsoft.com/
+        - name: Overview - Office 365 protection for GDPR
+          href: https://docs.microsoft.com/
+        - name: Search for and find personal data
+          href: https://docs.microsoft.com/
+        - name: ETC
+          href: https://docs.microsoft.com/
+        - name: ETC
+          href: chttps://docs.microsoft.com/
+    - name: GDPR for on-premises Office servers
+      items: 
+        - name: GDPR for on-premises Office servers
+          href: https://docs.microsoft.com/
+        - name: GDPR for SharePoint Server
+          href: https://docs.microsoft.com/
+        - name: GDPR for Exchange Server
+          href: https://docs.microsoft.com/
+        - name: ETC
+          href: https://docs.microsoft.com/
+        - name: ETC
           href: chttps://docs.microsoft.com/
