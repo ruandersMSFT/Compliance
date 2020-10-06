@@ -51,12 +51,12 @@ productDirectory:
     # Card
     - title: General Data Protection Regulation (GDPR)
       # imageSrc should be square in ratio with no whitespace
-      imageSrc: ./media/index/image1.svg OR https://docs.microsoft.com/media/logos/image1.svg
+      imageSrc: https://docs.microsoft.com/office/media/icons/task-checklist-planning-blue.svg
       summary: Guidance to help you honor rights and fulfill obligations under the GDPR when using Microsoft products and services.
       url: /compliance/regulatory/gdpr
     # Card
     - title: Microsoft compliance offerings
-      imageSrc: https://docs.microsoft.com/office/media/icons/globe-internet.png
+      imageSrc: https://docs.microsoft.com/office/media/icons/globe-internet.svg
       summary: Microsoft offers a comprehensive set of compliance offerings to help your organization comply with national, regional, and industry-specific requirements governing the collection and use of data.
       url: file2.md OR https://docs.microsoft.com/file2
     # Card
