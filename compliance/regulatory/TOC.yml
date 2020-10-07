@@ -1,5 +1,9 @@
 - name: Compliance offerings
   items: 
+    - name: ISO - recommended action plan
+      href: https://docs.microsoft.com/
+    - name: NIST - recommended action plan
+      href: https://docs.microsoft.com/
     - name: HIPAA
       href: https://docs.microsoft.com/
     - name: SOC
@@ -7,7 +11,7 @@
     - name: TISAX
       href: https://docs.microsoft.com/
 
-- name: General Data Protection Regulation
+- name: General Data Protection Regulation (GDPR)
   items:
     - name: GDPR overview
       href: gdpr.md
@@ -83,3 +87,8 @@
           href: https://docs.microsoft.com/
         - name: ETC
           href: chttps://docs.microsoft.com/
+
+- name: California Consumer Privacy Act (CCPA)
+  items: 
+    - name: CCPA - Frequently asked questions
+      href: https://docs.microsoft.com/
