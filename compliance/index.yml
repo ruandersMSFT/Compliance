@@ -1,13 +1,13 @@
 ### YamlMime:Hub
 
 title: Compliance documentation # < 60 chars
-summary: Find the Microsoft documentation and resources you need to get started with compliance for your business or organization. # < 160 chars
+summary: Microsoft documentation and resources you need to get started with compliance for your business or organization. # < 160 chars
 # brand: aspnet | azure | dotnet | dynamics | m365 | ms-graph | office | power-bi | power-platform | sql | sql-server | vs | visual-studio | windows | xamarin
 brand: m365
 
 metadata:
   title: Compliance documentation # Required; page title displayed in search results. Include the brand. < 60 chars.
-  description: Find the Microsoft documentation and resources you need to get started with compliance for your business or organization. # Required; article description that is displayed in search results. < 160 chars.
+  description: Microsoft documentation and resources you need to get started with compliance for your business or organization. # Required; article description that is displayed in search results. < 160 chars.
   services: service
   ms.service: service #Required; service per approved list. service slug assigned to your service by ACOM.
   ms.subservice: subservice # Optional; Remove if no subservice is used.
@@ -50,7 +50,6 @@ productDirectory:
   items:
     # Card 1
     - title: General Data Protection Regulation (GDPR)
-      # imageSrc should be square in ratio with no whitespace
       imageSrc: https://docs.microsoft.com/office/media/icons/compliance-blue.svg
       summary: Guidance to help you honor rights and fulfill obligations under the GDPR when using Microsoft products and services.
       url: /compliance/regulatory/gdpr
