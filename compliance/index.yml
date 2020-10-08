@@ -51,7 +51,7 @@ productDirectory:
     # Card 1
     - title: General Data Protection Regulation (GDPR)
       # imageSrc should be square in ratio with no whitespace
-      imageSrc: https://docs.microsoft.com/office/media/icons/task-checklist-planning-blue.svg
+      imageSrc: https://docs.microsoft.com/office/media/icons/compliance-blue.svg
       summary: Guidance to help you honor rights and fulfill obligations under the GDPR when using Microsoft products and services.
       url: /compliance/regulatory/gdpr
     # Card 2
