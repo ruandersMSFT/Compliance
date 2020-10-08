@@ -91,9 +91,7 @@
 
 - name: Incident management
   items:
-    - name: Overview
-      href: https://docs.microsoft.com/
-    - name: Governance in Microsoft 365
+    - name: Incident management overview
       href: https://docs.microsoft.com/
 
 - name: Network security
