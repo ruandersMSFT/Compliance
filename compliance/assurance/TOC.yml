@@ -1,28 +1,56 @@
 - name: Architecture
   items: 
-    - name: Overview
+    - name: Architecture overview
       href: https://docs.microsoft.com/
-    - name: Administrative access controls in Microsoft 365
+    - name: Isolation controls
       href: https://docs.microsoft.com/
-    - name: Microsoft 365 personnel controls
+    - name: Tenant isolation
+      href: https://docs.microsoft.com/
+    - name: Isolation and access controls in AAD
+      href: https://docs.microsoft.com/
+    - name: Monitoring and testing tenant boundaries
+      href: https://docs.microsoft.com/
+    - name: Service isolation and access control
+      href: https://docs.microsoft.com/
+    - name: Tenant isolation in Microsoft 365 Search
+      href: https://docs.microsoft.com/
+    - name: Tenant Isolation in Office 365 Video
+      href: https://docs.microsoft.com/
+    - name: Tenant isolation in Microsoft Graph and Delve
+      href: https://docs.microsoft.com/
+    - name: Azure components and boundaries
+      href: https://docs.microsoft.com/
+    - name: Azure network architecture
+      href: https://docs.microsoft.com/
+    - name: Isolation in the Azure cloud
       href: https://docs.microsoft.com/
 
 - name: Audit logging
   items:
-    - name: Overview
+    - name: Audit logging overview
       href: https://docs.microsoft.com/
-    - name: Governance in Microsoft 365
+    - name: Access control monitoring and management
+      href: https://docs.microsoft.com/
+    - name: Cloud services auditing and reporting
+      href: https://docs.microsoft.com/
+    - name: Reporting features
+      href: https://docs.microsoft.com/
+    - name: eDiscovery and search features
+      href: https://docs.microsoft.com/
+    - name: Engineering internal logging
+      href: https://docs.microsoft.com/
+    - name: Mailbox migrations
+      href: https://docs.microsoft.com/
+    - name: Office 365 Management Activity APIs
       href: https://docs.microsoft.com/
     - name: Microsoft 365 personnel governance
       href: https://docs.microsoft.com/
 
 - name: Datacenter security
   items:
-    - name: Overview
+    - name: Datacenter security overview
       href: https://docs.microsoft.com/
-    - name: Governance in Microsoft 365
-      href: https://docs.microsoft.com/
-    - name: Microsoft 365 personnel governance
+    - name: Azure physical security
       href: https://docs.microsoft.com/
 
 - name: Encryption and key management
@@ -34,23 +62,31 @@
 
 - name: Governance
   items:
-    - name: Overview
+    - name: Governance overview
       href: https://docs.microsoft.com/
-    - name: Governance in Microsoft 365
+    - name: Service assurance in the Security & Compliance Center
+      href: https://docs.microsoft.com/
+    - name: Shared responsibility in the cloud
       href: https://docs.microsoft.com/
 
 - name: Human resources
   items:
-    - name: Overview
-      href: https://docs.microsoft.com/
-    - name: Governance in Microsoft 365
+    - name: Human resources overview
       href: https://docs.microsoft.com/
 
 - name: Identity and access management
   items:
-    - name: Overview
+    - name: Identity and access management overview
       href: assurance-access-controls.md
-    - name: Governance in Microsoft 365
+    - name: Administrative access controls
+      href: https://docs.microsoft.com/
+    - name: Personnel controls
+      href: https://docs.microsoft.com/
+    - name: Technology controls
+      href: https://docs.microsoft.com/
+    - name: Yammer Enterprise access controls
+      href: https://docs.microsoft.com/
+    - name: Customer Lockbox
       href: https://docs.microsoft.com/
 
 - name: Incident management
@@ -62,9 +98,27 @@
 
 - name: Network security
   items:
-    - name: Overview
+    - name: Network security overview
       href: https://docs.microsoft.com/
-    - name: Governance in Microsoft 365
+    - name: Denial-of-service defense
+      href: https://docs.microsoft.com/
+    - name: Denial-of-service defense strategy
+      href: https://docs.microsoft.com/
+    - name: Core denial-of-service defense principles
+      href: https://docs.microsoft.com/
+    - name: Malware and ransomware protection
+      href: https://docs.microsoft.com/
+    - name: SharePoint Online virus protection
+      href: https://docs.microsoft.com/
+    - name: Office 365 Advanced Threat Protection
+      href: https://docs.microsoft.com/
+    - name: EOP anti-spam and anti-malware overview
+      href: https://docs.microsoft.com/
+    - name: EOP anti-spam protection
+      href: https://docs.microsoft.com/
+    - name: EOP anti-malware protection
+      href: https://docs.microsoft.com/
+    - name: Azure network security
       href: https://docs.microsoft.com/
 
 - name: Privacy
@@ -76,42 +130,54 @@
 
 - name: Resiliency and continuity
   items:
-    - name: Overview
+    - name: Resiliency and continuity overview
       href: https://docs.microsoft.com/
-    - name: Governance in Microsoft 365
+    - name: Resource limits
+      href: https://docs.microsoft.com/
+    - name: Data resiliency
+      href: https://docs.microsoft.com/
+    - name: Dealing with data corruption
+      href: https://docs.microsoft.com/
+    - name: Exchange Online data resiliency
+      href: https://docs.microsoft.com/
+    - name: Data monitoring and self-healing
+      href: https://docs.microsoft.com/
+    - name: Service health and continuity
+      href: https://docs.microsoft.com/
+    - name: Cloud services resiliency
+      href: https://docs.microsoft.com/
+    - name: Enterprise business continuity management
+      href: https://docs.microsoft.com/
+    - name: Azure infrastructure availability
       href: https://docs.microsoft.com/
 
 - name: Risk management
   items:
-    - name: Overview
-      href: https://docs.microsoft.com/
-    - name: Governance in Microsoft 365
+    - name: Risk management overview
       href: https://docs.microsoft.com/
 
 - name: Security development and operation
   items:
-    - name: Overview
+    - name: Security development and operation overview
       href: https://docs.microsoft.com/
-    - name: Governance in Microsoft 365
+    - name: Azure infrastructure integrity
+      href: https://docs.microsoft.com/
+    - name: Azure management and operation
       href: https://docs.microsoft.com/
 
 - name: Security monitoring
   items:
-    - name: Overview
+    - name: Security monitoring overview
       href: https://docs.microsoft.com/
-    - name: Governance in Microsoft 365
+    - name: Azure infrastructure monitoring
       href: https://docs.microsoft.com/
 
 - name: Supplier management
   items:
-    - name: Overview
-      href: https://docs.microsoft.com/
-    - name: Governance in Microsoft 365
+    - name: Supplier management overview
       href: https://docs.microsoft.com/
 
 - name: Vulnerability management
   items:
-    - name: Overview
-      href: https://docs.microsoft.com/
-    - name: Governance in Microsoft 365
+    - name: Vulnerability management overview
       href: https://docs.microsoft.com/
