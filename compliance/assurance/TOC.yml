@@ -157,7 +157,7 @@
 - name: Security development and operation
   items:
     - name: Security development and operation overview
-      href: assurance-security-and-operation.md
+      href: assurance-security-development-and-operation.md
     - name: Azure infrastructure integrity
       href: https://docs.microsoft.com/
     - name: Azure management and operation
