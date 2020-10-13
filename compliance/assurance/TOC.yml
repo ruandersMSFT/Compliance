@@ -1,7 +1,7 @@
 - name: Architecture
   items: 
     - name: Architecture overview
-      href: https://docs.microsoft.com/
+      href: assurance-architecture.md
     - name: Isolation controls
       href: https://docs.microsoft.com/
     - name: Tenant isolation
@@ -28,7 +28,7 @@
 - name: Audit logging
   items:
     - name: Audit logging overview
-      href: https://docs.microsoft.com/
+      href: assurance-audit-logging.md
     - name: Access control monitoring and management
       href: https://docs.microsoft.com/
     - name: Cloud services auditing and reporting
@@ -56,14 +56,14 @@
 - name: Encryption and key management
   items:
     - name: Overview
-      href: https://docs.microsoft.com/
+      href: assurance-encryption.md
     - name: Governance in Microsoft 365
       href: https://docs.microsoft.com/
 
 - name: Governance
   items:
     - name: Governance overview
-      href: https://docs.microsoft.com/
+      href: assurance-governance.md
     - name: Service assurance in the Security & Compliance Center
       href: https://docs.microsoft.com/
     - name: Shared responsibility in the cloud
@@ -72,7 +72,7 @@
 - name: Human resources
   items:
     - name: Human resources overview
-      href: https://docs.microsoft.com/
+      href: assurance-human-resources.md
 
 - name: Identity and access management
   items:
@@ -92,12 +92,12 @@
 - name: Incident management
   items:
     - name: Incident management overview
-      href: https://docs.microsoft.com/
+      href: assurance-incident-management.md
 
 - name: Network security
   items:
     - name: Network security overview
-      href: https://docs.microsoft.com/
+      href: assurance-network-security.md
     - name: Denial-of-service defense
       href: https://docs.microsoft.com/
     - name: Denial-of-service defense strategy
@@ -121,15 +121,15 @@
 
 - name: Privacy
   items:
-    - name: Overview
-      href: https://docs.microsoft.com/
+    - name: Privacy overview
+      href: assurance-privacy.md
     - name: Governance in Microsoft 365
       href: https://docs.microsoft.com/
 
 - name: Resiliency and continuity
   items:
     - name: Resiliency and continuity overview
-      href: https://docs.microsoft.com/
+      href: assurance-resiliency-and-continuity.md
     - name: Resource limits
       href: https://docs.microsoft.com/
     - name: Data resiliency
@@ -152,12 +152,12 @@
 - name: Risk management
   items:
     - name: Risk management overview
-      href: https://docs.microsoft.com/
+      href: assurance-risk-management.md
 
 - name: Security development and operation
   items:
     - name: Security development and operation overview
-      href: https://docs.microsoft.com/
+      href: assurance-security-and-operation.md
     - name: Azure infrastructure integrity
       href: https://docs.microsoft.com/
     - name: Azure management and operation
@@ -166,16 +166,16 @@
 - name: Security monitoring
   items:
     - name: Security monitoring overview
-      href: https://docs.microsoft.com/
+      href: assurance-security-monitoring.md
     - name: Azure infrastructure monitoring
       href: https://docs.microsoft.com/
 
 - name: Supplier management
   items:
     - name: Supplier management overview
-      href: https://docs.microsoft.com/
+      href: assurance-supplier-management.md
 
 - name: Vulnerability management
   items:
     - name: Vulnerability management overview
-      href: https://docs.microsoft.com/
+      href: assurance-vulnerability-management.md

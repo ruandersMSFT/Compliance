@@ -75,7 +75,7 @@ conceptualContent:
         - url: https://docs.microsoft.com/learn/modules/audit-architecture/
           itemType: learn
           text: Learn about architecture
-        - url: file2.md OR https://docs.microsoft.com/file2
+        - url: /compliance/assurance/assurance-architecture
           itemType: concept
           text: Architecture overview
     # Card 2
@@ -84,13 +84,13 @@ conceptualContent:
         - url: https://docs.microsoft.com/learn/modules/audit-logging-monitoring/
           itemType: learn
           text: Learn about audit logging
-        - url: file2.md OR https://docs.microsoft.com/file2
+        - url: /compliance/assurance/assurance-audit-logging
           itemType: concept
           text: Audit logging overview
     # Card 3
     - title: Datacenter security
       links:
-        - url: file1.md OR https://docs.microsoft.com/file1
+        - url: https://docs.microsoft.com/learn/modules/audit-physical-security/
           itemType: learn
           text: Learn about datacenter security
         - url: /compliance/assurance/assurance-datacenter-security
@@ -102,7 +102,7 @@ conceptualContent:
         - url: https://docs.microsoft.com/learn/modules/audit-encryption/
           itemType: learn
           text: Learn about encryption and key management
-        - url: file2.md OR https://docs.microsoft.com/file2
+        - url: /compliance/assurance/assurance-encryption
           itemType: concept
           text: Encryption and key management overview
     # Card 5
@@ -111,7 +111,7 @@ conceptualContent:
         - url: https://docs.microsoft.com/learn/modules/audit-governance/
           itemType: learn
           text: Learn about identity and access management
-        - url: file2.md OR https://docs.microsoft.com/file2
+        - url: /compliance/assurance/assurance-governance
           itemType: concept
           text: Governance overview
     # Card 6
@@ -120,7 +120,7 @@ conceptualContent:
         - url: https://docs.microsoft.com/learn/modules/audit-governance/personnel-security-governance
           itemType: learn
           text: Learn about human resources
-        - url: file2.md OR https://docs.microsoft.com/file2
+        - url: /compliance/assurance/assurance-human-resources
           itemType: concept
           text: Human resources overview
     # Card 7
@@ -138,13 +138,13 @@ conceptualContent:
         - url: https://docs.microsoft.com/learn/modules/audit-incident-management/
           itemType: learn
           text: Learn about incident management
-        - url: file2.md OR https://docs.microsoft.com/file2
+        - url: /compliance/assurance/assurance-incident-management
           itemType: concept
           text: Incident management overview
       # Card 9
     - title: Network security
       links:
-        - url: file2.md OR https://docs.microsoft.com/file2
+        - url: /compliance/assurance/assurance-network-security
           itemType: concept
           text: Network security overview
     # Card 10
@@ -153,7 +153,7 @@ conceptualContent:
         - url: https://docs.microsoft.com/learn/modules/audit-privacy/
           itemType: learn
           text: Learn about privacy
-        - url: file2.md OR https://docs.microsoft.com/file2
+        - url: /compliance/assurance/assurance-privacy
           itemType: concept
           text: Privacy overview
     # Card 11
@@ -162,7 +162,7 @@ conceptualContent:
         - url: https://docs.microsoft.com/learn/modules/audit-resiliency-continuity/
           itemType: learn
           text: Learn about resiliency and continuity
-        - url: file2.md OR https://docs.microsoft.com/file2
+        - url: /compliance/assurance/assurance-resiliency-and-continuity
           itemType: concept
           text: Resiliency and continuity overview
     # Card 12
@@ -171,7 +171,7 @@ conceptualContent:
         - url: https://docs.microsoft.com/learn/modules/audit-risk-management/
           itemType: learn
           text: Learn about risk management
-        - url: file2.md OR https://docs.microsoft.com/file2
+        - url: /compliance/assurance/assurance-risk-management
           itemType: concept
           text: Risk management overview
     # Card 13
@@ -180,7 +180,7 @@ conceptualContent:
         - url: https://docs.microsoft.com/learn/modules/audit-security-development-operation/
           itemType: learn
           text: Learn about security development operation
-        - url: file2.md OR https://docs.microsoft.com/file2
+        - url: /compliance/assurance/assurance-security-development-and-operation
           itemType: concept
           text: Security development operation overview
     # Card 14
@@ -189,7 +189,7 @@ conceptualContent:
         - url: https://docs.microsoft.com/learn/modules/audit-vulnerability-management/security-monitoring
           itemType: learn
           text: Learn about security monitoring
-        - url: file2.md OR https://docs.microsoft.com/file2
+        - url: /compliance/assurance/assurance-security-monitoring
           itemType: concept
           text: Security monitoring overview
     # Card 15
@@ -198,7 +198,7 @@ conceptualContent:
         - url: https://docs.microsoft.com/learn/modules/audit-subprocessor-management/
           itemType: learn
           text: Learn about supplier management
-        - url: file2.md OR https://docs.microsoft.com/file2
+        - url: /compliance/assurance/assurance-supplier-management
           itemType: concept
           text: Supplier management overview
     # Card 16
@@ -207,7 +207,7 @@ conceptualContent:
         - url: https://docs.microsoft.com/learn/modules/audit-vulnerability-management/
           itemType: learn
           text: Learn about vulnerability management
-        - url: file2.md OR https://docs.microsoft.com/file2
+        - url: /compliance/assurance/assurance-vulnerability-management
           itemType: concept
           text: Vulnerability management overview
 
