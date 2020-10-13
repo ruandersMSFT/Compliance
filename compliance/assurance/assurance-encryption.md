@@ -1,6 +1,6 @@
 ---
-title: "Encryption"
-description: "Learn about encryption in Microsoft 365"
+title: "Encryption and key management"
+description: "Learn about encryption and key management in Microsoft 365"
 f1.keywords:
 - NOCSH
 ms.author: robmazz
@@ -20,6 +20,6 @@ search.appverid:
 - MOE150
 ---
 
-# Encryption
+# Encryption and key management
 
 Info.
