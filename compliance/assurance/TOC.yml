@@ -49,7 +49,7 @@
 - name: Datacenter security
   items:
     - name: Datacenter security overview
-      href: https://docs.microsoft.com/
+      href: assurance-datacenter-security.md
     - name: Azure physical security
       href: https://docs.microsoft.com/
 
