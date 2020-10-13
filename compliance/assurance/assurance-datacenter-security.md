@@ -48,9 +48,9 @@ Our cloud infrastructure and offerings meet a broad set of international and ind
 
 ## Related external regulations & certifications
 
-Microsoft's online services are regularly audited for compliance with external regulations and certifications. Please refer to the table below for validation of controls related to datacenter security.
+Microsoft's online services are regularly audited for compliance with external regulations and certifications. Please refer to the following table for validation of controls related to datacenter security.
 
-| **External Audits** | **Section** | **Latest Report Date** |
+| **External audits** | **Section** | **Latest report date** |
 |:--------------------|:------------|:-----------------------|  
 | [FedRAMP (Office 365)](https://aka.ms/compliancemanager) | PE-2: Physical access authorizations <br> PE-3: Physical access control <br> PE-6: Monitoring physical access <br> PE-11: Emergency power <br> PE-13: Fire protection <br> PE-14: Temperature and humidity controls <br> PE-15: Water damage protection | 9/24/2020 |
 | [SOC 1 (Office 365)](https://aka.ms/o365soc1type2) | CA-39: Datacenter access controls <br> CA-40: Datacenter network authentication <br> CA-41: Datacenter two-factor authentication <br> CA-48: Datacenter logging | 9/30/2019 |
