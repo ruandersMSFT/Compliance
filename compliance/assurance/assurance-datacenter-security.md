@@ -24,7 +24,7 @@ search.appverid:
 
 ## How does Microsoft host its online services?
 
-Microsoft delivers more than 200 cloud services (including enterprise services such as Microsoft Azure, Microsoft 365, and Microsoft Dynamics) to customers 24x7x365. These services are hosted in Microsoft's cloud infrastructure composed of globally distributed datacenters, edge computing nodes, and service operations centers. They are supported and connected by one of the world's largest global networks, with an extensive fiber footprint.
+Microsoft delivers more than 200 cloud services, including enterprise services such as Microsoft Azure, Microsoft 365, and Microsoft Dynamics 365, to customers 24x7x365. These services are hosted in Microsoft's cloud infrastructure composed of globally distributed datacenters, edge computing nodes, and service operations centers. They are supported and connected by one of the world's largest global networks, with an extensive fiber footprint.
 
 The datacenters that power our cloud offerings focus on high reliability, operational excellence, cost-effectiveness, environmental sustainability, and a trustworthy online experience for customers and partners worldwide. Microsoft regularly tests our datacenter security through both internal and third-party audits. As a result, the most highly regulated organizations in the world trust the Microsoft cloud, which is compliant with more certifications than any other cloud service provider.
 
