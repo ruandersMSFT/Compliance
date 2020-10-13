@@ -57,8 +57,6 @@
   items:
     - name: Overview
       href: assurance-encryption.md
-    - name: Governance in Microsoft 365
-      href: https://docs.microsoft.com/
 
 - name: Governance
   items:
