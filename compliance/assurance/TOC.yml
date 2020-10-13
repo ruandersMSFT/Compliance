@@ -55,7 +55,7 @@
 
 - name: Encryption and key management
   items:
-    - name: Overview
+    - name: Encryption and key management overview
       href: assurance-encryption.md
 
 - name: Governance
