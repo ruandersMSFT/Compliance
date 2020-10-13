@@ -51,7 +51,7 @@
     - name: Datacenter security overview
       href: assurance-datacenter-security.md
     - name: Azure physical security
-      href: https://docs.microsoft.com/
+      href: https://docs.microsoft.com/azure/security/fundamentals/physical-security
 
 - name: Encryption and key management
   items:
