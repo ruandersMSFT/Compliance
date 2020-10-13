@@ -44,7 +44,7 @@ Disasters are unpredictable, but Microsoft datacenters and operations personnel 
 
 We understand that for our customers to fully realize the benefits of the cloud, they must be able to trust their cloud service provider. Our infrastructure and suite of cloud services are built from the ground up to address the rigorous security and privacy requirements of our customers. We help our customers comply with national, regional, and industry-specific requirements governing the collection and use of individuals' data by providing the most comprehensive set of compliance offerings of any cloud service provider.
 
-Our cloud infrastructure and offerings meet a broad set of international and industry-specific compliance standards, such as ISO, HIPAA, FedRAMP, and SOC, as well as country-specific standards, like Australia's IRAP, UK's G-Cloud, and Singapore's MTCS. Rigorous, third-party audits verify our adherence to the strict security controls these standards mandate. Audit reports for our datacenter infrastructure and cloud offerings are available at the Microsoft Trust Center.
+Our cloud infrastructure and offerings meet a broad set of international and industry-specific compliance standards, such as ISO, HIPAA, FedRAMP, and SOC, as well as country-specific standards, like Australia's IRAP, UK's G-Cloud, and Singapore's MTCS. Rigorous, third-party audits verify our adherence to the strict security controls these standards mandate. Audit reports for our datacenter infrastructure and cloud offerings are available at the [Microsoft Trust Center](https://www.microsoft.com/trust-center).
 
 ## Related external regulations & certifications
 
