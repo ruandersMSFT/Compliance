@@ -19,11 +19,11 @@
     - name: Tenant isolation in Microsoft Graph and Delve
       href: https://docs.microsoft.com/
     - name: Azure components and boundaries
-      href: https://docs.microsoft.com/
+      href: https://docs.microsoft.com/azure/security/fundamentals/infrastructure-components
     - name: Azure network architecture
-      href: https://docs.microsoft.com/
+      href: https://docs.microsoft.com/azure/security/fundamentals/infrastructure-network
     - name: Isolation in the Azure cloud
-      href: https://docs.microsoft.com/
+      href: https://docs.microsoft.com/azure/security/fundamentals/isolation-choice
 
 - name: Audit logging
   items:
@@ -57,6 +57,10 @@
   items:
     - name: Encryption and key management overview
       href: assurance-encryption.md
+    - name: Azure data encryption at rest
+      href: https://docs.microsoft.com/azure/security/fundamentals/encryption-atrest
+    - name: Azure data encryption models
+      href: https://docs.microsoft.com/azure/security/fundamentals/encryption-models
 
 - name: Governance
   items:
@@ -65,7 +69,7 @@
     - name: Service assurance in the Security & Compliance Center
       href: https://docs.microsoft.com/
     - name: Shared responsibility in the cloud
-      href: https://docs.microsoft.com/
+      href: https://docs.microsoft.com/azure/security/fundamentals/shared-responsibility
 
 - name: Human resources
   items:
@@ -115,7 +119,7 @@
     - name: EOP anti-malware protection
       href: https://docs.microsoft.com/
     - name: Azure network security
-      href: https://docs.microsoft.com/
+      href: https://docs.microsoft.com/azure/security/fundamentals/production-network
 
 - name: Privacy
   items:
@@ -139,13 +143,13 @@
     - name: Data monitoring and self-healing
       href: https://docs.microsoft.com/
     - name: Service health and continuity
-      href: https://docs.microsoft.com/
+      href: https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity
     - name: Cloud services resiliency
       href: https://docs.microsoft.com/
     - name: Enterprise business continuity management
       href: https://docs.microsoft.com/
     - name: Azure infrastructure availability
-      href: https://docs.microsoft.com/
+      href: https://docs.microsoft.com/azure/security/fundamentals/infrastructure-availability
 
 - name: Risk management
   items:
@@ -157,16 +161,16 @@
     - name: Security development and operation overview
       href: assurance-security-development-and-operation.md
     - name: Azure infrastructure integrity
-      href: https://docs.microsoft.com/
+      href: https://docs.microsoft.com/azure/security/fundamentals/infrastructure-integrity
     - name: Azure management and operation
-      href: https://docs.microsoft.com/
+      href: https://docs.microsoft.com/azure/security/fundamentals/infrastructure-operations
 
 - name: Security monitoring
   items:
     - name: Security monitoring overview
       href: assurance-security-monitoring.md
     - name: Azure infrastructure monitoring
-      href: https://docs.microsoft.com/
+      href: https://docs.microsoft.com/azure/security/fundamentals/infrastructure-monitoring
 
 - name: Supplier management
   items:
