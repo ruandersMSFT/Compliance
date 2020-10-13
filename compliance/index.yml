@@ -129,7 +129,7 @@ conceptualContent:
         - url: https://docs.microsoft.com/learn/modules/audit-identity-access-management/
           itemType: learn
           text: Learn about identity and Access Management
-        - url: /compliance/assurance/assurance-access-controls
+        - url: /compliance/assurance/assurance-identity-and-access-management
           itemType: concept
           text: Identity and access management overview
      # Card 8

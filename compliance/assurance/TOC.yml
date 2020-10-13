@@ -77,7 +77,7 @@
 - name: Identity and access management
   items:
     - name: Identity and access management overview
-      href: assurance-access-controls.md
+      href: assurance-identity-and-access-management.md
     - name: Administrative access controls
       href: https://docs.microsoft.com/
     - name: Personnel controls
