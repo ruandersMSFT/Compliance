@@ -92,10 +92,10 @@ conceptualContent:
       links:
         - url: file1.md OR https://docs.microsoft.com/file1
           itemType: learn
-          text: Learn about physical and environmental
-        - url: file2.md OR https://docs.microsoft.com/file2
+          text: Learn about datacenter security
+        - url: /compliance/assurance/assurance-datacenter-security
           itemType: concept
-          text: Physical and environmental overview
+          text: Datacenter security overview
     # Card 4
     - title: Encryption and key management
       links:
