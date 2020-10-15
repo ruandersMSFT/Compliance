@@ -1,15 +1,293 @@
 - name: Microsoft compliance offerings
-  items: 
-    - name: ISO - recommended action plan
-      href: https://docs.microsoft.com/
-    - name: NIST - recommended action plan
-      href: https://docs.microsoft.com/
-    - name: HIPAA
-      href: https://docs.microsoft.com/
-    - name: SOC
-      href: https://docs.microsoft.com/
-    - name: TISAX
-      href: https://docs.microsoft.com/
+  items:
+    - name: Global
+      items: 
+        - name: CIS Benchmark
+          href: offering-cis-benchmark.md
+        - name: CSA-STAR attestation
+          href: offering-csa-star-attestation.md
+        - name: CSA-STAR certification
+          href: offering-csa-star-certification.md
+        - name: CSA-STAR self-assessment
+          href: offering-csa-star-self-assessment.md
+        - name: ISO 20000-1-2011
+          href: offering-iso-20000-1-2011.md
+        - name: ISO 22301
+          href: offering-iso-22301.md
+        - name: ISO 27001
+          href: offering-iso-27001.md
+        - name: ISO 27017
+          href: offering-iso-27017.md
+        - name: ISO 27018
+          href: offering-iso-27018.md
+        - name: ISO 27701
+          href: offering-iso-27701.md
+        - name: ISO-9001
+          href: offering-iso-9001.md
+        - name: SOC
+          href: offering-soc.md
+        - name: WCAG
+          href: offering-wcag-2-1.md
+    - name: US Government
+      items: 
+        - name: CJIS
+          href: offering-cjis.md
+        - name: CNSSI 1253
+          href: offering-cnssi-1253.md
+        - name: DFARS
+          href: offering-dfars.md
+        - name: DoD DISA L2,L4,L5
+          href: offering-dod-disa-l2-l4-l5.md
+        - name: DoE 10 CFR Part 810
+          href: offering-doe-10-cfr-part-810.md
+        - name: EAR (US Export Admin. Reg.)
+          href: offering-ear.md
+        - name: FedRAMP
+          href: offering-fedramp.md
+        - name: FIPS 140-2
+          href: offering-fips-140-2.md
+        - name: IRS 1075
+          href: offering-irs-1075.md
+        - name: ITAR
+          href: offering-itar.md
+        - name: NIST 800-171
+          href: offering-nist-sp-800-171.md
+        - name: NIST CSF
+          href: offering-nist-csf.md
+        - name: Section 508 VPATS
+          href: offering-section-508-vpats.md
+    - name: Industry
+      items: 
+        - name: Education
+          items: 
+            - name: FERPA
+              href: offering-ferpa.md
+        - name: Energy
+          items: 
+            - name: NERC
+              href: offering-nerc-cip.md
+        - name: Financial
+          items: 
+            - name: 23 NYCRR Part 500
+              href: offering-23-nycrr-part-500.md
+            - name: AFM + DNB (Netherlands)
+              href: offering-afm-dnb-netherlands.md
+            - name: APRA (Australia)
+              href: offering-apra-australia.md
+            - name: AMF and ACPR (France)
+              href: offering-amf-acpr-france.md
+            - name: EBA (EU)
+              href: offering-eba-eu.md
+            - name: FCA (UK)
+              href: offering-fca-uk.md
+            - name: FFIEC (US)
+              href: offering-ffiec-us.md
+            - name: FINMA (Switzerland)
+              href: offering-finma-switzerland.md
+            - name: FINRA 4511
+              href: offering-finra-4511.md
+            - name: FISC (Japan)
+              href: offering-fisc-japan.md
+            - name: FSA (Denmark)
+              href: offering-fsa-denmark.md
+            - name: GLBA
+              href: offering-glba.md
+            - name: KNF (Poland)
+              href: offering-knf-poland.md
+            - name: MAS + ABS (Singapore)
+              href: offering-mas-abs-singapore.md
+            - name: NBB + FSMA (Belgium)
+              href: offering-nbb-fsma-belgium.md
+            - name: OSFI (Canada)
+              href: offering-osfi-canada.md
+            - name: PCI DSS
+              href: offering-pci-dss.md
+            - name: RBI + IRDAI (India)
+              href: offering-rbi-irdai-india.md
+            - name: SEC 17a-4
+              href: offering-sec-17a-4.md
+            - name: SEC Regulation SCI
+              href: offering-sec-reg-sci.md
+            - name: SOC
+              href: offering-soc.md
+            - name: SOX
+              href: offering-sox.md
+            - name: TruSight
+              href: offering-trusight.md
+        - name: Health
+          items: 
+            - name: HDS (France)
+              href: offering-hds-france.md
+            - name: HIPAA/HITECH
+              href: offering-hipaa-hitech.md
+            - name: HITRUST
+              href: offering-hitrust.md
+            - name: MARS-E
+              href: offering-mars-e.md
+            - name: NEN-7510 (Netherlands)
+              href: offering-nen-7510-netherlands.md
+        - name: Manufacturing
+          items: 
+            - name: FDA CFR Title 21 Part 11
+              href: offering-fda-cfr-title-21-part-11.md
+            - name: GxP
+              href: offering-gxp.md
+            - name: TISAX (Germany)
+              href: offering-tisax-germany.md
+        - name: Media
+          items: 
+            - name: CDSA
+              href: offering-cdsa.md
+            - name: DPP (UK)
+              href: offering-dpp-uk.md
+            - name: FACT (UK)
+              href: offering-fact-uk.md
+            - name: MPAA
+              href: offering-mpaa.md
+        - name: Retail
+          items: 
+            - name: 23 NYCRR Part 500
+              href: offering-23-nycrr-part-500.md
+            - name: AFM + DNB (Netherlands)
+              href: offering-afm-dnb-netherlands.md
+            - name: AMF and ACPR (France)
+              href: offering-amf-acpr-france.md
+            - name: CDSA
+              href: offering-cdsa.md
+            - name: CIS Benchmark
+              href: offering-cis-benchmark.md
+            - name: CSA-STAR attestation
+              href: offering-csa-star-attestation.md
+            - name: DoE 10 CFR Part 810
+              href: offering-doe-10-cfr-part-810.md
+            - name: DPP (UK)
+              href: offering-dpp-uk.md
+            - name: EAR (US Export Admin. Reg.)
+              href: offering-ear.md
+            - name: ENISA IAF (EU)
+              href: offering-enisa.md
+            - name: EU Model Clauses
+              href: offering-eu-model-clauses.md
+            - name: EBA (EU)
+              href: offering-eba-eu.md
+            - name: EU U.S. Privacy Shield
+              href: offering-eu-us-privacy-shield.md
+            - name: FACT (UK)
+              href: offering-fact-uk.md
+            - name: FCA (UK)
+              href: offering-fca-uk.md
+            - name: FFIEC (US)
+              href: offering-ffiec-us.md
+            - name: FINMA (Switzerland)
+              href: offering-finma-switzerland.md
+            - name: GDPR (EU)
+              href: gdpr.md
+            - name: GLBA
+              href: offering-glba.md
+            - name: HITRUST
+              href: offering-hitrust.md
+            - name: IRS 1075
+              href: offering-irs-1075.md
+            - name: ISO 27018
+              href: offering-iso-27018.md
+            - name: ISO-9001
+              href: offering-iso-9001.md
+            - name: ITAR
+              href: offering-itar.md
+            - name: KNF (Poland)
+              href: offering-knf-poland.md
+            - name: MARS-E
+              href: offering-mars-e.md
+            - name: MPAA
+              href: offering-mpaa.md
+            - name: NBB + FSMA (Belgium)
+              href: offering-nbb-fsma-belgium.md
+            - name: NIST CSF
+              href: offering-nist-csf.md
+            - name: PCI DSS
+              href: offering-pci-dss.md
+            - name: Section 508 VPATS
+              href: offering-section-508-vpats.md
+            - name: Shared Assessments
+              href: offering-shared-assessments.md
+            - name: SOC
+              href: offering-soc.md
+            - name: LOPD (Spain)
+              href: offering-lopd-spain.md
+            - name: Cyber Essentials Plus (UK)
+              href: offering-cyber-essentials-plus-uk.md
+            - name: G-Cloud (UK)
+              href: offering-g-cloud-uk.md
+    - name: Regional
+      items: 
+        - name: Asia
+          items: 
+            - name: CS Mark (Gold) (Japan))
+              href: offering-cs-mark-gold-japan.md
+            - name: DJCP (China)
+              href: https://www.trustcenter.cn/compliance/default.html#DJCP
+            - name: GB 18030 (China)
+              href: https://www.trustcenter.cn/compliance/default.html#GB18030
+            - name: ISMS (Korea)
+              href: offering-ISMS-korea.md
+            - name: MeitY (India)
+              href: offering-meity-india.md
+            - name: MTCS (Singapore)
+              href: offering-mtcs-singapore.md
+            - name: My Number (Japan)
+              href: offering-my-number-act-japan.md
+            - name: TRUCS (China)
+              href: https://aka.ms/TRUCS-Compliance
+        - name: Australia / Pacific
+          items: 
+            - name: APRA (Australia)
+              href: offering-APRA-Australia.md
+            - name: IRAP/CCSL (Australia)
+              href: offering-CCSL-IRAP-Australia.md
+            - name: NZ CC Framework (New Zealand)
+              href: offering-nz-cc-framework-nz.md
+        - name: Europe
+          items: 
+            - name: BIR 2012 (Netherlands)
+              href: offering-bir-2012-netherlands.md
+            - name: C5 (Germany)
+              href: offering-c5-germany.md
+            - name: Cyber Essentials Plus (UK)
+              href: offering-cyber-essentials-plus-uk.md
+            - name: EN 301 549 (EU)
+              href: offering-en-301-549-eu.md
+            - name: ENS (Spain)
+              href: offering-ens-spain.md
+            - name: ENISA IAF (EU)
+              href: offering-enisa.md
+            - name: EU Model Clauses
+              href: offering-eu-model-clauses.md
+            - name: EU U.S. Privacy Shield
+              href: offering-eu-us-privacy-shield.md
+            - name: GDPR (EU)
+              href: gdpr.md
+            - name: G-Cloud (UK)
+              href: offering-g-cloud-uk.md
+            - name: IDW PS 951 (Germany)
+              href: https://www.idw.de/the-idw/about-the-idw
+            - name: IT Grundschutz Workbook (Germany)
+              href: offering-it-grundschutz-workbook-germany.md
+            - name: LOPD (Spain)
+              href: offering-lopd-spain.md
+            - name: PASF (UK)
+              href: offering-pasf-uk.md
+            - name: Personal Data Localization (Russia)
+              href: offering-russia-data-localization.md
+        - name: North America
+          items: 
+            - name: California Consumer Privacy Act (CCPA)
+              href: offering-ccpa.md
+            - name: Canadian Privacy Laws
+              href: offering-canadian-privacy-laws.md
+        - name: South America
+          items: 
+            - name: PDPA (Argentina)
+              href: offering-pdpa-argentina.md
 
 - name: General Data Protection Regulation (GDPR)
   items:
