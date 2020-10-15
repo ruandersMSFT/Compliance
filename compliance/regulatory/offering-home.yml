@@ -288,55 +288,55 @@ additionalContent:
         - title: Global
           links:
             - text: CSA-STAR attestation
-              url: file1a.md OR https://docs.microsoft.com/file1a
+              url: offering-csa-star-attestation.md
             - text: CSA-STAR certification
-              url: file1b.md OR https://docs.microsoft.com/file1b
+              url: offering-csa-star-certification.md
             - text: CSA-STAR self-assessment
-              url: file1b.md OR https://docs.microsoft.com/file1b
+              url: offering-csa-star-self-assessment.md
             - text: ISO 27701
-              url: file1b.md OR https://docs.microsoft.com/file1b
+              url: offering-ISO-27701.md
             - text: ISO-9001
-              url: file1b.md OR https://docs.microsoft.com/file1b
+              url: offering-ISO-9001.md
         # Card
         - title: US Government
           links:
             - text: CNSSI 1253
-              url: file2a.md OR https://docs.microsoft.com/file2a
+              url: offering-cnssi-1253.md
         # Card
         - title: Industry
           links:
             - text: CDSA
-              url: file3a.md OR https://docs.microsoft.com/file3a
+              url: offering-cdsa.md
             - text: DPP (UK)
-              url: file3b.md OR https://docs.microsoft.com/file3b
+              url: offering-dpp-uk.md
             - text: FACT (UK)
-              url: file3a.md OR https://docs.microsoft.com/file3a
+              url: offering-fact-uk.md
             - text: FCA (UK)
-              url: file3b.md OR https://docs.microsoft.com/file3b
+              url: offering-fca-uk.md
             - text: MARS-E
-              url: file3a.md OR https://docs.microsoft.com/file3a
+              url: offering-mars-e.md
             - text: MPAA
-              url: file3b.md OR https://docs.microsoft.com/file3b
+              url: offering-mpaa.md
             - text: NERC
-              url: file3a.md OR https://docs.microsoft.com/file3a
+              url: offering-nerc-cip.md
             - text: PCI DSS
-              url: file3b.md OR https://docs.microsoft.com/file3b
+              url: offering-pci-dss.md
             - text: SEC Regulations SCI
-              url: file3b.md OR https://docs.microsoft.com/file3b
+              url: offering-sec-reg-sci.md
             - text: Shared Assessments
-              url: file3a.md OR https://docs.microsoft.com/file3a
+              url: offering-shared-assessments.md
             - text: TISAX (Germany)
-              url: file3b.md OR https://docs.microsoft.com/file3b
+              url: offering-tisax-germany.md
         # Card
         - title: Regional
           links:
             - text: Canadian Privacy Laws
-              url: file3a.md OR https://docs.microsoft.com/file3a
+              url: offering-canadian-privacy-laws.md
             - text: Cyber Essentials Plus (UK)
-              url: file3b.md OR https://docs.microsoft.com/file3b
+              url: offering-cyber-essentials-plus-uk.md
             - text: ENISA IAF (EU)
-              url: file3a.md OR https://docs.microsoft.com/file3a
+              url: offering-enisa.md
             - text: ISMS (Korea)
-              url: file3b.md OR https://docs.microsoft.com/file3b
+              url: offering-ISMS-korea.md
             - text: IT Grundschutz Workbook (Germany)
-              url: file3b.md OR https://docs.microsoft.com/file3b
+              url: offering-it-grundschutz-workbook-germany.md
