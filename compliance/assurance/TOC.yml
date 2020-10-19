@@ -129,7 +129,7 @@
       href: assurance-privacy.md
     - name: Data retention, deletion, and destruction overview
       href: assurance-data-retention-deletion-and-destruction-overview.md
-    - name: Microsoft 365 data deletion
+    - name: Microsoft 365 data destruction
       href: assurance-data-destruction.md
     - name: Microsoft 365 data immutability
       href: assurance-data-immutability.md
