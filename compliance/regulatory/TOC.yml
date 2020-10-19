@@ -10,6 +10,8 @@
           href: offering-csa-star-certification.md
         - name: CSA-STAR self-assessment
           href: offering-csa-star-self-assessment.md
+        - name: ISO - Recommended action plan
+          href: iso-action-plan.md
         - name: ISO 20000-1-2011
           href: offering-iso-20000-1-2011.md
         - name: ISO 22301
@@ -50,6 +52,8 @@
           href: offering-irs-1075.md
         - name: ITAR
           href: offering-itar.md
+        - name: NIST - Recommended action plan
+          href: nist-action-plan.md
         - name: NIST 800-171
           href: offering-nist-sp-800-171.md
         - name: NIST CSF
