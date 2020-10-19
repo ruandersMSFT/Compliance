@@ -294,81 +294,87 @@
     - name: GDPR overview
       href: gdpr.md
     - name: Recommended action plan for GDPR
-      href: https://docs.microsoft.com/
+      href: gdpr-action-plan.md
     - name: Information protection for GDPR
-      href: https://docs.microsoft.com/
+      href: gdpr-information-protection.md
     - name: Microsoft's data protection officer
-      href: https://docs.microsoft.com/
+      href: gdpr-data-protection-officer.md
     - name: Accountability readiness checklists
       items:
         - name: Accountability readiness checklists
-          href: https://docs.microsoft.com/
+          href: gdpr-arc.md
         - name: Azure and Dynamics 365
-          href: https://docs.microsoft.com/
+          href: gdpr-arc-azure-dynamics.md
         - name: Microsoft Support & Professional Services
-          href: https://docs.microsoft.com/
+          href: gdpr-arc-prof-services.md
         - name: Office 365
-          href: https://docs.microsoft.com/
+          href: gdpr-arc-office365.md
     - name: Data subject requests
       items: 
         - name: Data subject requests
-          href: https://docs.microsoft.com/
+          href: gdpr-data-subject-requests.md
         - name: Azure
-          href: https://docs.microsoft.com/
+          href: gdpr-dsr-azure.md
         - name: Azure DevOps services
-          href: https://docs.microsoft.com/
+          href: gdpr-dsr-vsts.md
         - name: Dynamics 365
-          href: https://docs.microsoft.com/
+          href: gdpr-dsr-dynamics365.md
         - name: Intune
-          href: https://docs.microsoft.com/
+          href: gdpr-dsr-intune.md
         - name: Microsoft Support & Professional Services
-          href: https://docs.microsoft.com/
+          href: gdpr-dsr-prof-services.md
         - name: Office 365
-          href: https://docs.microsoft.com/
+          href: gdpr-dsr-office365.md
         - name: Visual Studio family
-          href: https://docs.microsoft.com/
+          href: gdpr-dsr-visual-studio-family.md
+        - name: Windows Enterprise
+          href: gdpr-dsr-windows.md
     - name: Breach notification
       items: 
         - name: Breach notification
-          href: https://docs.microsoft.com/
+          href: gdpr-breach-notification.md
         - name: Azure & Dynamics 365
-          href: https://docs.microsoft.com/
+          href: gdpr-breach-azure-dynamics.md
         - name: Microsoft Support & Professional Services
-          href: https://docs.microsoft.com/
+          href: gdpr-breach-microsoft-support-professional-services.md
         - name: Office 365
-          href: https://docs.microsoft.com/
+          href: gdpr-breach-office365.md
+        - name: Windows Enterprise
+          href: gdpr-breach-windows.md
     - name: Data protection impact statements
       items: 
         - name: Data protection impact assessments
-          href: https://docs.microsoft.com/
+          href: gdpr-data-protection-impact-assessments.md
         - name: Azure
-          href: https://docs.microsoft.com/
+          href: gdpr-dpia-azure.md
         - name: Dynamics 365
-          href: https://docs.microsoft.com/
+          href: gdpr-dpia-dynamics.md
         - name: Microsoft Support & Professional Services
-          href: https://docs.microsoft.com/
+          href: gdpr-dpia-prof-services.md
         - name: Office 365
-          href: https://docs.microsoft.com/
+          href: gdpr-dpia-office365.md
+        - name: Windows Enterprise
+          href: gdpr-dpia-windows.md
     - name: GDPR for on-premises Office servers
       items: 
         - name: GDPR for on-premises Office servers
-          href: https://docs.microsoft.com/
+          href: gdpr-for-office-servers.md
         - name: GDPR for SharePoint Server
-          href: https://docs.microsoft.com/
+          href: gdpr-for-sharepoint-server.md
         - name: GDPR for Exchange Server
-          href: https://docs.microsoft.com/
+          href: gdpr-for-exchange-server.md
         - name: GDPR for Skype for Business Server & Lync Server
-          href: https://docs.microsoft.com/
+          href: gdpr-for-skype-for-business-server.md
         - name: GDPR for Project Server
-          href: chttps://docs.microsoft.com/
+          href: gdpr-for-project-server.md
         - name: GDPR for Office Web Apps Server & Office Online Server
-          href: https://docs.microsoft.com/
+          href: gdpr-for-office-online-server.md
         - name: GDPR for on-premises Windows Server file shares
-          href: chttps://docs.microsoft.com/
+          href: gdpr-for-on-premises-file-shares.md
     - name: Additional steps to export data
-      href: https://docs.microsoft.com/
+      href: gdpr-system-generated-log-data.md
 
 - name: California Consumer Privacy Act (CCPA)
   items: 
     - name: CCPA - Frequently asked questions
-      href: https://docs.microsoft.com/
+      href: ccpa-faq.md
