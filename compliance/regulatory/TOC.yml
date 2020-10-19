@@ -297,6 +297,8 @@
       href: https://docs.microsoft.com/
     - name: Information protection for GDPR
       href: https://docs.microsoft.com/
+    - name: Microsoft's data protection officer
+      href: https://docs.microsoft.com/
     - name: Accountability readiness checklists
       items:
         - name: Accountability readiness checklists
@@ -313,48 +315,40 @@
           href: https://docs.microsoft.com/
         - name: Azure
           href: https://docs.microsoft.com/
-        - name: Azure
-          href: https://docs.microsoft.com/
-        - name: Azure DevOps Services
+        - name: Azure DevOps services
           href: https://docs.microsoft.com/
         - name: Dynamics 365
-          href: chttps://docs.microsoft.com/
+          href: https://docs.microsoft.com/
+        - name: Intune
+          href: https://docs.microsoft.com/
+        - name: Microsoft Support & Professional Services
+          href: https://docs.microsoft.com/
+        - name: Office 365
+          href: https://docs.microsoft.com/
+        - name: Visual Studio family
+          href: https://docs.microsoft.com/
     - name: Breach notification
       items: 
-        - name: Data subject requests
+        - name: Breach notification
           href: https://docs.microsoft.com/
-        - name: Azure
+        - name: Azure & Dynamics 365
           href: https://docs.microsoft.com/
-        - name: Azure
+        - name: Microsoft Support & Professional Services
           href: https://docs.microsoft.com/
-        - name: Azure DevOps Services
+        - name: Office 365
           href: https://docs.microsoft.com/
-        - name: Dynamics 365
-          href: chttps://docs.microsoft.com/
     - name: Data protection impact statements
       items: 
-        - name: Data subject requests
+        - name: Data protection impact assessments
           href: https://docs.microsoft.com/
         - name: Azure
-          href: https://docs.microsoft.com/
-        - name: Azure
-          href: https://docs.microsoft.com/
-        - name: Azure DevOps Services
           href: https://docs.microsoft.com/
         - name: Dynamics 365
-          href: chttps://docs.microsoft.com/
-    - name: Office 365 information protection for GDPR
-      items: 
-        - name: Information protection for GDPR
           href: https://docs.microsoft.com/
-        - name: Overview - Office 365 protection for GDPR
+        - name: Microsoft Support & Professional Services
           href: https://docs.microsoft.com/
-        - name: Search for and find personal data
+        - name: Office 365
           href: https://docs.microsoft.com/
-        - name: ETC
-          href: https://docs.microsoft.com/
-        - name: ETC
-          href: chttps://docs.microsoft.com/
     - name: GDPR for on-premises Office servers
       items: 
         - name: GDPR for on-premises Office servers
@@ -363,10 +357,16 @@
           href: https://docs.microsoft.com/
         - name: GDPR for Exchange Server
           href: https://docs.microsoft.com/
-        - name: ETC
+        - name: GDPR for Skype for Business Server & Lync Server
           href: https://docs.microsoft.com/
-        - name: ETC
+        - name: GDPR for Project Server
           href: chttps://docs.microsoft.com/
+        - name: GDPR for Office Web Apps Server & Office Online Server
+          href: https://docs.microsoft.com/
+        - name: GDPR for on-premises Windows Server file shares
+          href: chttps://docs.microsoft.com/
+    - name: Additional steps to export data
+      href: https://docs.microsoft.com/
 
 - name: California Consumer Privacy Act (CCPA)
   items: 
