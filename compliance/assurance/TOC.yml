@@ -137,6 +137,12 @@
       href: assurance-exchange-online-data-deletion.md
     - name: SharePoint Online data deletion
       href: assurance-sharepoint-online-data-deletion.md
+    - name: Azure customer data protection
+      href: https://docs.microsoft.com/azure/security/fundamentals/protection-customer-data
+    - name: Azure SQL database security
+      href: https://docs.microsoft.com/azure/security/fundamentals/infrastructure-sql
+    - name: Azure security services
+      href: https://docs.microsoft.com/azure/security/fundamentals/services-technologies
 
 - name: Resiliency and continuity
   items:
