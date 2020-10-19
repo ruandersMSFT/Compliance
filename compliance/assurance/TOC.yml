@@ -3,21 +3,21 @@
     - name: Architecture overview
       href: assurance-architecture.md
     - name: Isolation controls
-      href: https://docs.microsoft.com/
+      href: assurance-isolation-controls.md
     - name: Tenant isolation
-      href: https://docs.microsoft.com/
+      href: assurance-tenant-isolation-overview.md
     - name: Isolation and access controls in AAD
-      href: https://docs.microsoft.com/
+      href: assurance-tenant-isolation-in-azure-active-directory.md
     - name: Monitoring and testing tenant boundaries
       href: https://docs.microsoft.com/
     - name: Service isolation and access control
-      href: https://docs.microsoft.com/
+      href: assurance-isolation-in-microsoft-365.md
     - name: Tenant isolation in Microsoft 365 Search
-      href: https://docs.microsoft.com/
+      href: assurance-isolation-in-microsoft-365-search.md
     - name: Tenant Isolation in Office 365 Video
-      href: https://docs.microsoft.com/
+      href: assurance-isolation-in-microsoft-365-video.md
     - name: Tenant isolation in Microsoft Graph and Delve
-      href: https://docs.microsoft.com/
+      href: assurance-isolation-in-graph-and-delve.md
     - name: Azure components and boundaries
       href: https://docs.microsoft.com/azure/security/fundamentals/infrastructure-components
     - name: Azure network architecture
