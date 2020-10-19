@@ -7,7 +7,7 @@
     - name: Tenant isolation
       href: assurance-tenant-isolation-overview.md
     - name: Isolation and access controls in AAD
-      href: assurance-tenant-isolation-in-azure-active-directory.md
+      href: assurance-isolation-in-azure-active-directory.md
     - name: Monitoring and testing tenant boundaries
       href: https://docs.microsoft.com/
     - name: Service isolation and access control
