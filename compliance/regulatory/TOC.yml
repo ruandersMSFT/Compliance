@@ -309,6 +309,8 @@
       items: 
         - name: Data subject requests
           href: gdpr-data-subject-requests.md
+        - name: Manage data subject requests with the DSR case tool
+          href: gdpr-manage-gdpr-data-subject-requests-with-the-dsr-case-tool.md
         - name: Azure
           href: gdpr-dsr-azure.md
         - name: Azure DevOps services
