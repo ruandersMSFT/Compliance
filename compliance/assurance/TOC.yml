@@ -30,15 +30,15 @@
     - name: Audit logging overview
       href: assurance-audit-logging.md
     - name: Access control monitoring and management
-      href: https://docs.microsoft.com/
+      href: assurance-monitoring-and-auditing-access-controls.md
     - name: Cloud services auditing and reporting
-      href: https://docs.microsoft.com/
+      href: assurance-auditing-and-reporting-overview.md
     - name: Reporting features
-      href: https://docs.microsoft.com/
+      href: assurance-reporting-features.md
     - name: eDiscovery and search features
       href: https://docs.microsoft.com/
     - name: Engineering internal logging
-      href: https://docs.microsoft.com/
+      href: assurance-internal-logging.md
     - name: Mailbox migrations
       href: https://docs.microsoft.com/
     - name: Office 365 Management Activity APIs
@@ -75,19 +75,21 @@
   items:
     - name: Human resources overview
       href: assurance-human-resources.md
+    - name: Personnel controls
+      href: assurance-personnel-controls.md
 
 - name: Identity and access management
   items:
     - name: Identity and access management overview
       href: assurance-identity-and-access-management.md
     - name: Administrative access controls
-      href: https://docs.microsoft.com/
+      href: assurance-administrative-access-controls-overview.md
     - name: Personnel controls
       href: https://docs.microsoft.com/
     - name: Technology controls
-      href: https://docs.microsoft.com/
+      href: assurance-technology-controls.md
     - name: Yammer Enterprise access controls
-      href: https://docs.microsoft.com/
+      href: assurance-yammer-enterprise-access-controls.md
     - name: Customer Lockbox
       href: https://docs.microsoft.com/
 
@@ -101,13 +103,13 @@
     - name: Network security overview
       href: assurance-network-security.md
     - name: Denial-of-service defense
-      href: https://docs.microsoft.com/
+      href: assurance-defending-cloud-services-against-dos-attacks.md
     - name: Denial-of-service defense strategy
-      href: https://docs.microsoft.com/
+      href: assurance-dos-defense-strategy.md
     - name: Core denial-of-service defense principles
-      href: https://docs.microsoft.com/
+      href: assurance-core-principles-of-defense-against-dos-attacks.md
     - name: Malware and ransomware protection
-      href: https://docs.microsoft.com/
+      href: assurance-malware-and-ransomware-protection.md
     - name: SharePoint Online virus protection
       href: https://docs.microsoft.com/
     - name: Office 365 Advanced Threat Protection
@@ -125,8 +127,16 @@
   items:
     - name: Privacy overview
       href: assurance-privacy.md
-    - name: Governance in Microsoft 365
-      href: https://docs.microsoft.com/
+    - name: Data retention, deletion, and destruction overview
+      href: assurance-data-retention-deletion-and-destruction-overview.md
+    - name: Microsoft 365 data deletion
+      href: assurance-data-destruction.md
+    - name: Microsoft 365 data immutability
+      href: assurance-data-immutability.md
+    - name: Exchange Online data deletion
+      href: assurance-exchange-online-data-deletion.md
+    - name: SharePoint Online data deletion
+      href: assurance-sharepoint-online-data-deletion.md
 
 - name: Resiliency and continuity
   items:
@@ -135,11 +145,11 @@
     - name: Resource limits
       href: https://docs.microsoft.com/
     - name: Data resiliency
-      href: https://docs.microsoft.com/
+      href: assurance-data-resiliency-overview.md
     - name: Dealing with data corruption
-      href: https://docs.microsoft.com/
+      href: assurance-dealing-with-data-corruption.md
     - name: Exchange Online data resiliency
-      href: https://docs.microsoft.com/
+      href: assurance-exchange-data-resiliency.md
     - name: Data monitoring and self-healing
       href: https://docs.microsoft.com/
     - name: Service health and continuity
