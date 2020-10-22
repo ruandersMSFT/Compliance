@@ -43,7 +43,7 @@ In addition to pre-employment screening, Microsoft employees who provide Microso
 
 All Microsoft employees are required to complete basic security awareness training. Initial training occurs when a new employee begins working at Microsoft, and annual refresher training takes place every year thereafter. The training is designed to provide the employee with an understanding of Microsoft's fundamental approach to security. Applicable role-based security training is also required prior to granting any specific access needed for an individual's job responsibilities. Microsoft employees' security training is refreshed on an annual basis, as well as when system or policy changes warrant new training.
 
-In addition to security awareness training, Microsoft employees must complete Standards of Business Conduct training. This training includes business ethics, employee safety, privacy, anti-harassment, and zero tolerance for non-ethical behavior. At the end of the course, employees must attest that they will abide by the Microsoft code of business conduct, which is tracked at the organization level. Standards of Business Conduct training is refreshed on an annual basis.
+In addition to security awareness training, Microsoft employees must complete Standards of Business Conduct training. This training includes business ethics, employee safety, privacy, anti-harassment, and zero tolerance for non-ethical behavior. At the end of the course, employees must attest that they will abide by the Microsoft code of business conduct, which is tracked at the organization level. The Standards of Business Conduct training is refreshed on an annual basis.
 
 ## How does Microsoft revoke access for employees who leave Microsoft?
 
@@ -57,7 +57,7 @@ Microsoft 365 requires third-party suppliers to have a signed Master Supplier Se
 
 ## Related external regulations & certifications
 
-Microsoft's online services are regularly audited for compliance with external regulations and certifications. Please refer to the following table for validation of controls related to human resources.
+Microsoft's online services are regularly audited for compliance with external regulations and certifications. Refer to the following table for validation of controls related to human resources.
 
 | **External audits** | **Section** | **Latest report date** |
 |:--------------------|:------------|:-----------------------|  
