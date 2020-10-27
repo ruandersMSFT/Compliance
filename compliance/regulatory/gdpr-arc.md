@@ -31,7 +31,7 @@ There is a specific guide for four Microsoft product and services families:
 
 - [Office 365](gdpr-arc-Office365.md)
 - [Dynamics 365](gdpr-arc-Dynamics365.md)
-- [Azure](gdpr-arc-Azure.md)
+- [Azure](gdpr-arc-azure-dynamics.md)
 - [Microsoft Support and Professional Services](gdpr-arc-prof-services.md)
 
 You can manage the items in this checklist with [Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager) by referencing the Control ID and Control Title under Customer Managed Controls in the GDPR tile.
