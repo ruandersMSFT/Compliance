@@ -74,7 +74,7 @@ Here's the high-level process for using the DSR case tool to manage DSR investig
 
 By default, a global administrator can access the DSR case tool in the Security & Compliance Center. By design, other users such as a data privacy officer, a human resources manager, or other people involved in DSR investigations don't have access to the DSR case tool and will have to be assigned the appropriate permissions to access the tool. The easiest way to do this is to go to the **Permissions** page in the Security & Compliance Center and add users to the eDiscovery Manager role group. You also have to assign these permissions so you can add them as members of the DSR case that you create in Step 2. 
   
-For step-by-step instructions, see [Assign eDiscovery permissions in the Office‍ 365 Security & Compliance Center](assign-ediscovery-permissions.md).
+For step-by-step instructions, see [Assign eDiscovery permissions in the Office‍ 365 Security & Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
   
 > [!NOTE]
 > By default, a global administrator (or other members of the Organization Management role group in the Security & Compliance Center don't have the necessary permissions to export Content Search results (see Step 4 in this article). To address this, an admin can add themselves as a member of the eDiscovery Manager role group. 
@@ -152,10 +152,10 @@ participants:"ina@contoso.com" OR author:"Ina Leonte" OR createdby:"Ina Leonte"
     
     When you open the query, the search is started and will complete in a few moments. 
     
-3. When the search is complete, click **Preview results** to preview the search results. For more information, see [Preview search results](content-search.md#preview-search-results).
+3. When the search is complete, click **Preview results** to preview the search results. For more information, see [Preview search results](https://docs.microsoft.com/microsoft-365/compliance/content-search#preview-search-results).
     
     > [!TIP]
-    > You can also view the search query statistics to see the number of mailbox and site items that are returned by the search, and the top content locations that contain items that match the search query. For more information, see [View information and statistics about a search](content-search.md#view-information-and-statistics-about-a-search). 
+    > You can also view the search query statistics to see the number of mailbox and site items that are returned by the search, and the top content locations that contain items that match the search query. For more information, see [View information and statistics about a search](https://docs.microsoft.com/microsoft-365/compliance/content-search#view-information-and-statistics-about-a-search). 
   
 You can edit the built-in search query, change the content locations that are searched, and then rerun the search. See [Step 5](#optional-step-5-revise-the-built-in-search-query) for more information. 
   
@@ -244,7 +244,7 @@ Here are some examples of the conditions that you can add to the built-in search
     
 - **Compliance tag (`compliancetag`)** – Specifies a label assigned to an email message or a document. This condition returns items that are classified with a specific label. Labels are used to classify email and documents for data governance and enforce retention rules based on the classification defined by the label. This is a useful condition for DSR investigations because your organization may be using labels to classify content related to data privacy or that contains personal data or sensitive information. For the value of this condition, use the complete label name or the first part of the label name with a wildcard. For more information, see [Learn about retention policies and retention labels in Office 365](https://docs.microsoft.com/microsoft-365/compliance/retention).
     
-For a list and description of all the conditions available in the DSR case tool, see [Search conditions](keyword-queries-and-search-conditions.md#search-conditions) in the "Keyword queries and search conditions for Content Search" article. 
+For a list and description of all the conditions available in the DSR case tool, see [Search conditions](https://docs.microsoft.com/microsoft-365/compliance/keyword-queries-and-search-conditions#search-conditions) in the "Keyword queries and search conditions for Content Search" article. 
   
 ### Changing the content locations that are searched
 
@@ -271,7 +271,7 @@ To modify the content locations to search:
 3. If you modify the content locations in the built-in search, click **Save &amp; run** to restart the search. 
 
 > [!NOTE]
-> When you search all mailbox locations or just specific mailboxes, data from other Office 365 applications that's saved to user mailboxes is included when you export the results of the search. This data won't be included in the estimated search results and isn't available for preview. But it's included when you export and download the search results. For more information the applications that store data in a user's mailbox, see [Content stored in Exchange Online mailboxes](what-is-stored-in-exo-mailbox.md).
+> When you search all mailbox locations or just specific mailboxes, data from other Office 365 applications that's saved to user mailboxes is included when you export the results of the search. This data won't be included in the estimated search results and isn't available for preview. But it's included when you export and download the search results. For more information the applications that store data in a user's mailbox, see [Content stored in Exchange Online mailboxes](https://docs.microsoft.com/microsoft-365/compliance/what-is-stored-in-exo-mailbox).
   
 ## More information about using the DSR case tool
 
@@ -387,10 +387,10 @@ Here's a high-level process to export partially indexed items. After they're exp
     
 For more information about partially indexed items, see: 
   
-- [Partially indexed items in Content Search in Office 365](partially-indexed-items-in-content-search.md)
+- [Partially indexed items in Content Search in Office 365](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search)
 
 - [Exporting partially indexed items](https://docs.microsoft.com/microsoft-365/compliance/export-search-results#exporting-partially-indexed-items)
-    
+
 ### Searching and exporting data from Microsoft Teams and Microsoft 365 Groups
 
 Conversations that are part of the Chat list in Microsoft Teams (called Team chats or one-to-one chats) are stored in the Exchange Online mailbox of the users who participate in the chats. Also, the files a person shares in a one-to-one chat are stored in the OneDrive account of the person who shares the file. Because the built-in search searches all mailboxes and OneDrive accounts in the organization, team chats and documents shared in a chat session (that the data subject created or uploaded) are returned by built-in search in a DSR case.
@@ -399,7 +399,7 @@ Alternatively, conversations that are part of a Teams channel (also called chann
   
 Similarly, mailboxes and SharePoint sites that correspond to an Microsoft 365 Group are also included in the built-in search. This means that email messages sent or received by the data subject and files created or uploaded by the data subject are returned. 
   
-For more information about using Content Search to search for items in Microsoft Teams and Microsoft 365 Groups or to see how to get a list of members, see the "Searching Microsoft Teams and Microsoft 365 Groups" section in [Content Search in Microsoft 365](content-search.md#searching-microsoft-teams-and-microsoft-365-groups). 
+For more information about using Content Search to search for items in Microsoft Teams and Microsoft 365 Groups or to see how to get a list of members, see the "Searching Microsoft Teams and Microsoft 365 Groups" section in [Content Search in Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/content-search#searching-microsoft-teams-and-microsoft-365-groups). 
   
 ### Searching Exchange public folders
 
