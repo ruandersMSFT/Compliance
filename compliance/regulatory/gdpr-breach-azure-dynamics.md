@@ -34,7 +34,7 @@ Microsoft does not monitor for or respond to security incidents within the custo
 Azure responds to a potential data breach according to the security incident response process, which is a subset of the Microsoft Azure incident management plan. Azure's security incident response is implemented using a five-stage process: Detect, Assess, Diagnose, Stabilize, and Close. The Security Incident Response Team may alternate between the diagnose and stabilize stages as the investigation progresses. An overview of the security incident response process is below:
 
 |**Stage**|**Description**|
-| ------- | ------------- |
+|:------- |------------- |
 | ***1 — Detect*** | First indication of a potential incident. |
 | ***2 — Assess*** | An on-call incident response team member assesses the impact and severity of the event. Based on evidence, the assessment may or may not result in further escalation to the security response team. |
 | ***3 — Diagnose*** | Security response experts conduct the technical or forensic investigation, identify containment, mitigation, and workaround strategies. If the security team believes that customer data may have become exposed to an unlawful or unauthorized individual, execution of the Customer Incident Notification process begins in parallel. |
@@ -58,12 +58,12 @@ Microsoft assigns the investigation appropriate priority and severity levels by 
 
 Microsoft Azure categorizes the information impact of the incident into the following breach categories:
 
-| **Category**             | **Definition**                                                                                                                   |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| ***None***               | No information was exfiltrated, changed, deleted, or otherwise compromised.                                                      |
-| ***Privacy Breach***     | Sensitive personal data of taxpayers, employees, beneficiaries, etc. was accessed or exfiltrated.                                |
+| **Category** | **Definition** |
+|:------------ |:-------------- |
+| ***None*** | No information was exfiltrated, changed, deleted, or otherwise compromised. |
+| ***Privacy Breach*** | Sensitive personal data of taxpayers, employees, beneficiaries, etc. was accessed or exfiltrated. |
 | ***Proprietary Breach*** | Unclassified proprietary information, such as protected critical infrastructure information (PCII), was accessed or exfiltrated. |
-| ***Integrity Loss***     | Sensitive or proprietary information was changed or deleted.                                                                     |
+| ***Integrity Loss*** | Sensitive or proprietary information was changed or deleted. |
 
 The Security Response Team works with Microsoft Azure Security Engineers and SMEs to classify the event based on factual data from the evidence. A security event may be classified as:
 

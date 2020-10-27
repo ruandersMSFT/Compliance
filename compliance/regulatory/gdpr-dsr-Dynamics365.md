@@ -227,9 +227,8 @@ Azure supports this request by enabling your organization to export the data in 
 
 The following table summarizes accessing and exporting system-generated logs:
 
-| | |
+| **Question** | **Answer** |
 |:----|:---|
-| | |
 |**How long does the Microsoft Data Log Export tool take to complete a request?**| This can depend on several factors. In most cases it should complete in one or two days, but it can take up to 30 days. |
 |**What format will the output be in?**| The output will be structured machine-readable files such as XML, CSV, or JSON. |
 |**What data does the Data Log Export tool return?**| The Data Log Export tool returns system-generated logs that Microsoft stores. Exported data will span across various Microsoft services including Office 365, Azure, and Dynamics. |

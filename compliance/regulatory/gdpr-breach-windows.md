@@ -28,7 +28,7 @@ Microsoft data processor service for Windows Enterprise takes its obligations un
 Security is built into the Microsoft data processor service for Windows Enterprise from the ground up, starting with the [Security Development Lifecycle](https://www.microsoft.com/sdl/), a mandatory development process that incorporates privacy-by-design and privacy-by-default methodologies. The guiding principle of Microsoft's security strategy is to 'assume breach', which is an extension of the defense-in-depth strategy. By constantly challenging the security capabilities of the data processor service for Windows Enterprise, Microsoft can stay ahead of emerging threats. For more information on the data processor service for Windows Enterprise security, please review these [resources](https://www.microsoft.com/TrustCenter/Security/windows10-security) the data processor service for Windows Enterprise responds to a potential data breach according to the security incident response process. The data processor service for Windows Enterprise security incident response is implemented using a five-stage process: Detect, Assess, Diagnose, Stabilize, and Close. The Security Incident Response Team may alternate between the diagnose and stabilize stages as the investigation progresses. An overview of the security incident response process is below: 
 
 |**Stage**|**Description**|
-| ------- | ------------- |
+|:------- |:------------- |
 | ***1 — Detect*** | First indication of a potential incident. |
 | ***2 — Assess*** | An on-call incident response team member assesses the impact and severity of the event. Based on evidence, the assessment may or may not result in further escalation to the security response team. |
 | ***3 — Diagnose*** | Security response experts conduct the technical or forensic investigation, identify containment, mitigation, and workaround strategies. If the security team believes that customer data may have become exposed to an unlawful or unauthorized individual, execution of the Customer Incident Notification process begins in parallel. |
@@ -48,12 +48,12 @@ The detection processes used by Microsoft data processor service for Windows Ent
 
  Microsoft assigns the investigation appropriate priority and severity levels by determining the functional impact, recoverability, and information impact of the incident. Both the priority and severity may change over the course of the investigation, based on new findings and conclusions. Security events involving imminent or confirmed risk to customer data are treated as high severity and worked around the clock to resolution. Microsoft data processor service for Windows Enterprise categorizes the information impact of the incident into the following breach categories: 
 
-| **Category**             | **Definition**                                                                                                                   |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
-| ***None***               | No information was removed, changed, deleted, or otherwise compromised. |
-| ***Privacy Breach***     | Sensitive personal data of taxpayers, employees, beneficiaries, etc. was accessed or removed. |
+| **Category** | **Definition** |
+|:------------ |:-------------- |
+| ***None*** | No information was removed, changed, deleted, or otherwise compromised. |
+| ***Privacy Breach*** | Sensitive personal data of taxpayers, employees, beneficiaries, etc. was accessed or removed. |
 | ***Proprietary Breach*** | Unclassified proprietary information, such as protected critical infrastructure information (PCII), was accessed or removed. |
-| ***Integrity Loss***     | Sensitive or proprietary information was changed or deleted. |
+| ***Integrity Loss*** | Sensitive or proprietary information was changed or deleted. |
 
 The Security Response Team works with Microsoft data processor service for Windows Enterprise Security Engineers and SMEs to classify the event based on factual data from the evidence. A security event may be classified as: 
 

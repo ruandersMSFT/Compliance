@@ -20,11 +20,9 @@ titleSuffix: Microsoft GDPR
 
 As part of safeguarding personal information, we recommend the following:
 
--   Use [Retention Tags and Policies](https://technet.microsoft.com/library/dd297955(v=exchg.160).aspx) in Exchange Server to implement an email life cycle policy.
-
--   Deploy [Information Rights Management](https://technet.microsoft.com/library/dd638140(v=exchg.160).aspx) to limit who has access to information stored in Exchange Server.
-
--   Enable [BitLocker encryption](https://blogs.technet.microsoft.com/exchange/2015/10/20/enabling-bitlocker-on-exchange-servers/) on your servers.
+- Use [Retention Tags and Policies](https://technet.microsoft.com/library/dd297955(v=exchg.160).aspx) in Exchange Server to implement an email life cycle policy.
+- Deploy [Information Rights Management](https://technet.microsoft.com/library/dd638140(v=exchg.160).aspx) to limit who has access to information stored in Exchange Server.
+- Enable [BitLocker encryption](https://blogs.technet.microsoft.com/exchange/2015/10/20/enabling-bitlocker-on-exchange-servers/) on your servers.
 
 ## Identifying In-scope Content
 
