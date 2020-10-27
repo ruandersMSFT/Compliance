@@ -20,7 +20,7 @@ description: "This article, provides an overview of the administrative access co
 
 # Administrative access controls in Microsoft 365 
 
-Microsoft has invested heavily in systems and controls that automate most Microsoft 365 operations while intentionally limiting access to customer content by Microsoft. Humans govern the service, and software operates the service. This enables Microsoft to manage Microsoft 365 at scale and manage the risks of internal threats to customer content.
+Microsoft has invested heavily in systems and controls that automate most Microsoft 365 operations while intentionally limiting access to customer content by Microsoft. Humans govern the service, and software operates the service. This structure enables Microsoft to manage Microsoft 365 at scale and manage the risks of internal threats to customer content.
 
 By default, Microsoft engineers have zero standing administrative privileges and zero standing access to customer content in Microsoft 365. A Microsoft engineer can have limited, audited, and secured access to a customer's content for a limited amount of time. Access is only when necessary for service operations and only when approved by a member of Microsoft senior management. For Customer Lockbox licensed customers, the customer provides access approval to their content hosted on Microsoft 365.
 
@@ -46,7 +46,7 @@ For access control purposes, Microsoft categorizes Microsoft 365 data as custome
 
 ### Customer data
 
-Customer data is all data provided by or on behalf of a customer when using Microsoft 365 services. This is customer content directly created or uploaded by Microsoft 365 users, including:
+Customer data is all data provided by or on behalf of a customer when using Microsoft 365 services. This data is customer content directly created or uploaded by Microsoft 365 users, including:
 
 - Emails
 - SharePoint Online content
@@ -72,9 +72,9 @@ There are three categories of access controls used by Microsoft for operating Mi
 - Personnel controls
 - Technology controls
 
-When combined, these controls help prevent and detect malicious actions in Microsoft 365. In addition to the isolation, personnel, and technology controls used by Microsoft, there is a fourth category of controls: those implemented by customers.
+When combined, these controls help prevent and detect malicious actions in Microsoft 365. In addition to the isolation, personnel, and technology controls used by Microsoft, there is a fourth category of controls: those controls implemented by customers.
 
-Microsoft 365 allows you to manage data the same way data is managed in on-premises environments. The person who signs up an organization for Microsoft 365 automatically becomes a global administrator. The global admin has access to all features in management portals and can:
+Microsoft 365 allows you to manage data the same way data is managed in on-premises environments. The person who signs up an organization for Microsoft 365 automatically becomes a global administrator. The global admin has access to all features in Management Portals and can:
 
 - Create or edit users
 - Assign admin roles to others
