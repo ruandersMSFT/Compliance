@@ -55,5 +55,5 @@ Key features include a compliance area that provides administrators with links t
 - [eDiscovery and Search Features](assurance-ediscovery-and-search-features.md)
 - [Microsoft 365 Reporting Features](assurance-reporting-features.md)
 - [Microsoft 365 Management Activity API](assurance-management-activity-api.md)
-- [Microsoft 365 Mailbox Migrations](massurance-mailbox-migrations.md)
+- [Microsoft 365 Mailbox Migrations](assurance-mailbox-migrations.md)
 - [Internal Logging for Microsoft 365 Engineering](assurance-internal-logging.md)
