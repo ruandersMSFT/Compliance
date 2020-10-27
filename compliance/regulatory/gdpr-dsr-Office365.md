@@ -227,7 +227,7 @@ We recommend that you learn more about partially indexed items so that you can w
 
 - [Partially indexed items in Content Search in Office 365](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search)
 - [Investigating partially indexed items in Office 365 eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)
-- [Exporting unindexed items](export-search-results.md)
+- [Exporting unindexed items](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 
 #### Tips for working with partially indexed items
 
@@ -241,7 +241,7 @@ It's possible that data responsive to a DSR investigation may be in a partially 
 
 ##### Export all partially indexed items
 
-You export both the results of a content search and the partially indexed items from the content location that were search. You can also export only the partially indexed items. Then you can open them in their native application and review the content. You have to use this option to export items from SharePoint Online and OneDrive for Business. See [Export Content Search results from the Security & Compliance Center](export-search-results.md).
+You export both the results of a content search and the partially indexed items from the content location that were search. You can also export only the partially indexed items. Then you can open them in their native application and review the content. You have to use this option to export items from SharePoint Online and OneDrive for Business. See [Export Content Search results from the Security & Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
 
 ##### Export a specific set of partially indexed items from mailboxes
 
@@ -443,7 +443,7 @@ To export and download items:
 
 When the export process is complete, you can access the files in the location on your local computer where they were downloaded. Results of a content search are downloaded to a folder named after the Content Search. Documents from sites are copied to a subfolder named **SharePoint**. Mailbox items are copied to subfolder named **Exchange**.
 
-For detailed step-by-step instructions, see [Export Content Search results from the Security & Compliance Center](export-search-results.md).
+For detailed step-by-step instructions, see [Export Content Search results from the Security & Compliance Center](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
 
 ### Downloading documents and lists from SharePoint Online and OneDrive for Business
 

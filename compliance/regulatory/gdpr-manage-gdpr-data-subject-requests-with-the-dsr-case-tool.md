@@ -163,7 +163,7 @@ You can edit the built-in search query, change the content locations that are se
 
 After you run the built-in search, you can export the search results. Alternatively, before you export the data, you may want to revise the query to reduce the number of search results. See Step 5 for more information about narrowing the search results.
   
-When you export search results, mailbox items can be downloaded in PST files or as individual messages. When you export content from SharePoint and OneDrive accounts, copies of native Office documents and other documents are exported. A results file that contains information about every exported item is included with the search results. For more detailed information about exporting, see [Export Content Search results](export-search-results.md).
+When you export search results, mailbox items can be downloaded in PST files or as individual messages. When you export content from SharePoint and OneDrive accounts, copies of native Office documents and other documents are exported. A results file that contains information about every exported item is included with the search results. For more detailed information about exporting, see [Export Content Search results](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
   
 > [!NOTE]
 > By default, a global administrator (or other members of the Organization Management role group in the Security & Compliance Center) don't have the necessary permissions to export Content Search results. To address this, an admin can add themselves as a member of the eDiscovery Manager role group. 
@@ -228,7 +228,7 @@ The computer you use to export data has to meet the following system requirement
   
 13. Click **Start** to download the search results to your computer. 
     
-    The **eDiscovery Export Tool** displays status information about the export process, including an estimate of the number (and size) of the remaining items to be downloaded. When the export process is complete, you can access the files in the location where they were downloaded. For more information about the reports that included when you download Content Search results, see the [More information](export-search-results.md#more-information) section in "Export Content Search results". 
+    The **eDiscovery Export Tool** displays status information about the export process, including an estimate of the number (and size) of the remaining items to be downloaded. When the export process is complete, you can access the files in the location where they were downloaded. For more information about the reports that included when you download Content Search results, see the [More information](https://docs.microsoft.com/microsoft-365/compliance/export-search-results#more-information) section in "Export Content Search results". 
     
 After the data is exported, the search results and export reports are located in a folder that has the same name as the DSR case. The PST files that contain mailbox items are located in a subfolder named **Exchange**. Documents and other items from sites are located in a subfolder named **SharePoint**. 
   
@@ -242,7 +242,7 @@ Here are some examples of the conditions that you can add to the built-in search
     
 - **Message type ( `kind`)** – Specifies the type of email item to search for. For example, you can use the syntax  `kind:email OR kind:im` to return only email messages and Skype for Business conversations or one-to-one chats in Microsoft Teams. 
     
-- **Compliance tag (`compliancetag`)** – Specifies a label assigned to an email message or a document. This condition returns items that are classified with a specific label. Labels are used to classify email and documents for data governance and enforce retention rules based on the classification defined by the label. This is a useful condition for DSR investigations because your organization may be using labels to classify content related to data privacy or that contains personal data or sensitive information. For the value of this condition, use the complete label name or the first part of the label name with a wildcard. For more information, see [Learn about retention policies and retention labels in Office 365](retention.md).
+- **Compliance tag (`compliancetag`)** – Specifies a label assigned to an email message or a document. This condition returns items that are classified with a specific label. Labels are used to classify email and documents for data governance and enforce retention rules based on the classification defined by the label. This is a useful condition for DSR investigations because your organization may be using labels to classify content related to data privacy or that contains personal data or sensitive information. For the value of this condition, use the complete label name or the first part of the label name with a wildcard. For more information, see [Learn about retention policies and retention labels in Office 365](https://docs.microsoft.com/microsoft-365/compliance/retention).
     
 For a list and description of all the conditions available in the DSR case tool, see [Search conditions](keyword-queries-and-search-conditions.md#search-conditions) in the "Keyword queries and search conditions for Content Search" article. 
   
@@ -389,7 +389,7 @@ For more information about partially indexed items, see:
   
 - [Partially indexed items in Content Search in Office 365](partially-indexed-items-in-content-search.md)
 
-- [Exporting partially indexed items](export-search-results.md#exporting-partially-indexed-items)
+- [Exporting partially indexed items](https://docs.microsoft.com/microsoft-365/compliance/export-search-results#exporting-partially-indexed-items)
     
 ### Searching and exporting data from Microsoft Teams and Microsoft 365 Groups
 
