@@ -3,21 +3,11 @@
     - name: Architecture overview
       href: assurance-architecture.md
     - name: Isolation controls
-      href: assurance-isolation-controls.md
+      href: https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-isolation-controls
     - name: Tenant isolation
-      href: assurance-tenant-isolation-overview.md
+      href: https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-isolation-overview
     - name: Isolation and access controls in AAD
-      href: assurance-isolation-in-azure-active-directory.md
-    - name: Monitoring and testing tenant boundaries
-      href: https://docs.microsoft.com/
-    - name: Service isolation and access control
-      href: assurance-isolation-in-microsoft-365.md
-    - name: Tenant isolation in Microsoft 365 Search
-      href: assurance-isolation-in-microsoft-365-search.md
-    - name: Tenant Isolation in Office 365 Video
-      href: assurance-isolation-in-microsoft-365-video.md
-    - name: Tenant isolation in Microsoft Graph and Delve
-      href: assurance-isolation-in-graph-and-delve.md
+      href: https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-isolation-in-azure-active-directory
     - name: Azure components and boundaries
       href: https://docs.microsoft.com/azure/security/fundamentals/infrastructure-components
     - name: Azure network architecture
@@ -57,6 +47,24 @@
   items:
     - name: Encryption and key management overview
       href: assurance-encryption.md
+    - name: Encryption in the Microsoft Cloud
+      href: https://docs.microsoft.com/microsoft-365/compliance/office-365-encryption-in-the-microsoft-cloud-overview
+    - name: Encryption for data in transit
+      href: assurance-encryption-in-transit.md
+    - name: Encryption for Microsoft 365 services
+      href: assurance-encryption-for-microsoft-365-services.md
+    - name: service encryption for data-at-rest
+      href: https://docs.microsoft.com/microsoft-365/compliance/office-365-service-encryption
+    - name: Email encryption
+      href: https://docs.microsoft.com/microsoft-365/compliance/email-encryption
+    - name: How Exchange Online secures your email secrets
+      href: https://docs.microsoft.com/microsoft-365/compliance/exchange-online-secures-email-secrets
+    - name: How Exchange Online uses TLS to secure email connections
+      href: https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections
+    - name: BitLocker and Distributed Key Manager (DKM) for encryption
+      href: https://docs.microsoft.com/microsoft-365/compliance/office-365-bitlocker-and-distributed-key-manager-for-encryption
+    - name: Technical reference details about encryption
+      href: https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption
     - name: Azure data encryption at rest
       href: https://docs.microsoft.com/azure/security/fundamentals/encryption-atrest
     - name: Azure data encryption models
