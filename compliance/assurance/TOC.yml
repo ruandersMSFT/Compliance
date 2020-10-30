@@ -166,6 +166,8 @@
       href: assurance-m365-service-resiliency.md
     - name: Developing your continuity plan
       href: assurance-developing-your-ebcm-plan.md
+    - name: Continuity plan rehearsal and user training
+      href: assurance-ebcm-plan-rehearsal-and-user-training.md
     - name: Service incident mitigation strategies
       href: assurance-microsoft-365-mitigations.md
     - name: Data monitoring and self-healing
