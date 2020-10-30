@@ -32,12 +32,12 @@ If you haven't updated your plans yet this series of topics helps you to plan yo
 
 ## List of topics with links
 
-- [Customer and cloud partner responsibilities](ebcm-customer-and-cloud-partner-ebcm-responsibilities.md)
-- [Microsoft 365 service resiliency](ebcm-m365-service-resiliency.md)
-- [Developing your continuity plan](ebcm-developing-your-ebcm-plan.md)
-- [Microsoft 365 service incident mitigation scenarios](ebcm-microsoft-365-mitigations.md)
-- [Microsoft 365 for business continuity plan training and rehearsal](ebcm-enterprise-business-continuity-management-plan-rehearsal-and-user-training.md)
+- [Customer and cloud partner responsibilities](assurance-customer-and-cloud-partner-ebcm-responsibilities.md)
+- [Microsoft 365 service resiliency](assurance-m365-service-resiliency.md)
+- [Developing your continuity plan](assurance-developing-your-ebcm-plan.md)
+- [Microsoft 365 service incident mitigation scenarios](assurance-microsoft-365-mitigations.md)
+- [Microsoft 365 for business continuity plan training and rehearsal](assurance-enterprise-business-continuity-management-plan-rehearsal-and-user-training.md)
 
 ## See also
 
-- [Enterprise business continuity legal disclaimer](ebcm-legal-disclaimer.md)
+- [Enterprise business continuity legal disclaimer](assurance-legal-disclaimer.md)
