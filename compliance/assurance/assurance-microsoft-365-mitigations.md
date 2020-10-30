@@ -1,21 +1,20 @@
 ---
 title: "Microsoft 365 for enterprise Business Continuity Management Mitigations"
+description: Some sample mitigations for Microsoft 365 service incident scenarios. 
 author: chrfox
-f1.keywords:
-- NOCSH
 ms.author: chrfox
 manager: laurawi
+ms.reviewer: sosstah
 ms.date: 
 audience: ITPro
 ms.topic: article
+f1.keywords:
+- NOCSH
 ms.service: o365-solutions
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Strat_O365_Enterprise
-ms.custom:
-
-description: Some sample mitigations for Microsoft 365 service incident scenarios. 
 ---
 
 # Service incident mitigation strategies

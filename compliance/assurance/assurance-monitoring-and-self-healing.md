@@ -1,8 +1,10 @@
 ---
 title: "Microsoft 365 Monitoring and Self-Healing"
+description: "In this article you will, learn about the monitoring and self-healing capabilities of Microsoft 365."
 ms.author: robmazz
 author: robmazz
 manager: laurawi
+ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
@@ -16,7 +18,6 @@ f1.keywords:
 - NOCSH
 ms.custom:
 - seo-marvel-apr2020
-description: "In this article you will, learn about the monitoring and self-healing capabilities of Microsoft 365."
 ---
 
 # Microsoft 365 Monitoring and Self-Healing

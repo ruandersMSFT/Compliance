@@ -1,15 +1,14 @@
 ---
 title: "Security development and operations"
 description: "Learn about security development and operations in Microsoft 365"
-f1.keywords:
-- NOCSH
 ms.author: robmazz
 author: robmazz
 manager: laurawi
+ms.reviewer: sosstah
 audience: Admin
 ms.topic: article
-f1_keywords:
-- 'ms.o365.cc.SupervisoryReview'
+f1.keywords:
+- NOCSH
 ms.service: O365-seccomp
 localization_priority: Normal
 ms.collection:

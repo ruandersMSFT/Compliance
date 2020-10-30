@@ -1,10 +1,12 @@
 ---
 title: "Encryption for data in transit"
-f1.keywords:
-- NOCSH
+description: In this article, find a brief explanation of how Microsoft encrypts Microsoft 365 customer data in transit.
 ms.author: krowley
 author: kccross
 manager: laurawi
+ms.reviewer: sosstah
+f1.keywords:
+- NOCSH
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
@@ -15,7 +17,6 @@ ms.collection:
 - Strat_O365_Enterprise
 - M365-security-compliance
 - Strat_O365_Enterprise
-description: In this article, find a brief explanation of how Microsoft encrypts Microsoft 365 customer data in transit.
 ms.custom: seo-marvel-apr2020
 ---
 

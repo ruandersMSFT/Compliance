@@ -1,22 +1,21 @@
 ---
 title: "Understanding Enterprise Business Continuity Management with cloud services"
+description: Understand how planning and implementing business continuity looks different when cloud services are part of your IT offering.
 author: chrfox
-f1.keywords:
-- NOCSH
 ms.author: chrfox
 manager: laurawi
+ms.reviewer: sosstah
 ms.date:
 audience: ITPro
 ms.topic: article
+f1.keywords:
+- NOCSH
 ms.service: o365-solutions
 localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Strat_O365_Enterprise
 - remotework
-ms.custom:
-
-description: Understand how planning and implementing business continuity looks different when cloud services are part of your IT offering. 
 ---
 
 # Enterprise business continuity management (EBCM) with cloud services

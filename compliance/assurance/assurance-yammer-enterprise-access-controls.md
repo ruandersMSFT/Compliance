@@ -1,8 +1,10 @@
 ---
 title: "Microsoft 365 Yammer enterprise access controls"
+description: This article contains a brief summary about Yammer Enterprise Access Controls in the production environment.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
+ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
@@ -14,7 +16,6 @@ ms.collection:
 - M365-security-compliance
 f1.keywords:
 - NOCSH
-description: This article contains a brief summary about Yammer Enterprise Access Controls in the production environment.
 ms.custom: seo-marvel-apr2020
 ---
 

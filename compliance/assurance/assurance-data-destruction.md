@@ -1,8 +1,10 @@
 ---
 title: "Microsoft 365 Data Destruction"
+description: "An overview of Microsoft policies about recycling, disposal, or destruction of Microsoft 365 data center disk drives and servers."
 ms.author: robmazz
 author: robmazz
 manager: laurawi
+ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
@@ -14,7 +16,6 @@ ms.collection:
 - M365-security-compliance
 f1.keywords:
 - NOCSH
-description: "An overview of Microsoft policies about recycling, disposal, or destruction of Microsoft 365 data center disk drives and servers."
 ---
 
 # Microsoft 365 Data Destruction

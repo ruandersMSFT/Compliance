@@ -1,8 +1,10 @@
 ---
 title: "Isolation and Access Control in Microsoft 365"
+description: "Summary: An explanation of isolation and access control within the various applications of Microsoft 365."
 ms.author: robmazz
 author: robmazz
 manager: laurawi
+ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
@@ -15,7 +17,6 @@ ms.collection:
 - SPO_Content
 f1.keywords:
 - NOCSH
-description: "Summary: An explanation of isolation and access control within the various applications of Microsoft 365."
 ---
 
 # Isolation and Access Control in Microsoft 365

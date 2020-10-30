@@ -1,11 +1,12 @@
 ---
 title: "Datacenter security"
 description: "Learn about datacenter security in Microsoft 365"
-f1.keywords:
-- NOCSH
 ms.author: robmazz
 author: robmazz
 manager: laurawi
+ms.reviewer: sosstah
+f1.keywords:
+- NOCSH
 audience: Admin
 ms.topic: article
 f1_keywords:

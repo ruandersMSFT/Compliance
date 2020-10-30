@@ -1,8 +1,10 @@
 ---
 title: "Administrative access controls in Microsoft 365"
+description: "This article, provides an overview of the administrative access controls and data categorization in Microsoft 365."
 ms.author: robmazz
 author: robmazz
 manager: laurawi
+ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
@@ -15,7 +17,6 @@ ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
 ms.custom: seo-marvel-apr2020
-description: "This article, provides an overview of the administrative access controls and data categorization in Microsoft 365."
 ---
 
 # Administrative access controls in Microsoft 365 

@@ -1,8 +1,10 @@
 ---
 title: "Microsoft 365 technology controls"
+description: This article provides an overview of the tools and technologies used by Microsoft for technology control in Microsoft 365.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
+ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
@@ -16,7 +18,6 @@ f1.keywords:
 - NOCSH
 ms.custom:
 - seo-marvel-apr2020
-description: This article provides an overview of the tools and technologies used by Microsoft for technology control in Microsoft 365.
 ---
 
 # Microsoft 365 technology controls 

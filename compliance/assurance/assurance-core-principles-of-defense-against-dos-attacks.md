@@ -1,8 +1,10 @@
 ---
 title: "Microsoft 365 core principles of defense against denial-of-service attacks"
+description: "How Microsoft utilizes the core principles of absorption, detection, and mitigation in its defense against denial-of-service (DoS) attacks."
 ms.author: robmazz
 author: robmazz
 manager: laurawi
+ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
@@ -14,7 +16,6 @@ ms.collection:
 - M365-security-compliance
 f1.keywords:
 - NOCSH
-description: "How Microsoft utilizes the core principles of absorption, detection, and mitigation in its defense against denial-of-service (DoS) attacks."
 ---
 
 # Core principles of defense against denial-of-service attacks

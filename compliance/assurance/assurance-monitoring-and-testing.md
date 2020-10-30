@@ -1,8 +1,10 @@
 ---
 title: "Microsoft 365 Monitoring and Testing Tenant Boundaries"
-ms.author: josephd
-author: JoeDavies-MSFT
+description: In this article, learn how Microsoft continuously monitors and tests tenant boundaries for Microsoft 365.
+ms.author: robmazz
+author: robmazz
 manager: laurawi
+ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
@@ -14,7 +16,6 @@ ms.collection:
 - M365-security-compliance
 f1.keywords:
 - NOCSH
-description: In this article, learn how Microsoft continuously monitors and tests tenant boundaries for Microsoft 365.
 ms.custom: seo-marvel-apr2020
 ---
 

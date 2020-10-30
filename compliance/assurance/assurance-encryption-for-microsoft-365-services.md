@@ -1,10 +1,12 @@
 ---
 title: "Encryption for Skype, OneDrive, SharePoint, and Exchange"
-f1.keywords:
-- NOCSH
+description: "Summary: A description of encryption for Skype, OneDrive, SharePoint, Microsoft Teams, and Exchange Online."
 ms.author: krowley
 author: kccross
 manager: laurawi
+ms.reviewer: sosstah
+f1.keywords:
+- NOCSH
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
@@ -16,9 +18,6 @@ ms.collection:
 - M365-security-compliance
 - Strat_O365_Enterprise
 - SPO_Content
-
-description: "Summary: A description of encryption for Skype, OneDrive, SharePoint, Microsoft Teams, and Exchange Online."
-
 ---
 
 # Encryption for Skype for Business, OneDrive for Business, SharePoint Online, Microsoft Teams, and Exchange Online

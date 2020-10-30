@@ -1,8 +1,10 @@
 ---
 title: "Auditing and reporting in Microsoft cloud services"
+description: "An overview of auditing and reporting features within Office 365, Microsoft 365, and Service Assurance."
 ms.author: robmazz
 author: robmazz
 manager: laurawi
+ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
@@ -16,7 +18,6 @@ ms.collection:
 - SPO_Content
 f1.keywords:
 - NOCSH
-description: "An overview of auditing and reporting features within Office 365, Microsoft 365, and Service Assurance."
 ms.custom: seo-marvel-apr2020
 ---
 

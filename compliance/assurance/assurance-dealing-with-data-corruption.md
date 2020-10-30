@@ -1,8 +1,10 @@
 ---
 title: "Microsoft 365 Dealing with Data Corruption"
+description: "This article explains data corruption in Microsoft 365, and efforts taken by Microsoft to prevent and recover data."
 ms.author: robmazz
 author: robmazz
 manager: laurawi
+ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
@@ -15,7 +17,6 @@ ms.collection:
 f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
-description: "This article explains data corruption in Microsoft 365, and efforts taken by Microsoft to prevent and recover data."
 ---
 
 # Dealing with Data Corruption in Microsoft 365

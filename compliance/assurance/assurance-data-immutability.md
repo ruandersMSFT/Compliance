@@ -1,8 +1,10 @@
 ---
 title: "Microsoft 365 Data Immutability"
+description: Learn how Microsoft 365 preserves data in discoverable form to address regulatory compliance, internal governance requirements, and litigation risks.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
+ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
@@ -14,7 +16,6 @@ ms.collection:
 - M365-security-compliance
 f1.keywords:
 - NOCSH
-description: Learn how Microsoft 365 preserves data in discoverable form to address regulatory compliance, internal governance requirements, and litigation risks.
 ms.custom: seo-marvel-apr2020
 ---
 

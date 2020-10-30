@@ -1,9 +1,11 @@
 ---
 title: "Enterprise business continuity management legal disclaimer"
+description: Enterprise business continuity management legal disclaimer
 author: chrfox
+ms.author: chrfox
+ms.reviewer: sosstah
 f1.keywords:
 - NOCSH
-ms.author: chrfox
 manager: laurawi
 audience: ITPro
 ms.topic: article
@@ -12,8 +14,6 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Strat_O365_Enterprise
-
-description: Enterprise business continuity management legal disclaimer 
 ---
 
 # Enterprise business continuity management legal disclaimer

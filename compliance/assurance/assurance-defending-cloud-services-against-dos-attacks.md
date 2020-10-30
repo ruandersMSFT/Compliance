@@ -1,8 +1,10 @@
 ---
 title: "Defending Microsoft 365 cloud services against denial-of-service attacks"
+description: In this article, learn how Microsoft defends its cloud services against denial-of-service (DoS) attacks.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
+ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
@@ -14,7 +16,6 @@ ms.collection:
 - M365-security-compliance
 f1.keywords:
 - NOCSH
-description: In this article, learn how Microsoft defends its cloud services against denial-of-service (DoS) attacks.
 ms.custom: seo-marvel-apr2020
 ---
 

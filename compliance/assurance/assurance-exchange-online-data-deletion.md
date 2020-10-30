@@ -1,8 +1,10 @@
 ---
 title: "Microsoft 365 Exchange Online Data Deletion"
+description: Learn how soft and hard data deletions for mailboxes and items within mailboxes are handled in Exchange Online.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
+ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
@@ -14,7 +16,6 @@ ms.collection:
 - M365-security-compliance
 f1.keywords:
 - NOCSH
-description: Learn how soft and hard data deletions for mailboxes and items within mailboxes are handled in Exchange Online.
 ms.custom: seo-marvel-apr2020
 ---
 

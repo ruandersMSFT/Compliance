@@ -1,10 +1,12 @@
 ---
 title: "Customer and Cloud Partner Enterprise Business Continuity Responsibilities"
+description:  Understand what Microsoft does during a service incident so you can better prepare your business continuity plans.
 author: chrfox
-f1.keywords:
-- NOCSH
 ms.author: chrfox
 manager: laurawi
+ms.reviewer: sosstah
+f1.keywords:
+- NOCSH
 ms.date:
 audience: ITPro
 ms.topic: article
@@ -13,10 +15,8 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Strat_O365_Enterprise
-ms.custom:
-
-description:  Understand what Microsoft does during a service incident so you can better prepare your business continuity plans.
 ---
+
 # Enterprise business continuity management customer and cloud partner responsibilities
 
 Getting Microsoft 365 cloud services to your users is a partnership between your organization and Microsoft. Microsoft provides the services and you are responsible for connecting your client endpoints, managing identity and access and how those services are used. There are shared responsibilities, such as the identity and directory infrastructure as well. This article covers some of the critical items you need to be mindful of to keep your business functioning in the event of a service incident and it helps set expectations as to what Microsoft will do during a service incident.

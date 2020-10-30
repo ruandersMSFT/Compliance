@@ -1,8 +1,10 @@
 ---
 title: "Microsoft 365 SharePoint Online Data Deletion"
+description: Learn how data deletion works in SharePoint Online, such as where deleted content is stored and for how long.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
+ms.reviewer: sosstah
 audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
@@ -15,7 +17,6 @@ ms.collection:
 - SPO_Content
 f1.keywords:
 - NOCSH
-description: Learn how data deletion works in SharePoint Online, such as where deleted content is stored and for how long.
 ms.custom: seo-marvel-apr2020
 ---
 
