@@ -19,7 +19,7 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 ---
 
-# Resource Limits
+# Service resource limits
 
 Resource limits are enforced using quotas (limits) and throttling. Azure Active Directory (Azure AD) and the individual Microsoft 365 services use both. Limits are service-specific and change over time as new capabilities are added. For details on the current limits for the various services, see the following topics:
 

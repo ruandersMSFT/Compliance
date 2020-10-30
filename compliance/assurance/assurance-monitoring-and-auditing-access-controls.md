@@ -18,7 +18,7 @@ f1.keywords:
 - NOCSH
 ---
 
-# Monitoring and Auditing Access Controls in Microsoft 365
+# Monitoring and auditing access controls in Microsoft 365
 
 Microsoft performs extensive monitoring and auditing of all delegation, privileges, and operations that occur within Microsoft 365. Microsoft 365 access control is an automated process built on the principle of least privilege and incorporating data access controls and audits:
 

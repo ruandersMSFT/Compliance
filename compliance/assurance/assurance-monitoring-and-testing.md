@@ -19,7 +19,7 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 ---
 
-# Monitoring and Testing Tenant Boundaries
+# Monitoring and testing tenant boundaries
 
 Microsoft continuously monitors and explicitly tests for weaknesses and vulnerabilities in tenant boundaries, including monitoring for intrusion, permission violation attempts, and resource starvation. We also use multiple internal systems to continuously monitor for inappropriate resource utilization, which if detected, triggers built-in throttling.
 

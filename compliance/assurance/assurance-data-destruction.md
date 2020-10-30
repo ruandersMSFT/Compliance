@@ -18,7 +18,7 @@ f1.keywords:
 - NOCSH
 ---
 
-# Microsoft 365 Data Destruction
+# Microsoft 365 data destruction
 
 ## Physical data destruction
 

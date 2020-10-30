@@ -17,7 +17,7 @@ ms.collection:
 - Strat_O365_Enterprise
 ---
 
-# Developing your continuity plan
+# Developing your business continuity plan
 
 This topic provides guidance on developing a business continuity plan which takes Microsoft 365 dependencies into account. Here we recommend methods for analyzing your business functions and identifying the ones which depend on Microsoft 365 services. You'll perform this analysis with the anticipation that there will be service failures and that you have to prepare for those possibilities.
 

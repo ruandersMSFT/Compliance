@@ -20,7 +20,7 @@ ms.custom:
 - seo-marvel-apr2020
 ---
 
-# Microsoft 365 Monitoring and Self-Healing
+# Microsoft 365 monitoring and self-healing
 
 Given the scale of Microsoft 365, it would be impossible to keep customer data resilient and safe from malware without built-in monitoring that is comprehensive, alerting that is intelligent, and self-healing that is fast and reliable. Monitoring a set of services at the scale of Microsoft 365 is very challenging. New mindsets and methodologies needed to be introduced, and whole new sets of technology needed to be created to operate and manage the service in a connected global environment. We have moved away from the traditional monitoring approach of data collection and filtering to create alerts to an approach that is based on data analysis; taking signals and building confidence in that data and then using automation to recover or resolve the issue. This approach helps take humans out of the recovery equation, which in turn makes operations less expensive, faster, and less error prone. 
 

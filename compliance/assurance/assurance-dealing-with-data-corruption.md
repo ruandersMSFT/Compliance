@@ -19,7 +19,7 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 ---
 
-# Dealing with Data Corruption in Microsoft 365
+# Dealing with data corruption in Microsoft 365
 
 One of the challenging aspects of running a large-scale cloud service is how to handle data corruption, given the large volume of data and independent systems. Data corruption can be caused by:
 

@@ -45,7 +45,7 @@
       href: assurance-encryption-in-transit.md
     - name: Encryption for Microsoft 365 services
       href: assurance-encryption-for-microsoft-365-services.md
-    - name: service encryption for data-at-rest
+    - name: Service encryption for data-at-rest
       href: https://docs.microsoft.com/microsoft-365/compliance/office-365-service-encryption
     - name: Email encryption
       href: https://docs.microsoft.com/microsoft-365/compliance/email-encryption
@@ -67,7 +67,7 @@
     - name: Governance overview
       href: assurance-governance.md
     - name: Service assurance in the Security & Compliance Center
-      href: https://docs.microsoft.com/
+      href: https://docs.microsoft.com/microsoft-365/compliance/service-assurance
     - name: Shared responsibility in the cloud
       href: https://docs.microsoft.com/azure/security/fundamentals/shared-responsibility
 
@@ -86,8 +86,6 @@
       href: assurance-identity-and-access-management.md
     - name: Administrative access controls
       href: assurance-administrative-access-controls-overview.md
-    - name: Personnel controls
-      href: https://docs.microsoft.com/
     - name: Technology controls
       href: assurance-technology-controls.md
     - name: Yammer Enterprise access controls
@@ -107,7 +105,7 @@
     - name: Denial-of-service defense
       href: assurance-defending-cloud-services-against-dos-attacks.md
     - name: Denial-of-service defense strategy
-      href: assurance-dos-defense-strategy.md
+      href: assurance-microsoft-dos-defense-strategy.md
     - name: Core denial-of-service defense principles
       href: assurance-core-principles-of-defense-against-dos-attacks.md
     - name: Malware and ransomware protection
@@ -150,7 +148,7 @@
   items:
     - name: Resiliency and continuity overview
       href: assurance-resiliency-and-continuity.md
-    - name: Resource limits
+    - name: Service resource limits
       href: assurance-resource-limits.md
     - name: Data resiliency
       href: assurance-data-resiliency-overview.md

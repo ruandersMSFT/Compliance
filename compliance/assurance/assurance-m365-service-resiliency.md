@@ -16,7 +16,7 @@ ms.collection:
 - Strat_O365_Enterprise
 ---
 
-# Built in resiliency
+# Built-in service resiliency
 
 As your cloud collaboration provider, Microsoft recognizes the need to continuously earn your trust by providing solutions that function consistently and that your users love. When any given service is unavailable, this is called downtime. The definition of downtime varies for each Microsoft 365 service, but they commonly focus on any period of time when users are unable to use the essential functionality of the service. For example, here's the definition of downtime for SharePoint Online taken from the Microsoft 365 service level agreement:
 
