@@ -25,16 +25,8 @@
       href: assurance-auditing-and-reporting-overview.md
     - name: Reporting features
       href: assurance-reporting-features.md
-    - name: eDiscovery and search features
-      href: https://docs.microsoft.com/
     - name: Engineering internal logging
       href: assurance-internal-logging.md
-    - name: Mailbox migrations
-      href: https://docs.microsoft.com/
-    - name: Office 365 Management Activity APIs
-      href: https://docs.microsoft.com/
-    - name: Microsoft 365 personnel governance
-      href: https://docs.microsoft.com/
 
 - name: Datacenter security
   items:
@@ -83,8 +75,10 @@
   items:
     - name: Human resources overview
       href: assurance-human-resources.md
-    - name: Personnel controls
-      href: assurance-personnel-controls.md
+    - name: Microsoft pre-employment screening
+      href: assurance-pre-employment-screening.md
+    - name: Microsoft cloud background check
+      href: assurance-cloud-background-check.md
 
 - name: Identity and access management
   items:
@@ -99,7 +93,7 @@
     - name: Yammer Enterprise access controls
       href: assurance-yammer-enterprise-access-controls.md
     - name: Customer Lockbox
-      href: https://docs.microsoft.com/
+      href: https://docs.microsoft.com/microsoft-365/compliance/customer-lockbox-requests
 
 - name: Incident management
   items:
@@ -119,7 +113,7 @@
     - name: Malware and ransomware protection
       href: assurance-malware-and-ransomware-protection.md
     - name: SharePoint Online virus protection
-      href: https://docs.microsoft.com/
+      href: https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo
     - name: Office 365 Advanced Threat Protection
       href: https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp
     - name: EOP anti-spam and anti-malware overview

@@ -49,10 +49,6 @@ To the extent permissible by local law the checks include the following:
 - 5-year employment history
 - Global sanctions and enforcement check, including Office of Foreign Assets Control (OFAC) list, Bureau of Industry and Security (BIS) list, and Office of Defense Trade Controls Debarred Persons (DDTC) list checks.
 
-## Periodic re-screening
-
-Periodic re-screening and/or additional background checks may be required for certain management, security, or other roles, including employees in roles that require access to customer data (See Cloud Background Check).
-
 ## Supplier screening
 
 Microsoft requires that Suppliers (contingent staff) conduct pre-placement background checks on all their personnel who will perform services or projects that require any access to Microsoft owned or leased facilities or access to Microsoft resources such as email, network access, cardkey, or other access badges.
