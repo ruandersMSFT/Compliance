@@ -121,13 +121,13 @@
     - name: SharePoint Online virus protection
       href: https://docs.microsoft.com/
     - name: Office 365 Advanced Threat Protection
-      href: https://docs.microsoft.com/
+      href: https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp
     - name: EOP anti-spam and anti-malware overview
-      href: https://docs.microsoft.com/
+      href: https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-and-anti-malware-protection
     - name: EOP anti-spam protection
-      href: https://docs.microsoft.com/
+      href: https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection
     - name: EOP anti-malware protection
-      href: https://docs.microsoft.com/
+      href: https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-malware-protection
     - name: Azure network security
       href: https://docs.microsoft.com/azure/security/fundamentals/production-network
 
@@ -157,21 +157,29 @@
     - name: Resiliency and continuity overview
       href: assurance-resiliency-and-continuity.md
     - name: Resource limits
-      href: https://docs.microsoft.com/
+      href: assurance-resource-limits.md
     - name: Data resiliency
       href: assurance-data-resiliency-overview.md
     - name: Dealing with data corruption
       href: assurance-dealing-with-data-corruption.md
     - name: Exchange Online data resiliency
       href: assurance-exchange-data-resiliency.md
+    - name: Enterprise business continuity management (EBCM) with cloud services
+      href: assurance-understanding-ebcm-with-cloud-services.md
+    - name: Customer and cloud partner EBCM responsibilities
+      href: assurance-customer-and-cloud-partner-ebcm-responsibilities.md
+    - name: Cloud service resiliency
+      href: assurance-m365-service-resiliency.md
+    - name: Developing your continuity plan
+      href: assurance-developing-your-ebcm-plan.md
+    - name: Service incident mitigation strategies
+      href: assurance-microsoft-365-mitigations.md
     - name: Data monitoring and self-healing
-      href: https://docs.microsoft.com/
+      href: assurance-monitoring-and-self-healing.md
+    - name: Data monitoring and testing
+      href: assurance-monitoring-and-testing.md
     - name: Service health and continuity
       href: https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity
-    - name: Cloud services resiliency
-      href: https://docs.microsoft.com/
-    - name: Enterprise business continuity management
-      href: https://docs.microsoft.com/
     - name: Azure infrastructure availability
       href: https://docs.microsoft.com/azure/security/fundamentals/infrastructure-availability
 
