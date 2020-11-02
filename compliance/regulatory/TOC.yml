@@ -375,6 +375,8 @@
           href: gdpr-for-on-premises-file-shares.md
     - name: Additional steps to export data
       href: gdpr-system-generated-log-data.md
+    - name: GDPR for Office 365 dev/test environments
+      href: gdpr-discovery-protection-reporting-in-Office365-dev-test-environment.md
 
 - name: California Consumer Privacy Act (CCPA)
   items: 
