@@ -191,7 +191,7 @@ pilar@contoso.com AND filetype="xlxs"
 
 ***GUI***
 
-![keyword dialog](../media/O365-DSR-Doc_image18.png)
+![keyword dialog example 1](../media/O365-DSR-Doc_image18.png)
 
 ##### Example 2
 
@@ -201,7 +201,7 @@ This example returns Excel or Word files on SharePoint Online sites and OneDrive
 
 ***GUI***
 
-![keyword dialog](../media/O365-DSR-Doc_image19.png)
+![keyword dialog example 2](../media/O365-DSR-Doc_image19.png)
 
 ##### Example 3
 
@@ -213,7 +213,7 @@ This example returns email messages that contain the specified ID number, which 
 
 ***GUI***
 
-![keyword dialog](../media/O365-DSR-Doc_image20.png)
+![keyword dialog example 3](../media/O365-DSR-Doc_image20.png)
 
 #### Working with partially indexed items in Content Search
 

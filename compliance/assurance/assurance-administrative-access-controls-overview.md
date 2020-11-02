@@ -90,7 +90,7 @@ For information about assigning admin roles and permissions, see [Assign admin r
 
 ## Related Links
 
-- [Isolation Controls](assurance-isolation-controls.md)
+- [Isolation in Microsoft 365](assurance-isolation-in-microsoft-365.md)
 - [Microsoft pre-employment screening](assurance-pre-employment-screening.md)
 - [Microsoft cloud background check](assurance-cloud-background-check.md)
 - [Monitoring and Auditing Access Controls](assurance-monitoring-and-auditing-access-controls.md)

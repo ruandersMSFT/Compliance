@@ -1,6 +1,6 @@
 ---
-title: "Microsoft 365 personnel controls"
-description: In this article, you can find an overview of Microsoft personnel screening practices for Microsoft 365.
+title: "Microsoft 365 pre-employment screening"
+description: In this article, you can find an overview of Microsoft pre-employment screening practices for Microsoft 365.
 ms.author: robmazz
 author: robmazz
 manager: laurawi
@@ -19,7 +19,7 @@ f1.keywords:
 ms.custom: seo-marvel-apr2020
 ---
 
-# Microsoft 365 personnel controls
+# Microsoft 365 pre-employment screening
 
 Microsoft works to maintain a safe and secure environment that properly protects our employees, customers, property, personal data, and proprietary information. A comprehensive background screening program is essential for achieving this goal. All candidates for employment and internship are required to satisfactorily complete a background screening prior to commencing employment at Microsoft. Current employees in specific roles may also be subject to periodic re-screening.
 
@@ -29,7 +29,7 @@ The Microsoft Personnel Screening Standard applies to all Microsoft employees, i
 
 The personnel screening practices for Microsoft 365 align with Microsoft's corporate standards and National Institute of Standards and Technology (NIST) controls for personnel screening. Microsoft staff who require access to the following are subject to the Microsoft Personnel Screening Standard:
 
-- Physical access to datacenters, colocations, secured rooms, cages, server racks, or edge sites that provide the infrastructure supporting online services for government or commercial cloud customers.
+- Physical access to datacenters, co-locations, secured rooms, cages, server racks, or edge sites that provide the infrastructure supporting online services for government or commercial cloud customers.
 - Logical access to government or commercial cloud customer data provided through specific managed environments.
 - Network management access to devices and services that transport or store government or commercial cloud customer data.
 

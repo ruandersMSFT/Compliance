@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 personnel controls"
+title: "Microsoft cloud background check"
 description: In this article, you can find an overview of Microsoft personnel screening practices for Microsoft 365.
 ms.author: robmazz
 author: robmazz

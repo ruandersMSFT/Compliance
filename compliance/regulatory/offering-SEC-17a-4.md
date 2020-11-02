@@ -18,7 +18,7 @@ titleSuffix: Microsoft Compliance
 
 # Securities and Exchange Commission (SEC) Rule 17a-4(f) United States
 
-## Microsoft and SEC Rule 17a-4(f)
+## About SEC Rule 17a-4(f)
 
 The [US Securities and Exchange Commission (SEC)](https://www.sec.gov/) is an independent agency of the US federal government and the primary overseer and regulator of US securities markets. It wields enforcement authority over federal securities laws, proposes new securities rules, and oversees market regulation of the securities industry.
 

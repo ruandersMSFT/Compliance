@@ -1,6 +1,6 @@
 ---
 title: Azure Data Subject Requests for the GDPR and CCPA
-description: Learn how to use Microsoft products, services, and admin tools to find and act on personal data to respond to DSRs.
+description: Learn how to use Azure products, services, and admin tools to find and act on personal data to respond to DSRs.
 keywords: Microsoft 365, Microsoft 365 Education, Microsoft 365 documentation, GDPR, CCPA
 localization_priority: Priority
 ms.prod: microsoft-365-enterprise
@@ -147,11 +147,11 @@ You can correct, update, or delete identifiable information about end users, suc
 
 4. On the **All users** blade, select a user from the list, and then, on the blade for the selected user, select **Profile** to view the user profile information that needs to be corrected or updated.
 
-    ![Select profile](../media/gdpr-azure-dsr-azure-user-profile.png)
+    ![Select user profile](../media/gdpr-azure-dsr-azure-user-profile.png)
 
 5. Correct or update the user profile information including work information by selecting **Edit** in the command bar, then select **Save** after making changes.
 
-    ![Select profile](../media/gdpr-azure-dsr-azure-edit-user-profile.png)
+    ![Select edit](../media/gdpr-azure-dsr-azure-edit-user-profile.png)
 
 #### Service-Specific Interfaces
 
