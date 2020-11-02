@@ -66,4 +66,4 @@ Microsoft's online services are regularly audited for compliance with external r
 
 ## Resources
 
-[Supplier Security Privacy and Assurance Program](https://www.microsoft.com/procurement/sspa?activetab=pivot1%3aprimaryr6)
+- [Supplier Security Privacy and Assurance Program](https://www.microsoft.com/procurement/sspa?activetab=pivot1%3aprimaryr6)
