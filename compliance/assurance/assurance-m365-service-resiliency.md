@@ -4,11 +4,12 @@ description: Description of Microsoft 365 Service Resilience
 author: chrfox
 ms.author: chrfox
 manager: laurawi
-icrosoft 365 Service Resilience
-audience: ITPro
-ms.topic: article
+ms.reviewer: sosstah
 f1.keywords:
 - NOCSH
+ms.date: 
+audience: ITPro
+ms.topic: article
 ms.service: o365-solutions
 localization_priority: Normal
 ms.collection: 

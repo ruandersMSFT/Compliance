@@ -15,7 +15,6 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Strat_O365_Enterprise
-
 ---
 
 # Train for business continuity in your organization
