@@ -53,8 +53,8 @@ Microsoft's online services are regularly audited for compliance with external r
 
 | **External audits** | **Section** | **Latest report date** |
 |:--------------------|:------------|:-----------------------|  
-| [FedRAMP (Office 365)](https://aka.ms/compliancemanager) | PE-2: Physical access authorizations <br> PE-3: Physical access control <br> PE-6: Monitoring physical access <br> PE-11: Emergency power <br> PE-13: Fire protection <br> PE-14: Temperature and humidity controls <br> PE-15: Water damage protection | 9/24/2020 |
-| [ISO 27001/27002 (Office 365)](https://aka.ms/o365iso) <br><br> [Statement of Applicability](https://aka.ms/o365isosoa) <br> [Certification](https://aka.ms/Office365ISO27001Cert) | A.11: Physical and environmental security | 2/22/2020 |
-| [ISO 27017 (Office 365)](https://aka.ms/o365iso) <br><br> [Statement of Applicability](https://aka.ms/o365isosoa) <br> [Certification](https://aka.ms/Office365ISO27017Cert) | A.11: Physical and environmental security | 2/22/2020 |
-| [SOC 1 (Office 365)](https://aka.ms/o365soc1type2) | CA-39: Datacenter access controls <br> CA-40: Datacenter network authentication <br> CA-41: Datacenter two-factor authentication <br> CA-48: Datacenter logging | 9/30/2019 |
-| [SOC 2 (Office 365)](https://aka.ms/o365soc2type2) | CA-39: Datacenter access controls <br> CA-40: Datacenter network authentication <br> CA-41: Datacenter two-factor authentication <br> CA-48: Datacenter logging | 9/30/2019 |
+| [FedRAMP (Office 365)](https://aka.ms/compliancemanager) | PE-2: Physical access authorizations <br> PE-3: Physical access control <br> PE-6: Monitoring physical access <br> PE-11: Emergency power <br> PE-13: Fire protection <br> PE-14: Temperature and humidity controls <br> PE-15: Water damage protection | September 24, 2020 |
+| [ISO 27001/27002 (Office 365)](https://aka.ms/o365iso) <br><br> [Statement of Applicability](https://aka.ms/o365isosoa) <br> [Certification](https://aka.ms/Office365ISO27001Cert) | A.11: Physical and environmental security | February 22, 2020 |
+| [ISO 27017 (Office 365)](https://aka.ms/o365iso) <br><br> [Statement of Applicability](https://aka.ms/o365isosoa) <br> [Certification](https://aka.ms/Office365ISO27017Cert) | A.11: Physical and environmental security | February 22, 2020 |
+| [SOC 1 (Office 365)](https://aka.ms/o365soc1type2) | CA-39: Datacenter access controls <br> CA-40: Datacenter network authentication <br> CA-41: Datacenter two-factor authentication <br> CA-48: Datacenter logging | September 30, 2019 |
+| [SOC 2 (Office 365)](https://aka.ms/o365soc2type2) | CA-39: Datacenter access controls <br> CA-40: Datacenter network authentication <br> CA-41: Datacenter two-factor authentication <br> CA-48: Datacenter logging | September 30, 2019 |
