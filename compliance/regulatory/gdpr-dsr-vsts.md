@@ -58,7 +58,7 @@ For MSA identities, if you run into issues while exporting data from the Privacy
 
 ## Learn more
 
-Microsoft is committed to ensuring that your Azure DevOps Services data remains secure and private, without exception. Visit the [Azure DevOps Services data protection overview](/vsts/articles/team-services-security-whitepaper?view=vsts) whitepaper to learn more about how we protect your Azure DevOps Services data.
+Microsoft is committed to ensuring that your Azure DevOps Services data remains secure and private, without exception. Visit the [Azure DevOps Services data protection overview](/vsts/articles/team-services-security-whitepaper) whitepaper to learn more about how we protect your Azure DevOps Services data.
 
 ## See also
 

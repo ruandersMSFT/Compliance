@@ -53,4 +53,3 @@ For more information on expedited de-provisioning, see [Cancel your subscription
 - [Immutability in Office 365](assurance-data-immutability.md)
 - [Exchange Online Data Deletion](assurance-exchange-online-data-deletion.md)
 - [SharePoint Online Data Deletion](assurance-sharepoint-online-data-deletion.md)
-- [Skype for Business Data Deletion](assurance-skype-data-deletion.md)

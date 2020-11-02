@@ -22,15 +22,13 @@ ms.custom: seo-marvel-apr2020
 
 # Encryption for data in transit
 
-In addition to protecting customer data at rest, Microsoft uses encryption technologies to protect customer data in transit. 
-
-Data is in transit:
+In addition to protecting customer data at rest, Microsoft uses encryption technologies to protect customer data in transit. Data is in transit:
 
 - when a client machine communicates with a Microsoft server;
 - when a Microsoft server communicates with another Microsoft server; and
-- when a Microsoft server communicates with a non-Microsoft server (e.g., Exchange Online delivering email to a third-party email server).
+- when a Microsoft server communicates with a non-Microsoft server (for example, Exchange Online delivering email to a third-party email server).
 
-Inter-data center communications between Microsoft servers takes place over TLS or IPsec, and all customer-facing servers negotiate a secure session using TLS with client machines (e.g., Exchange Online uses TLS 1.2 with 256-bit cipher strength is used (FIPS 140-2 Level 2-validated). (See [Technical reference details about encryption](https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption) for a list of TLS cipher suites supported by Office 365.) This applies to the protocols that are used by clients such as Outlook, Skype for Business, Microsoft Teams, and Outlook on the web (e.g., HTTP, POP3, etc.).
+Inter-data center communications between Microsoft servers take place over TLS or IPsec, and all customer-facing servers negotiate a secure session using TLS with client machines (for example, Exchange Online uses TLS 1.2 with 256-bit cipher strength is used (FIPS 140-2 Level 2-validated). (See [Technical reference details about encryption](https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption) for a list of TLS cipher suites supported by Office 365.) This applies to the protocols that are used by clients such as Outlook, Skype for Business, Microsoft Teams, and Outlook on the web (for example, HTTP, POP3, etc.).
 
 The public certificates are issued by Microsoft IT SSL using SSLAdmin, an internal Microsoft tool to protect confidentiality of transmitted information. All certificates issued by Microsoft IT have a minimum of 2048 bits in length, and Webtrust compliance requires SSLAdmin to make sure that certificates are issued only to public IP addresses owned by Microsoft. Any IP addresses that fail to meet this criterion are routed through an exception process.
 
