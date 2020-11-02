@@ -1,5 +1,5 @@
 ---
-title: "Datacenter security"
+title: "Datacenter security overview"
 description: "Learn about datacenter security in Microsoft 365"
 ms.author: robmazz
 author: robmazz
@@ -21,7 +21,7 @@ search.appverid:
 - MOE150
 ---
 
-# Datacenter security
+# Datacenter security overview
 
 ## How does Microsoft host its online services?
 
