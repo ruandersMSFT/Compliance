@@ -21,27 +21,27 @@ search.appverid:
 
 # Resiliency and continuity overview
 
-## How does Microsoft ensure business continuity in the event of a disaster or other threat to service availability?
+## How does Microsoft ensure business continuity in the case of a disaster or other threat to service availability?
 
 Microsoft's Enterprise Business Continuity Management (EBCM) team oversees business continuity management and disaster recovery activities across Microsoft services and cloud offerings. Representatives from Microsoft business units, such as Microsoft 365, coordinate with the EBCM team to develop business continuity plans and validate compliance with business continuity requirements.
 
-At the core of our Business Continuity Management (BCM) methodology is the BCM lifecycle. This three-phase process is designed to be adaptable so it can be implemented by a wide variety of business models across Microsoft. It begins with an **Assessment** phase to identify critical processes and objectives that should be included in the business continuity program. The Assessment phase also requires a Business Impact Analysis (BIA). The **Planning** phase focuses on developing and implementing resilience and recovery strategies, as well as documenting them in official business continuity plans. Finally, **Capability Validation** tests business continuity plans and their implementations to verify effectiveness and identify potential improvements.
+At the core of our Business Continuity Management (BCM) methodology is the BCM lifecycle. This three-phase process is designed to be adaptable so it can be implemented by a wide variety of business models across Microsoft. It begins with an **Assessment** phase to identify critical processes and objectives that should be included in the business continuity program. The Assessment phase also requires a Business Impact Analysis (BIA). The **Planning** phase focuses on developing and implementing resilience and recovery strategies, as well as documenting them in official business continuity plans. Finally, **Capability Validation** tests business continuity plans and their implementations to verify effectiveness and identify potential improvements.
 
-Microsoft 365's business continuity strategy leverages hardware, network, and datacenter redundancy. Data replication between datacenters provides high availability and reliability in the event of a catastrophic incident. It also increases resilience to mundane incidents such as isolated hardware failure or data corruption.
+Microsoft 365's business continuity strategy leverages hardware, network, and datacenter redundancy. Data replication between datacenters provides high availability and reliability in the case of a catastrophic incident. It also increases resilience to mundane incidents such as isolated hardware failure or data corruption.
 
 ## How does Microsoft test business continuity and disaster recovery plans?
 
-Microsoft’s Enterprise Business Continuity Management (EBCM) policy stipulates that all Microsoft business continuity and disaster recovery plans must be tested, updated, and reviewed on an annual basis. Microsoft 365 services test their business continuity plans at least annually per EBCM policies. After Action reports are created and reviewed to validate test results and inform plan updates in response to any problems discovered during testing.
+Microsoft's Enterprise Business Continuity Management (EBCM) policy stipulates that all Microsoft business continuity and disaster recovery plans must be tested, updated, and reviewed on an annual basis. Microsoft 365 services test their business continuity plans at least annually per EBCM policies. After Action reports are created and reviewed to validate,  test results and inform plan updates in response to any problems discovered during testing.
 
-To validate resilience and recovery strategies against a wide range of potential incidents, the EBCM Program defines multiple categories of test scenarios affecting people, locations, and technology. The level of validation required for each service is based on the service’s criticality, with more critical services receiving more rigorous validation. Each Microsoft 365 service team tests their business continuity plan according to EBCM guidelines to measure the plan’s effectiveness and the service team’s readiness to execute the plan.
+To validate resilience and recovery strategies against a wide range of potential incidents, the EBCM Program defines multiple categories of test scenarios affecting people, locations, and technology. The level of validation required for each service is based on the service's criticality, with more critical services receiving more rigorous validation. Each Microsoft 365 service team tests their business continuity plan according to EBCM guidelines to measure the plan's effectiveness and the service team's readiness to execute the plan.
 
 Per EBCM guidelines, annual reviews of business continuity plans and capability validation must take place within 12 months of the last review. Capability validation must include review of supporting documentation, such as the BIA, to ensure it remains accurate. Microsoft makes capability validation results for select Microsoft 365 services available to our customers through quarterly reports.
 
 ## How does Microsoft 365 ensure system capacity meets demand?
 
-Capacity planning helps service teams allocate the resources necessary to support Microsoft 365 service availability. Regular capacity planning is required as part of Microsoft’s EBCM program. Service teams review capacity data during quarterly reviews, as well as during emergency situations that warrant additional capacity review.
+Capacity planning helps service teams allocate the resources necessary to support Microsoft 365 service availability. Regular capacity planning is required as part of Microsoft's EBCM program. Service teams review capacity data during quarterly reviews, as well as during emergency situations that warrant additional capacity review.
 
-The raw data for capacity planning is maintained by each service team and includes metrics like system processing, memory, and hardware capacity. Scheduled reviews use a model of the system’s current capacity and test it against projected needs in emergency situations. If the model indicates gaps in capacity, proposed changes to system capacity are submitted to service team leadership for review. Approved changes are incorporated into a new model before implementation by service team engineers.
+The raw data for capacity planning is maintained by each service team and includes metrics like system processing, memory, and hardware capacity. Scheduled reviews use a model of the system's current capacity and test it against projected needs in emergency situations. If the model indicates gaps in capacity, proposed changes to system capacity are submitted to service team leadership for review. Approved changes are incorporated into a new model before implementation by service team engineers.
 
 ## How does Microsoft 365 maintain service availability during routine system failures?
 
@@ -49,64 +49,17 @@ Microsoft 365 achieves service resilience through redundant architecture, data r
 
 ## Related external regulations & certifications
 
-Microsoft’s online services are regularly audited for compliance with external regulations and certifications. Please refer to the following table for validation of controls related to resiliency and continuity.
+Microsoft's online services are regularly audited for compliance with external regulations and certifications. Refer to the following table for validation of controls related to resiliency and continuity.
 
-<table>
-<thead>
-<tr class="header">
-<th><strong>External audits</strong></th>
-<th><strong>Section</strong></th>
-<th><strong>Latest report date</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="https://sip.compliance.microsoft.com/compliancemanager"><strong>FedRAMP</strong></a></td>
-<td><p><strong>CP-2: Contingency plan</strong></p>
-<p><strong>CP-3: Contingency training</strong></p>
-<p><strong>CP-4: Contingency plan testing</strong></p>
-<p><strong>CP-6: Alternate storage site</strong></p>
-<p><strong>CP-7: Alternate processing site</strong></p>
-<p><strong>CP-9: Information system backup</strong></p>
-<p><strong>CP-10: Information system recovery and reconstitution</strong></p></td>
-<td>9/24/2020</td>
-</tr>
-<tr class="even">
-<td><strong><a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports">ISO 27001/27002</a><br />
-<a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&amp;downloadType=Document&amp;downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&amp;docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports">Statement of Applicability</a><br />
-<a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports">Certification</a></strong></td>
-<td><p><strong>A.17.1: Information security continuity</strong></p>
-<p><strong>A.17.2: Redundancies</strong></p></td>
-<td>2/22/2020</td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=13951eb3-6339-4629-b80d-dd0d43812fe7&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports"><strong>ISO 22301</strong></a></p>
-<p><a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=2bb29cc0-53e7-4a53-a9de-871316e1b80c&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports"><strong>Certification</strong></a></p></td>
-<td><strong>All controls</strong></td>
-<td>3/18/2019</td>
-</tr>
-<tr class="even">
-<td><a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=b07c0f7b-6bd5-4544-8255-7a5f14bf914a&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports"><strong>SOC 1</strong></a></td>
-<td><p><strong>CA-49: Backup policies</strong></p>
-<p><strong>CA-50: Business continuity</strong></p>
-<p><strong>CA-51: Data replication</strong></p></td>
-<td>9/30/2019</td>
-</tr>
-<tr class="odd">
-<td><a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=fa062990-e758-4ddc-ace3-7fb21a301d09&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Rep-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports"><strong>SOC 2</strong></a></td>
-<td><p><strong>CA-49: Backup policies</strong></p>
-<p><strong>CA-50: Business continuity</strong></p>
-<p><strong>CA-51: Data replication</strong></p></td>
-<td>9/30/2019</td>
-</tr>
-<tr class="even">
-<td><a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=9df8b99b-96ce-49a9-bff4-268031dcc9a6&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports"><strong>SOC 3</strong></a></td>
-<td><strong>CUEC-09: EXO email restoration</strong></td>
-<td>9/30/2019</td>
-</tr>
-</tbody>
-</table>
+| **External audits** | **Section** | **Latest report date** |
+|:--------------------|:------------|:-----------------------|
+| [FedRAMP](https://sip.compliance.microsoft.com/compliancemanager) | CP-2: Contingency plan <br> CP-3: Contingency training <br> CP-4: Contingency plan testing <br> CP-6: Alternate storage site <br> CP-7: Alternate processing site <br> CP-9: Information system backup <br> CP-10: Information system recovery and reconstitution | 9/24/2020 |
+| [ISO 27001/27002](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Statement of Applicability](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [Certification](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.17.1: Information security continuity <br> A.17.2: Redundancies | 2/22/2020 |
+| [ISO 22301](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=13951eb3-6339-4629-b80d-dd0d43812fe7&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Certification](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=2bb29cc0-53e7-4a53-a9de-871316e1b80c&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | All controls | 3/18/2019 |
+| [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b07c0f7b-6bd5-4544-8255-7a5f14bf914a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-49: Backup policies <br> CA-50: Business continuity <br> CA-51: Data replication | 9/30/2019 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=fa062990-e758-4ddc-ace3-7fb21a301d09&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Rep-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-49: Backup policies <br> CA-50: Business continuity <br> CA-51: Data replication | 9/30/2019 |
+| [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=9df8b99b-96ce-49a9-bff4-268031dcc9a6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CUEC-09: EXO email restoration | 9/30/2019 |
 
 ## Resources
 
-[Microsoft Cloud – EBCM – Business Continuity and Disaster Recovery Plan Validation Report – FY20 Q4](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=5437a1d9-5883-468b-aee0-8c8a8e4ef56a&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)
+- [Microsoft Cloud EBCM and Disaster Recovery Plan Validation Report: FY20 Q4](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=5437a1d9-5883-468b-aee0-8c8a8e4ef56a&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers)

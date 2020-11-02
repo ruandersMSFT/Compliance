@@ -39,81 +39,27 @@ After an incident is resolved, service teams implement any lessons learned from 
 
 Whenever Microsoft becomes aware of a breach of security involving unauthorized loss, disclosure, or modification of customer data, Microsoft notifies affected customers within 72 hours as outlined in the Data Protection Addendum (DPA) of the Online Services Terms (OST). The notification timeline commitment begins when the official security incident declaration occurs. Upon declaring a security incident, the notification process occurs as expeditiously as possible, without undue delay.
 
-Notifications include a description of the nature of the breach, approximate user impact, and mitigation steps (if applicable). If Microsoft’s investigation is not complete at the time of initial notification, the notification will also indicate next steps and timelines for subsequent communication.
+Notifications include a description of the nature of the breach, approximate user impact, and mitigation steps (if applicable). If Microsoft's investigation is not complete at the time of initial notification, the notification will also indicate next steps and timelines for subsequent communication.
 
 If a customer becomes aware of an incident that could have an impact on Microsoft, including but not limited to a data breach, the customer is responsible for promptly notifying Microsoft of the incident as defined in the DPA.
 
 ## Related external regulations & certifications
 
-Microsoft’s online services are regularly audited for compliance with external regulations and certifications. Please refer to the following table for validation of controls related to incident management.
+Microsoft's online services are regularly audited for compliance with external regulations and certifications. Refer to the following table for validation of controls related to incident management.
 
-<table>
-<thead>
-<tr class="header">
-<th><strong>External audits</strong></th>
-<th><strong>Section</strong></th>
-<th><strong>Latest report date</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="https://sip.compliance.microsoft.com/compliancemanager"><strong>FedRAMP</strong></a></td>
-<td><p><strong>IR-4: Incident handling</strong></p>
-<p><strong>IR-6: Incident reporting</strong></p>
-<p><strong>IR-8: Incident response plan</strong></p></td>
-<td>9/24/2020</td>
-</tr>
-<tr class="even">
-<td><strong><a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports">ISO 27001/27002</a><br />
-<a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&amp;downloadType=Document&amp;downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&amp;docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports">Statement of Applicability</a><br />
-<a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports">Certification</a></strong></td>
-<td><strong>A.16.1: Management of information security incidents and improvements</strong></td>
-<td>2/22/2020</td>
-</tr>
-<tr class="odd">
-<td><strong><a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports">ISO 27017</a><br />
-<a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&amp;downloadType=Document&amp;downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&amp;docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports">Statement of Applicability</a><br />
-<a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=70de0999-5451-43a3-9ef4-761e8fbfb1a3&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports">Certification</a></strong></td>
-<td><strong>A.16.1: Management of information security incidents and improvements</strong></td>
-<td>2/22/2020</td>
-</tr>
-<tr class="even">
-<td><p><a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports"><strong>ISO 27018</strong></a></p>
-<p><a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&amp;downloadType=Document&amp;downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&amp;docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports"><strong>Statement of Applicability</strong></a></p>
-<p><a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports"><strong>Certification</strong></a></p></td>
-<td><strong>A.10.1: Notification of a data breach involving PII</strong></td>
-<td>2/22/2020</td>
-</tr>
-<tr class="odd">
-<td><a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=b07c0f7b-6bd5-4544-8255-7a5f14bf914a&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports"><strong>SOC 1</strong></a></td>
-<td><p><strong>CA-26: Security incident reporting</strong></p>
-<p><strong>CA-47: Incident response</strong></p></td>
-<td>9/30/2019</td>
-</tr>
-<tr class="even">
-<td><a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=fa062990-e758-4ddc-ace3-7fb21a301d09&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Rep-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports"><strong>SOC 2</strong></a></td>
-<td><p><strong>CA-12: Service level agreements (SLAs)</strong></p>
-<p><strong>CA-13: Incident response guides</strong></p>
-<p><strong>CA-15: Service health notifications</strong></p>
-<p><strong>CA-26: Security incident reporting</strong></p>
-<p><strong>CA-29: On-call engineers</strong></p>
-<p><strong>CA-47: Incident response</strong></p></td>
-<td>9/30/2019</td>
-</tr>
-<tr class="odd">
-<td><a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=9df8b99b-96ce-49a9-bff4-268031dcc9a6&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports"><strong>SOC 3</strong></a></td>
-<td><strong>CUEC-08: Reporting incidents</strong></td>
-<td>9/30/2019</td>
-</tr>
-</tbody>
-</table>
+| **External audits** | **Section** | **Latest report date** |
+|:--------------------|:------------|:-----------------------|
+| [FedRAMP](https://sip.compliance.microsoft.com/compliancemanager) | IR-4: Incident handling <br> IR-6: Incident reporting <br> IR-8: Incident response plan | 9/24/2020 |
+| [ISO 27001/27002](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Statement of Applicability](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [Certification](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.16.1: Management of information security incidents and improvements | 2/22/2020 |
+| [ISO 27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Statement of Applicability](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [Certification](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=70de0999-5451-43a3-9ef4-761e8fbfb1a3&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.16.1: Management of information security incidents and improvements | 2/22/2020 |
+| [ISO 27018](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Statement of Applicability](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [Certification](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=43e89534-f48d-42ea-a7a7-3523ff516036&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.10.1: Notification of a data breach involving PII  | 2/22/2020 |
+| [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b07c0f7b-6bd5-4544-8255-7a5f14bf914a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-26: Security incident reporting <br> CA-47: Incident response | 9/30/2019 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=fa062990-e758-4ddc-ace3-7fb21a301d09&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Rep-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-12: Service level agreements (SLAs) <br> CA-13: Incident response guides <br> CA-15: Service health notifications  <br>  <br> CA-26: Security incident reporting <br> CA-29: On-call engineers <br> CA-47: Incident response | 9/30/2019 |
+| [SOC 3](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=9df8b99b-96ce-49a9-bff4-268031dcc9a6&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CUEC-08: Reporting incidents  | 9/30/2019  |
 
 ## Resources
 
-[Online Services Terms (OST)](https://www.microsoft.com/licensing/product-licensing/products)
-
-[Data Protection Addendum (DPA)](https://www.microsoft.com/licensing/product-licensing/products)
-
-Microsoft Cloud – Incident Management Implementation Guidance for Azure and Office 365
-
-[Office 365 - Third-Party Vulnerability Assessment of Office 365 - 2019](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=e85e478f-2491-435d-9c1b-2f0ad7ca8e56&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Pen_Test_and_Security_Assessments)
+- [Online Services Terms (OST)](https://www.microsoft.com/licensing/product-licensing/products)
+- [Data Protection Addendum (DPA)](https://www.microsoft.com/licensing/product-licensing/products)
+- Microsoft Cloud Incident Management Implementation Guidance for Azure and Office 365
+- [Office 365 - Third-Party Vulnerability Assessment of Office 365 - 2019](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=e85e478f-2491-435d-9c1b-2f0ad7ca8e56&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_Pen_Test_and_Security_Assessments)

@@ -1,5 +1,5 @@
 ---
-title: "Security development and operations overivew"
+title: "Security development and operations overview"
 description: "Learn about security development and operations in Microsoft 365"
 ms.author: robmazz
 author: robmazz
@@ -52,61 +52,16 @@ Microsoft engineering teams maintain responsibility for the security of all open
 
 ## Related external regulations & certifications
 
-Microsoft's online services are regularly audited for compliance with external regulations and certifications. Please refer to the following table for validation of controls related to security development and operation.
+Microsoft's online services are regularly audited for compliance with external regulations and certifications. Refer to the following table for validation of controls related to security development and operation.
 
-<table>
-<thead>
-<tr class="header">
-<th><strong>External audits</strong></th>
-<th><strong>Section</strong></th>
-<th><strong>Latest report date</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a href="https://sip.compliance.microsoft.com/compliancemanager"><strong>FedRAMP</strong></a></td>
-<td><strong>SA-3: System Development Life Cycle</strong></td>
-<td>9/24/2020</td>
-</tr>
-<tr class="even">
-<td><a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=b07c0f7b-6bd5-4544-8255-7a5f14bf914a&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports"><strong>SOC 1</strong></a></td>
-<td><p><strong>CA-03: Risk management</strong></p>
-<p><strong>CA-18: Change management</strong></p>
-<p><strong>CA-19: Change monitoring</strong></p>
-<p><strong>CA-21: Change testing</strong></p>
-<p><strong>CA-38: Baseline configurations</strong></p>
-<p><strong>CA-46: Security review</strong></p></td>
-<td>9/30/2019</td>
-</tr>
-<tr class="odd">
-<td><a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=fa062990-e758-4ddc-ace3-7fb21a301d09&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Rep-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports"><strong>SOC 2</strong></a></td>
-<td><p><strong>CA-03: Risk management</strong></p>
-<p><strong>CA-18: Change management</strong></p>
-<p><strong>CA-19: Change monitoring</strong></p>
-<p><strong>CA-21: Change testing</strong></p>
-<p><strong>CA-38: Baseline configurations</strong></p>
-<p><strong>CA-46: Security review</strong></p></td>
-<td>9/30/2019</td>
-</tr>
-<tr class="even">
-<td><strong><a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports">ISO 27001/27002</a><br />
-<a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&amp;downloadType=Document&amp;downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&amp;docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports">Statement of Applicability</a><br />
-<a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports">Certification</a></strong></td>
-<td><p><strong>A.12.1.2: Change management controls</strong></p>
-<p><strong>A.14.2: Security in development and support processes</strong></p></td>
-<td>2/22/2020</td>
-</tr>
-<tr class="odd">
-<td><strong><a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports">ISO 27017</a><br />
-<a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&amp;downloadType=Document&amp;downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&amp;docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports">Statement of Applicability</a><br />
-<a href="https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&amp;downloadType=Document&amp;downloadId=70de0999-5451-43a3-9ef4-761e8fbfb1a3&amp;tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&amp;docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports">Certification</a></strong></td>
-<td><p><strong>A.12.1.2: Change management controls</strong></p>
-<p><strong>A.14.2: Security in development and support processes</strong></p></td>
-<td>2/22/2020</td>
-</tr>
-</tbody>
-</table>
+| **External audits** | **Section** | **Latest report date** |
+|:--------------------|:------------|:-----------------------|
+| [FedRAMP](https://sip.compliance.microsoft.com/compliancemanager) | SA-3: System Development Life Cycle | 9/24/2020 |
+| [ISO 27001/27002](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Statement of Applicability](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [Certification](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=1e84a14a-2468-45ac-9412-5e53250d57ec&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.12.1.2: Change management controls <br> A.14.2: Security in development and support processes | 2/22/2020 |
+| [ISO 27017](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=d7864d4f-e053-4cc4-a964-fa526d07c3be&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) <br><br> [Statement of Applicability](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=8ee1e46b-2ada-4e7b-bb7d-4c55a8cb6fcd&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports) <br> [Certification](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=70de0999-5451-43a3-9ef4-761e8fbfb1a3&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_ISO_Reports) | A.12.1.2: Change management controls <br> A.14.2: Security in development and support processes | 2/22/2020 |
+| [SOC 1](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=b07c0f7b-6bd5-4544-8255-7a5f14bf914a&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-03: Risk management <br> CA-18: Change management <br> CA-19: Change monitoring <br> CA-21: Change testing <br> CA-38: Baseline configurations <br> CA-46: Security review | 9/30/2019 |
+| [SOC 2](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuideV3?command=Download&downloadType=Document&downloadId=fa062990-e758-4ddc-ace3-7fb21a301d09&tab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb&docTab=7027ead0-3d6b-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Rep-11e9-b9e1-290b1eb4cdeb_SOC_/_SSAE_16_Reports) | CA-03: Risk management <br> CA-18: Change management <br> CA-19: Change monitoring <br> CA-21: Change testing <br> CA-38: Baseline configurations <br> CA-46: Security review | 9/30/2019 |
 
 ## Resources
 
-[Microsoft's Security Development Lifecycle](https://www.microsoft.com/securityengineering/sdl)
+- [Microsoft's Security Development Lifecycle](https://www.microsoft.com/securityengineering/sdl)
