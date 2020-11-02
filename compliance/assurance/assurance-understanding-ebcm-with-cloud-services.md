@@ -35,8 +35,8 @@ If you haven't updated your plans yet this series of topics helps you to plan yo
 - [Microsoft 365 service resiliency](assurance-m365-service-resiliency.md)
 - [Developing your continuity plan](assurance-developing-your-ebcm-plan.md)
 - [Microsoft 365 service incident mitigation scenarios](assurance-microsoft-365-mitigations.md)
-- [Microsoft 365 for business continuity plan training and rehearsal](assurance-enterprise-business-continuity-management-plan-rehearsal-and-user-training.md)
+- [Microsoft 365 for business continuity plan training and rehearsal](assurance-ebcm-rehearsal-and-user-training.md)
 
 ## See also
 
-- [Enterprise business continuity legal disclaimer](assurance-legal-disclaimer.md)
+- [Enterprise business continuity legal disclaimer](assurance-ebcm-legal-disclaimer.md)

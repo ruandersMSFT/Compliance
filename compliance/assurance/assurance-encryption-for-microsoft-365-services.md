@@ -77,7 +77,7 @@ In OneDrive for Business and SharePoint Online, there are two scenarios in which
 
 ## Exchange Online
 
-Exchange Online uses BitLocker for all mailbox data, and the BitLocker configuration is described in [BitLocker for Encryption](office-365-bitlocker-and-distributed-key-manager-for-encryption.md). Service-level encryption encrypts all mailbox data at the mailbox level. 
+Exchange Online uses BitLocker for all mailbox data, and the BitLocker configuration is described in [BitLocker for Encryption](https://docs.microsoft.com/microsoft-365/compliance/office-365-bitlocker-and-distributed-key-manager-for-encryption). Service-level encryption encrypts all mailbox data at the mailbox level. 
 
 In addition to service-encryption, Microsoft 365 supports Customer Key, which is built on top of service-encryption. Customer Key is a Microsoft-managed key option for Exchange Online service encryption that is also on Microsoft's Roadmap. This method of encryption provides increased protection not afforded by BitLocker because it provides separation of server administrators and the cryptographic keys necessary for decryption of data, and because the encryption is applied directly to the data (in contrast with BitLocker, which applies encryption at the logical disk volume) any customer data copied from an Exchange server remains encrypted.
 
@@ -92,9 +92,8 @@ This table summarizes the protocols used by Teams.
 
 ***Traffic Encryption***
 
-|||
-|:-----|:-----|
 |**Traffic type**|**Encrypted by**|
+|:-----|:-----|
 |Server-to-server|MTLS|
 |Client-to-server (ex. instant messaging and presence)|TLS|
 |Media flows (ex. audio and video sharing of media)|TLS|

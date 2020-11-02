@@ -245,9 +245,3 @@ In this phase, you demonstrate Microsoft 365 reporting based on the DLP policy c
    1. From the Security & Compliance tab of your browser, click **Home**.
    2. Click **Reports** > **Dashboard** > **DLP policy matches**.
    3. Your DLP policy helps identify and protect organization's sensitive information. For example, in the report you will see that the policy identified the document that contains IBANs stored in SharePoint Online.
-
-## See Also
-
-[Office 365 Information Protection for GDPR](office-365-information-protection-for-gdpr.md)
-
-[GDPR for Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/gdpr?toc=/microsoft-365/enterprise/toc.json)
