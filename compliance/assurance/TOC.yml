@@ -13,7 +13,7 @@
     - name: Azure network architecture
       href: https://docs.microsoft.com/azure/security/fundamentals/infrastructure-network
     - name: Isolation in the Azure cloud
-      href: https://docs.microsoft.com/azure/security/fundamentals/isolation-choice
+      href: https://docs.microsoft.com/azure/security/fundamentals/isolation-choices
 
 - name: Audit logging
   items:
