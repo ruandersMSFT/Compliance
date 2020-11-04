@@ -25,7 +25,7 @@
 - name: Datacenter security
   items:
     - name: Datacenter security overview
-      href: assurance-datacenter-security.mdy
+      href: assurance-datacenter-security.md
 
 - name: Encryption and key management
   items:
