@@ -16,6 +16,7 @@ ms.collection:
 - M365-security-compliance
 f1.keywords:
 - NOCSH
+titleSuffix: Microsoft Service Assurance
 ---
 
 # Microsoft 365 data destruction

@@ -17,6 +17,7 @@ ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
 ms.custom: seo-marvel-apr2020
+titleSuffix: Microsoft Service Assurance
 ---
 
 # Administrative access controls in Microsoft 365 

@@ -16,6 +16,7 @@ ms.collection:
 - M365-security-compliance
 f1.keywords:
 - NOCSH
+titleSuffix: Microsoft Service Assurance
 ---
 
 # Core principles of defense against denial-of-service attacks

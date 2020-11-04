@@ -17,6 +17,7 @@ ms.collection:
 f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020
+titleSuffix: Microsoft Service Assurance
 ---
 
 # Immutability in Microsoft 365

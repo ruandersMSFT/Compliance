@@ -15,6 +15,7 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Strat_O365_Enterprise
+titleSuffix: Microsoft Service Assurance
 ---
 
 # Train for business continuity in your organization

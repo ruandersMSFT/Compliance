@@ -14,6 +14,7 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Strat_O365_Enterprise
+titleSuffix: Microsoft Service Assurance
 ---
 
 # Enterprise business continuity management legal disclaimer

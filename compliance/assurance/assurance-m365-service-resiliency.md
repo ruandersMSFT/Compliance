@@ -15,6 +15,7 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Strat_O365_Enterprise
+titleSuffix: Microsoft Service Assurance
 ---
 
 # Built-in service resiliency

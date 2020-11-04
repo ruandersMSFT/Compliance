@@ -18,6 +18,7 @@ ms.collection:
 - M365-security-compliance
 - Strat_O365_Enterprise
 ms.custom: seo-marvel-apr2020
+titleSuffix: Microsoft Service Assurance
 ---
 
 # Encryption for data in transit

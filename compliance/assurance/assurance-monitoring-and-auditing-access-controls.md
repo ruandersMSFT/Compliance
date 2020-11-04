@@ -16,6 +16,7 @@ ms.collection:
 - M365-security-compliance
 f1.keywords:
 - NOCSH
+titleSuffix: Microsoft Service Assurance
 ---
 
 # Monitoring and auditing access controls in Microsoft 365

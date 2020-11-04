@@ -18,6 +18,7 @@ ms.collection:
 - M365-security-compliance
 - Strat_O365_Enterprise
 - SPO_Content
+titleSuffix: Microsoft Service Assurance
 ---
 
 # Encryption for Skype for Business, OneDrive for Business, SharePoint Online, Microsoft Teams, and Exchange Online
@@ -90,8 +91,6 @@ Teams uses TLS and MTLS to encrypt instant messages. All server-to-server traffi
 
 This table summarizes the protocols used by Teams.
 
-***Traffic Encryption***
-
 |**Traffic type**|**Encrypted by**|
 |:-----|:-----|
 |Server-to-server|MTLS|
@@ -99,7 +98,6 @@ This table summarizes the protocols used by Teams.
 |Media flows (ex. audio and video sharing of media)|TLS|
 |Audio and video sharing of media|SRTP/TLS|
 |Signaling|TLS|
-|||
 
 #### Media Encryption
 

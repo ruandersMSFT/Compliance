@@ -17,6 +17,7 @@ ms.collection:
 - SPO_Content
 f1.keywords:
 - NOCSH
+titleSuffix: Microsoft Service Assurance
 ---
 
 # Isolation and access control in Microsoft 365
