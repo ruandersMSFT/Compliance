@@ -20,11 +20,11 @@ titleSuffix: Microsoft Compliance
 
 ## FACT overview
 
-Copyrighted content comes in many forms — pictures, videos, music, contracts, scripts, workflows, art, architecture, and more — and represents the core assets of many businesses. Piracy threatens to undermine the very existence of these businesses through the unlawful distribution of intellectual property for illicit gain or market disruption. As production and post-production workflows increasingly move to the cloud, the black market for intellectual property is similarly moving away from physical media toward online mechanisms.
+Copyrighted content comes in many forms, pictures, videos, music, contracts, scripts, workflows, art, architecture, and more, and represents the core assets of many businesses. Piracy threatens to undermine the very existence of these businesses through the unlawful distribution of intellectual property for illicit gain or market disruption. As production and post-production workflows increasingly move to the cloud, the black market for intellectual property is similarly moving away from physical media toward online mechanisms.
 
 ## Microsoft and Federation Against Copyright Theft (FACT)
 
-To underscore Microsoft’s commitment to protect customers when they entrust such assets to the public cloud, Microsoft Azure has been certified by the Federation Against Copyright Theft (FACT) in the United Kingdom. FACT certification is based on ISO 27001, focusing on physical and digital security, staff screening and training, and access control. The FACT content protection and security program draws on expertise across law enforcement, technology partners, and industry associations to fight copyright infringement and content theft, such as peer-to-peer sharing, illegal disc duplication, and signal theft.
+To underscore Microsoft’s commitment to protect customers when they entrust such assets to the public cloud, Microsoft Azure has been certified by the Federation Against Copyright Theft (FACT) in the United Kingdom. FACT certification is based on ISO 27001, focusing on physical and digital security, staff screening and training, and access control. The FACT content protection and security program incorporates expertise across law enforcement, technology partners, and industry associations to fight copyright infringement and content theft, such as peer-to-peer sharing, illegal disc duplication, and signal theft.
 
 Based on the voluntary submission by Microsoft to a FACT audit, the FACT auditor certified Azure. Azure was the first multi-tenant public cloud service to achieve FACT certification, adding to Azure’s portfolio of media-related certifications, including CDSA certification and a formal assessment by the MPAA.
 

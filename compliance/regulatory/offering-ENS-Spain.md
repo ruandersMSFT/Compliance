@@ -24,7 +24,7 @@ In 2007, the Spanish government enacted Law 11/2007, which established a legal f
 
 The framework applies to all public organizations and government agencies in Spain that purchase cloud services, as well as to providers of information and communications technologies (ICT). It guides these agencies and companies in implementing effective controls for security in the cloud and on premises, in compliance with Spanish and EU security and privacy standards.
 
-The framework establishes core policies and mandatory requirements that both government agencies and their service providers must meet. It defines a set of specific security controls — (many of which align directly with ISO/IEC 27001) — relating to availability, authenticity, integrity, confidentiality, and traceability. The sensitivity of the information — low, intermediate, or high — determines the security measures that must be applied to protect it.
+The framework establishes core policies and mandatory requirements that both government agencies and their service providers must meet. It defines a set of specific security controls, many of which align directly with ISO/IEC 27001, relating to availability, authenticity, integrity, confidentiality, and traceability. The sensitivity of the information, low, intermediate, or high, determines the security measures that must be applied to protect it.
 
 Each government agency is required to adopt a risk-management approach to security, whereby they identify and assess risks, and then apply security controls appropriate to those risks. Service providers, too, must comply with the stringent framework requirements to help ensure that their procedures, technical capacities, and operations are secure and enable agencies to comply with the regulations.
 
@@ -47,15 +47,15 @@ The certification is valid for two years, with an annual surveillance audit.
 
 - [Azure National Security Framework ENS certificate](https://aka.ms/AzureNationalSecurityFrameworkENSCertificate)
 - [Azure Spanish National Security Framework (ENS) Audit Report](https://aka.ms/AzureNationalSecurityFrameworkAuditReport)
-- [Azure Informe Auditoria ENS (Spanish)](https://aka.ms/AzureInformeAuditoriaENS)
-- [Azure National Security Framework Certificado ENS (Spanish)](https://aka.ms/AzureNationalSecurityFrameworkCertificadoENS)
+- [Azure Audit Report ENS (Spanish)](https://aka.ms/AzureInformeAuditoriaENS)
+- [Azure National Security Framework Certificate ENS (Spanish)](https://aka.ms/AzureNationalSecurityFrameworkCertificadoENS)
 
 ### Office 365
 
 - [Office 365 National Security Framework ENS Certificate](https://aka.ms/Office365NationalSecurityFrameworkENSCertificate)
 - [Office 365 Spanish National Security Framework (ENS) Audit Report](https://aka.ms/Office365NationalSecurityFrameworkAuditReport)
-- [Office 365 Informe Auditoria ENS (Spanish)](https://aka.ms/Office365InformeAuditoriaENS)
-- [Office 365 National Security Framework Certificado ENS (Spanish)](https://aka.ms/Office365NationalSecurityFrameworkCertificadoENS)
+- [Office 365 Audit Report ENS (Spanish)](https://aka.ms/Office365InformeAuditoriaENS)
+- [Office 365 National Security Framework Certificate ENS (Spanish)](https://aka.ms/Office365NationalSecurityFrameworkCertificadoENS)
 
 ## Frequently asked questions
 

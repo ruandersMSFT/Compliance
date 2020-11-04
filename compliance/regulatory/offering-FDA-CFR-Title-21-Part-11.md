@@ -24,7 +24,7 @@ The Code of Federal Regulations (CFR) contains the rules and regulations for exe
 
 [FDA CFR Title 21](https://aka.ms/FDA-CFR) regulates food and drugs manufactured or consumed in the United States, under the jurisdiction of the Food and Drug Administration (FDA), the Drug Enforcement Administration, and the Office of National Drug Control Policy. The regulations outlined in CFR Title 21 Part 11 set the ground rules for the technology systems that manage information used by organizations subject to FDA oversight. Any technology system that governs such GxP processes as Good Laboratory Practices (GLP), Good Clinical Practices (GCP), and Good Manufacturing Practices (GMP) also requires validation of its adherence to GxP.
 
-CFR Title 21 Part 11 sets requirements to ensure that electronic records and signatures are trustworthy, reliable, and generally equivalent substitutes for paper records and handwritten signatures. It also offers guidelines to improve the security of computer systems in FDA-regulated industries. Subject companies must prove that their processes and products work as they are designed to, and if these process and products change, they must revalidate that proof. The best practices guidelines cover:
+CFR Title 21 Part 11 sets requirements to ensure that electronic records and signatures are trustworthy, reliable, and equivalent substitutes for paper records and handwritten signatures. It also offers guidelines to improve the security of computer systems in FDA-regulated industries. Subject companies must prove that their processes and products work as they are designed to, and if these process and products change, they must revalidate that proof. The best practices guidelines cover:
 
 - Standard operating procedures and controls that support electronic records and signatures such as data backup, security, and computer system validation.
 - Features that ensure that the computer system is secure, contains audit trails for data values, and ensures the integrity of electronic signatures.
@@ -76,7 +76,7 @@ Yes. The independent third-party compliance reports of the IEC/ISO 27001, ISO/IE
 
 **What are Microsoft's responsibilities for maintaining compliance with this standard?**
 
-Microsoft ensures that its enterprise cloud services meet the terms defined within the governing [Online Services Terms](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31) and applicable Service Level Agreements (SLAs). These define our responsibility for implementing and maintaining controls adequate to secure and monitor the system.
+Microsoft ensures that its enterprise cloud services meet the terms defined within the governing [Online Services Terms](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=31) and applicable Service Level Agreements (SLAs). These terms define our responsibility for implementing and maintaining controls adequate to secure and monitor the system.
 
 ## Use Microsoft Compliance Manager to assess your risk
 

@@ -24,7 +24,7 @@ The [Commodity Futures Trading Commission](https://www.cftc.gov/) (CFTC), an ind
   
 The long-standing CFTC Rule 1.31 defines records retention requirements established by SEC Rule 17a-4(f). In addition, it specifies that electronic records must be maintained for five years and that the originals be kept “readily accessible” during the first two years and made available for inspection by the Commission or the US Department of Justice during the entire retention period.  
   
-In 2017, the [CFTC revised its rule](https://www.cftc.gov/sites/default/files/idc/groups/public/@lrfederalregister/documents/file/2017-11014a.pdf), amending and modernizing its recordkeeping regulation to adopt less prescriptive, principles-based standards that provide greater flexibility in how records can be maintained. This makes the rule more technology neutral, enabling regulated entities to choose the technology most appropriate for their business while maintaining the safeguards that “ensure the reliability of the recordkeeping process.” The revised rule removes the requirement that organizations maintain the original records for two years, but retains the five-year maintenance period, which harmonizes practices for firms regulated by both the CFTC and the SEC.
+In 2017, the [CFTC revised its rule](https://www.cftc.gov/sites/default/files/idc/groups/public/@lrfederalregister/documents/file/2017-11014a.pdf), amending and modernizing its recordkeeping regulation to adopt less prescriptive, principles-based standards that provide greater flexibility in how records can be maintained. This revision makes the rule more technology neutral, enabling regulated entities to choose the technology most appropriate for their business while maintaining the safeguards that “ensure the reliability of the recordkeeping process.” The revised rule removes the requirement that organizations maintain the original records for two years, but retains the five-year maintenance period, which harmonizes practices for firms regulated by both the CFTC and the SEC.
 
 ## Microsoft and CFTC Rule 1.31(c-d)
 
@@ -47,9 +47,9 @@ Archiving in Office 365 helps to preserve a wide range of data, including email,
 
 ## Audits, reports, and certificates
 
-[Azure & CFTC Rule 1.31 — SEC 17a-4(f) & CFTC 1.31(c-d) Compliance Assessment of Azure Storage
+[Azure & CFTC Rule 1.31: SEC 17a-4(f) & CFTC 1.31(c-d) Compliance Assessment of Azure Storage
 
-[Office 365 & CFTC Rule 1.31 — Archiving in Office 365, data retention, and SEC Rule 17a-4 compliance
+[Office 365 & CFTC Rule 1.31: Archiving in Office 365, data retention, and SEC Rule 17a-4 compliance
 
 ## How to implement
 

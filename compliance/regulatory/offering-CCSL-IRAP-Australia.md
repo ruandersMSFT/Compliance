@@ -45,7 +45,7 @@ The assessment of Microsoft's services in Australia covers the four available Az
 
 For each assessment, Microsoft engaged an ACSC-accredited IRAP assessor who examined the security controls and processes used by Microsoft's IT operations team, physical datacenters, intrusion detection, cryptography, cross-domain and network security, access control, and information security risk management of in-scope services. The IRAP assessments found that the Microsoft system architecture is based on sound security principles, and that the applicable Australian Government Information Security Manual (ISM) controls are in place and fully effective within our assessed services.
 
-The risk management framework used by the ISM draws from [National Institute of Standards and Technology (NIST) Special Publication (SP) 800-37 Rev. 2](https://csrc.nist.gov/publications/detail/sp/800-37/rev-2/final), 'Risk Management Framework for Information Systems and Organizations: A System Life Cycle Approach for Security and Privacy.' Within this risk management framework, the identification of risks and selection of security controls can be undertaken using a variety of risk management standards, such as [International Organization for Standardization (ISO) 31000:2018, Risk management - Guidelines](https://www.iso.org/standard/65694.html). Broadly, the risk management framework used by the ISM has six steps:
+The risk management framework used by the ISM draws from [National Institute of Standards and Technology (NIST) Special Publication (SP) 800-37 Rev. 2](https://csrc.nist.gov/publications/detail/sp/800-37/rev-2/final), 'Risk Management Framework for Information Systems and Organizations: A System Life-Cycle Approach for Security and Privacy.' Within this risk management framework, the identification of risks and selection of security controls can be undertaken using a variety of risk management standards, such as [International Organization for Standardization (ISO) 31000:2018, Risk management - Guidelines](https://www.iso.org/standard/65694.html). Broadly, the risk management framework used by the ISM has six steps:
 
 - Define the system
 - Select security controls
@@ -56,7 +56,7 @@ The risk management framework used by the ISM draws from [National Institute of 
 
 As always, additional compensating controls can be implemented on a risk-managed basis by individual agencies prior to agency authorization and subsequent use of these cloud services.
 
-The IRAP assessment of Microsoft's services helps provide assurance to public sector customers in government and their partners that Microsoft has appropriate and effective security controls in place for the processing, storage, and transmission of PROTECTED and below classified information. This includes the majority of government, healthcare, and education data in Australia.
+The IRAP assessment of Microsoft's services helps provide assurance to public sector customers in government and their partners that Microsoft has appropriate and effective security controls in place for the processing, storage, and transmission of PROTECTED and below classified information. This assessment includes the majority of government, healthcare, and education data in Australia.
 
 ## Microsoft in-scope cloud services
 
@@ -67,7 +67,7 @@ The IRAP assessment of Microsoft's services helps provide assurance to public se
 
 **To whom does the IRAP apply?**
 
-IRAP applies to all Australian federal, state, and local government agencies that use cloud services. New Zealand government agencies require compliance with a standard very similar to the Australian Government ISM, so they may also use the IRAP assessments.
+IRAP applies to all Australian federal, state, and local government agencies that use cloud services. New Zealand government agencies require compliance with a standard similar to the Australian Government ISM, so they may also use the IRAP assessments.
 
 **Can I use Microsoft's compliance in my organization's risk assessment and approval process?**
 

@@ -56,7 +56,7 @@ By following the standards of ISO/IEC 27001 and the code of practice embodied in
 - Power Virtual Agents
 - Microsoft Threat Experts
 - Microsoft Stream
-- Windows Defender ATP — Endpoint Detection & Response, Automatic Investigation & Remediation, Secure Score
+- Windows Defender ATP: Endpoint Detection & Response, Automatic Investigation & Remediation, Secure Score
 
 ## Audits, reports, and certificates
 
@@ -67,7 +67,7 @@ Microsoft cloud and commercial technical support services are audited once a yea
 ### Audits and reports
 
 - [Azure, Dynamics 365, and Online Services: ISO27018 Certificate](https://aka.ms/azureiso27018cert)
-- [AAzure, Dynamics 365, and Online Services: ISO27018 Assessment Report](https://aka.ms/azureiso27001report)
+- [Azure, Dynamics 365, and Online Services: ISO27018 Assessment Report](https://aka.ms/azureiso27001report)
 - [Azure Germany: ISO27018 Code of Practice for Protecting Personal Data in the Cloud Certificate](https://servicetrust.microsoft.com/Documents/ComplianceReports?downloadDocument=1&documentId=6a0dab80-8382-4af6-980c-ed2ed9a341c6)
 
 ### Office 365
@@ -83,7 +83,7 @@ Microsoft cloud and commercial technical support services are audited once a yea
 
 **To whom does ISO/IEC 27018 apply?**
 
-This code of practice applies to CSPs that process PII under contract for other organizations. At Microsoft, it also applies to the support of those CSPs.
+This code of practice applies to CSPs that process PII under contract for other organizations. At Microsoft, it also applies to the support of these CSPs.
 
 **What is the difference between 'personal information controllers' and 'personal information processors'?**
 
