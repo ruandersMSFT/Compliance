@@ -8,12 +8,6 @@
       href: https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-isolation-overview
     - name: Isolation and access controls in AAD
       href: https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-isolation-in-azure-active-directory
-    - name: Azure components and boundaries
-      href: https://docs.microsoft.com/azure/security/fundamentals/infrastructure-components
-    - name: Azure network architecture
-      href: https://docs.microsoft.com/azure/security/fundamentals/infrastructure-network
-    - name: Isolation in the Azure cloud
-      href: https://docs.microsoft.com/azure/security/fundamentals/isolation-choices
 
 - name: Audit logging
   items:
@@ -31,9 +25,7 @@
 - name: Datacenter security
   items:
     - name: Datacenter security overview
-      href: assurance-datacenter-security.md
-    - name: Azure physical security
-      href: https://docs.microsoft.com/azure/security/fundamentals/physical-security
+      href: assurance-datacenter-security.mdy
 
 - name: Encryption and key management
   items:
@@ -57,10 +49,6 @@
       href: https://docs.microsoft.com/microsoft-365/compliance/office-365-bitlocker-and-distributed-key-manager-for-encryption
     - name: Technical reference details about encryption
       href: https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption
-    - name: Azure data encryption at rest
-      href: https://docs.microsoft.com/azure/security/fundamentals/encryption-atrest
-    - name: Azure data encryption models
-      href: https://docs.microsoft.com/azure/security/fundamentals/encryption-models
 
 - name: Governance
   items:
@@ -114,14 +102,6 @@
       href: https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo
     - name: Office 365 Advanced Threat Protection
       href: https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp
-    - name: EOP anti-spam and anti-malware overview
-      href: https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-and-anti-malware-protection
-    - name: EOP anti-spam protection
-      href: https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection
-    - name: EOP anti-malware protection
-      href: https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-malware-protection
-    - name: Azure network security
-      href: https://docs.microsoft.com/azure/security/fundamentals/production-network
 
 - name: Privacy
   items:
@@ -137,12 +117,6 @@
       href: assurance-exchange-online-data-deletion.md
     - name: SharePoint Online data deletion
       href: assurance-sharepoint-online-data-deletion.md
-    - name: Azure customer data protection
-      href: https://docs.microsoft.com/azure/security/fundamentals/protection-customer-data
-    - name: Azure SQL database security
-      href: https://docs.microsoft.com/azure/security/fundamentals/infrastructure-sql
-    - name: Azure security services
-      href: https://docs.microsoft.com/azure/security/fundamentals/services-technologies
 
 - name: Resiliency and continuity
   items:
@@ -174,8 +148,6 @@
       href: assurance-monitoring-and-testing.md
     - name: Service health and continuity
       href: https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity
-    - name: Azure infrastructure availability
-      href: https://docs.microsoft.com/azure/security/fundamentals/infrastructure-availability
 
 - name: Risk management
   items:
@@ -186,17 +158,11 @@
   items:
     - name: Security development and operation overview
       href: assurance-security-development-and-operation.md
-    - name: Azure infrastructure integrity
-      href: https://docs.microsoft.com/azure/security/fundamentals/infrastructure-integrity
-    - name: Azure management and operation
-      href: https://docs.microsoft.com/azure/security/fundamentals/infrastructure-operations
 
 - name: Security monitoring
   items:
     - name: Security monitoring overview
       href: assurance-security-monitoring.md
-    - name: Azure infrastructure monitoring
-      href: https://docs.microsoft.com/azure/security/fundamentals/infrastructure-monitoring
 
 - name: Supplier management
   items:
@@ -207,3 +173,8 @@
   items:
     - name: Vulnerability management overview
       href: assurance-vulnerability-management.md
+
+- name: Azure security fundamentals
+  items:
+    - name: Azure security fundamentals
+      href: https://docs.microsoft.com/azure/security/fundamentals/
