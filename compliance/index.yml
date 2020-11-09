@@ -27,34 +27,33 @@ highlightedContent:
       itemType: get-started
       url: https://docs.microsoft.com/microsoft-365/compliance/compliance-quick-tasks
     # Card 2
-    - title: Learn about shared responsibility in the cloud
-      itemType: overview
-      url: https://docs.microsoft.com/azure/security/fundamentals/shared-responsibility
-    # Card 3
-    - title: Learn how Microsoft safeguards customer data
-      itemType: learn
-      url: https://docs.microsoft.com/learn/paths/audit-safeguard-customer-data/
-    # Card 4
-    - title: Manage insider risk in Microsoft 365
-      itemType: learn
-      url: https://docs.microsoft.com/learn/paths/m365-compliance-insider/
-    # Card 5
-    - title: Manage information protection and governance
-      itemType: learn
-      url: https://docs.microsoft.com/learn/paths/m365-compliance-information/
-    # Card 6
     - title: Deploy information protection for data privacy regulations
       itemType: get-started
       url: https://docs.microsoft.com/microsoft-365/solutions/information-protection-deploy
-    # Card 7
-    - title: Learn about Advanced eDiscovery and Advanced Audit
+    # Card 3
+    - title: Learn about shared responsibility in the cloud
+      itemType: overview
+      url: https://docs.microsoft.com/azure/security/fundamentals/shared-responsibility
+    # Card 4
+    - title: Learn how Microsoft safeguards customer data
       itemType: learn
-      url: https://docs.microsoft.com/learn/paths/compliance-discover/
-    # Card 8
+      url: https://docs.microsoft.com/learn/paths/audit-safeguard-customer-data/
+    # Card 5
     - title: Learn about Microsoft Compliance Manager
       itemType: learn
       url: https://docs.microsoft.com/learn/paths/compmgmt/
-
+    # Card 6
+    - title: Manage insider risk in Microsoft 365
+      itemType: learn
+      url: https://docs.microsoft.com/learn/paths/m365-compliance-insider/
+    # Card 7
+    - title: Manage information protection and governance
+      itemType: learn
+      url: https://docs.microsoft.com/learn/paths/m365-compliance-information/
+    # Card 8
+    - title: Learn about Advanced eDiscovery and Advanced Audit
+      itemType: learn
+      url: https://docs.microsoft.com/learn/paths/compliance-discover/
 
 # productDirectory section (optional)
 productDirectory:
