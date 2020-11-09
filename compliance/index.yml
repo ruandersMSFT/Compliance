@@ -46,6 +46,15 @@ highlightedContent:
     - title: Deploy information protection for data privacy regulations
       itemType: get-started
       url: https://docs.microsoft.com/microsoft-365/solutions/information-protection-deploy
+    # Card 7
+    - title: Learn about Advanced eDiscovery and Advanced Audit
+      itemType: learn
+      url: https://docs.microsoft.com/learn/paths/compliance-discover/
+    # Card 8
+    - title: Learn about Microsoft Compliance Manager
+      itemType: learn
+      url: https://docs.microsoft.com/learn/paths/compmgmt/
+
 
 # productDirectory section (optional)
 productDirectory:
