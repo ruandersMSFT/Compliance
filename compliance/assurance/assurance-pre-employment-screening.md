@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 pre-employment screening"
+title: "Microsoft pre-employment screening"
 description: In this article, you can find an overview of Microsoft pre-employment screening practices for Microsoft 365.
 ms.author: robmazz
 author: robmazz
@@ -20,7 +20,7 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 ---
 
-# Microsoft 365 pre-employment screening
+# Microsoft pre-employment screening
 
 Microsoft works to maintain a safe and secure environment that properly protects our employees, customers, property, personal data, and proprietary information. A comprehensive background screening program is essential for achieving this goal. All candidates for employment and internship are required to satisfactorily complete a background screening prior to commencing employment at Microsoft. Current employees in specific roles may also be subject to periodic re-screening.
 

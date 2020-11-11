@@ -1,5 +1,5 @@
 ---
-title: "Encryption for data in transit"
+title: "Encryption for data-in-transit"
 description: In this article, find a brief explanation of how Microsoft encrypts Microsoft 365 customer data in transit.
 ms.author: krowley
 author: kccross
@@ -21,7 +21,7 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 ---
 
-# Encryption for data in transit
+# Encryption for data-in-transit
 
 In addition to protecting customer data at rest, Microsoft uses encryption technologies to protect customer data in transit. Data is in transit:
 

@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Data Immutability"
+title: "Data immutability in Microsoft 365"
 description: Learn how Microsoft 365 preserves data in discoverable form to address regulatory compliance, internal governance requirements, and litigation risks.
 ms.author: robmazz
 author: robmazz
@@ -20,7 +20,7 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 ---
 
-# Immutability in Microsoft 365
+# Data immutability in Microsoft 365
 
 Regulatory compliance, internal governance requirements, or litigation risks require organizations to preserve email and associated data in a discoverable form. All data in the system must be discoverable and none of it can be destroyed or altered. The industry-standard term for this is "immutability."
 

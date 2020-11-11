@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 technology controls"
+title: "Technology controls in Microsoft 365 "
 description: This article provides an overview of the tools and technologies used by Microsoft for technology control in Microsoft 365.
 ms.author: robmazz
 author: robmazz
@@ -21,7 +21,7 @@ ms.custom:
 titleSuffix: Microsoft Service Assurance
 ---
 
-# Microsoft 365 technology controls 
+# Technology controls in Microsoft 365 
 
 Microsoft uses several tools and technologies to control, manage, and audit access to customer data in  its online services. These apply to Exchange Online, SharePoint Online, Lockbox and Customer Lockbox, multi-factor authentication, and more. Yammer uses similar controls described in [Yammer Enterprise Access Controls](assurance-yammer-enterprise-access-controls.md).
 

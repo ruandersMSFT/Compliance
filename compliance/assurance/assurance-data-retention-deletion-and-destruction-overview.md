@@ -1,5 +1,5 @@
 ---
-title: "Data Retention, Deletion, and Destruction in Microsoft 365"
+title: "Data retention, deletion, and destruction in Microsoft 365"
 description: "An overview of Microsoft policies for Microsoft 365 regarding data retention, deletion, and destruction."
 ms.author: robmazz
 author: robmazz

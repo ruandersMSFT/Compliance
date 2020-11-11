@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Monitoring and Testing Tenant Boundaries"
+title: "Attack simulation in Microsoft 365"
 description: In this article, learn how Microsoft continuously monitors and tests tenant boundaries for Microsoft 365.
 ms.author: robmazz
 author: robmazz
@@ -20,7 +20,7 @@ ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 ---
 
-# Monitoring and testing tenant boundaries
+# Attack simulation in Microsoft 365
 
 Microsoft continuously monitors and explicitly tests for weaknesses and vulnerabilities in tenant boundaries, including monitoring for intrusion, permission violation attempts, and resource starvation. We also use multiple internal systems to continuously monitor for inappropriate resource utilization, which if detected, triggers built-in throttling.
 

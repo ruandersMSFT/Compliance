@@ -1,5 +1,5 @@
 ---
-title: "Microsoft 365 Data Destruction"
+title: "Data destruction in Microsoft 365"
 description: "An overview of Microsoft policies about recycling, disposal, or destruction of Microsoft 365 data center disk drives and servers."
 ms.author: robmazz
 author: robmazz
@@ -19,7 +19,7 @@ f1.keywords:
 titleSuffix: Microsoft Service Assurance
 ---
 
-# Microsoft 365 data destruction
+# Data destruction in Microsoft 365
 
 ## Physical data destruction
 
