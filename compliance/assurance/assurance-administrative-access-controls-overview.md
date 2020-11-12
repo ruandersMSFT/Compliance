@@ -16,6 +16,7 @@ f1.keywords:
 ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
+- MS-Compliance
 ms.custom: seo-marvel-apr2020
 titleSuffix: Microsoft Service Assurance
 ---

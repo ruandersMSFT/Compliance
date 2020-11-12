@@ -11,6 +11,7 @@ ms.topic: article
 ms.service: O365-seccomp
 localization_priority: Priority
 titleSuffix: Microsoft GDPR
+ms.collection: MS-Compliance
 ---
 
 # GDPR for Skype for Business Server and Lync Server

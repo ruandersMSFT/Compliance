@@ -15,6 +15,7 @@ audience: itpro
 ms.collection: 
 - GDPR
 - M365-security-compliance
+- MS-Compliance
 ---
 
 # Data processor service for Windows Enterprise Data Subject Requests for the GDPR and CCPA 

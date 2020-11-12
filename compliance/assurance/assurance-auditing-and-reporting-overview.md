@@ -16,6 +16,7 @@ ms.collection:
 - M365-security-compliance
 - M365-analytics
 - SPO_Content
+- MS-Compliance
 f1.keywords:
 - NOCSH
 ms.custom: seo-marvel-apr2020

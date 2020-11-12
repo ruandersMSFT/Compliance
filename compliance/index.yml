@@ -12,10 +12,12 @@ metadata:
   ms.service: service #Required; service per approved list. service slug assigned to your service by ACOM.
   ms.subservice: subservice # Optional; Remove if no subservice is used.
   ms.topic: hub-page # Required
-  ms.collection: collection # Optional; Remove if no collection is used.
+  ms.collection:
+  - M365-security-compliance
+  - MS-Compliance
   author: robmazz #Required; your GitHub user alias, with correct capitalization.
   ms.author: robmazz #Required; microsoft alias of author; optional team alias.
-  ms.date: 10/31/2020 #Required; mm/dd/yyyy format.
+  ms.date: 11/30/2020 #Required; mm/dd/yyyy format.
 
 # highlightedContent section (optional)
 # Maximum of 8 items

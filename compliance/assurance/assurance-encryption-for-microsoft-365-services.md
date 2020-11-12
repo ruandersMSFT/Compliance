@@ -18,6 +18,7 @@ ms.collection:
 - M365-security-compliance
 - Strat_O365_Enterprise
 - SPO_Content
+- MS-Compliance
 titleSuffix: Microsoft Service Assurance
 ---
 

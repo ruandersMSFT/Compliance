@@ -13,6 +13,7 @@ manager: laurawi
 ms.collection: 
 - GDPR
 - M365-security-compliance
+- MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ---

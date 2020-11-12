@@ -14,6 +14,7 @@ audience: itpro
 ms.collection: 
 - GDPR
 - M365-security-compliance
+- MS-Compliance
 hideEdit: true
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020

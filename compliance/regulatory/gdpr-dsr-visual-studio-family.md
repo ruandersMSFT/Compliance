@@ -15,6 +15,7 @@ manager: laurawi
 ms.collection: 
 - GDPR
 - M365-security-compliance
+- MS-Compliance
 ms.workload:
   - "multiple"
 titleSuffix: Microsoft GDPR

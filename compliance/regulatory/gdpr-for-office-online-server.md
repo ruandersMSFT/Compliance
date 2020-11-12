@@ -10,6 +10,7 @@ audience: ITPro
 ms.topic: article
 ms.service: O365-seccomp
 localization_priority: Priority
+ms.collection: MS-Compliance
 ms.custom:
 - seo-marvel-mar2020
 titleSuffix: Microsoft GDPR

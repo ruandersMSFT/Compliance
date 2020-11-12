@@ -16,6 +16,7 @@ ms.collection:
 - Strat_O365_IP
 - M365-security-compliance
 - SPO_Content
+- MS-Compliance
 ms.assetid: ce9eb942-3589-42cb-88fd-1576ecb09c5c
 description: Learn how to manage EU General Data Protection Regulation (GDPR) data subject requests with the DSR case tool.
 ms.custom: seo-marvel-apr2020

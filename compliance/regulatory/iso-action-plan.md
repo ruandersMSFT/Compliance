@@ -13,6 +13,7 @@ manager: laurawi
 audience: itpro
 ms.collection: 
 - M365-security-compliance
+- MS-Compliance
 ms.custom: seo-marvel-apr2020
 ---
 

@@ -12,6 +12,7 @@ ms.service: O365-seccomp
 localization_priority: Priority
 titleSuffix: Microsoft GDPR
 ms.custom: seo-marvel-apr2020
+ms.collection: MS-Compliance
 ---
 
 # GDPR for Project Server

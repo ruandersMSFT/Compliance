@@ -15,6 +15,7 @@ localization_priority: Normal
 ms.collection: 
 - M365-subscription-management
 - Strat_O365_Enterprise
+- MS-Compliance
 titleSuffix: Microsoft Service Assurance
 ---
 
