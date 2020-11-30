@@ -76,11 +76,11 @@ This section:
 
 ### DPIA service elements matrix
 
-The [DPIA Service Elements Matrix](../downloads/dpia-service-elements-matrix-final-10-2020.xlsx) is an organization of content that you might find helpful as you start the process of documenting your DPIA. It's organized by service and provides product-specific information and links to documentation that may help you draft responsive answers to the required DPIA elements more easily.
+The [DPIA Service Elements Matrix](https://www.microsoft.com/download/details.aspx?id=102395) is an organization of content that you might find helpful as you start the process of documenting your DPIA. It's organized by service and provides product-specific information and links to documentation that may help you draft responsive answers to the required DPIA elements more easily.
 
 ### Customizable DPIA document
 
-We realize that drafting DPIAs can be a time-consuming effort. Although each customer's DPIA will differ based on how each organization configures and uses Office 365, the following document may save you time. You can download the [Customizable DPIA document](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/customizable-dpia-document-final-10-2020.docx) as a modifiable illustrative template to get quickly get started. It is free for you to use and adapt to your specific implementation of the service. This document should not be construed as legal advice provided by Microsoft or any of its affiliates. If you have any questions regarding the DPIA drafting process, we urge you to consult with your attorney.
+We realize that drafting DPIAs can be a time-consuming effort. Although each customer's DPIA will differ based on how each organization configures and uses Office 365, the following document may save you time. You can download the [Customizable DPIA document](https://www.microsoft.com/download/details.aspx?id=102398) as a modifiable illustrative template to get quickly get started. It is free for you to use and adapt to your specific implementation of the service. This document should not be construed as legal advice provided by Microsoft or any of its affiliates. If you have any questions regarding the DPIA drafting process, we urge you to consult with your attorney.
 
 ## Learn more
 
