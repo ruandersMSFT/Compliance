@@ -1,0 +1,180 @@
+- name: Architecture
+  items: 
+    - name: Architecture overview
+      href: assurance-architecture.md
+    - name: Isolation controls in Microsoft 365
+      href: https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-isolation-controls
+    - name: Tenant isolation in Microsoft 365
+      href: https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-isolation-overview
+    - name: Isolation and access controls in AAD
+      href: https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-isolation-in-azure-active-directory
+
+- name: Audit logging
+  items:
+    - name: Audit logging overview
+      href: assurance-audit-logging.md
+    - name: Access control monitoring and management
+      href: assurance-monitoring-and-auditing-access-controls.md
+    - name: Engineering internal logging
+      href: assurance-internal-logging.md
+    - name: Cloud services auditing and reporting
+      href: assurance-auditing-and-reporting-overview.md
+    - name: Reporting features
+      href: assurance-reporting-features.md
+
+- name: Datacenter security
+  items:
+    - name: Datacenter security overview
+      href: assurance-datacenter-security.md
+
+- name: Encryption and key management
+  items:
+    - name: Encryption and key management overview
+      href: assurance-encryption.md
+    - name: Encryption in the Microsoft Cloud
+      href: https://docs.microsoft.com/microsoft-365/compliance/office-365-encryption-in-the-microsoft-cloud-overview
+    - name: Encryption for data in transit
+      href: assurance-encryption-in-transit.md
+    - name: Encryption for Microsoft 365 services
+      href: assurance-encryption-for-microsoft-365-services.md
+    - name: Service encryption for data-at-rest
+      href: https://docs.microsoft.com/microsoft-365/compliance/office-365-service-encryption
+    - name: Email encryption in Microsoft 365
+      href: https://docs.microsoft.com/microsoft-365/compliance/email-encryption
+    - name: How Exchange Online secures your email secrets
+      href: https://docs.microsoft.com/microsoft-365/compliance/exchange-online-secures-email-secrets
+    - name: How Exchange Online uses TLS to secure email connections
+      href: https://docs.microsoft.com/microsoft-365/compliance/exchange-online-uses-tls-to-secure-email-connections
+    - name: BitLocker and Distributed Key Manager (DKM) for encryption
+      href: https://docs.microsoft.com/microsoft-365/compliance/office-365-bitlocker-and-distributed-key-manager-for-encryption
+    - name: Technical reference details about encryption
+      href: https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption
+
+- name: Governance
+  items:
+    - name: Governance overview
+      href: assurance-governance.md
+    - name: Service assurance in the Security & Compliance Center
+      href: https://docs.microsoft.com/microsoft-365/compliance/service-assurance
+
+- name: Human resources
+  items:
+    - name: Human resources overview
+      href: assurance-human-resources.md
+    - name: Microsoft pre-employment screening
+      href: assurance-pre-employment-screening.md
+    - name: Microsoft cloud background check
+      href: assurance-cloud-background-check.md
+
+- name: Identity and access management
+  items:
+    - name: Identity and access management overview
+      href: assurance-identity-and-access-management.md
+    - name: Administrative access controls
+      href: assurance-administrative-access-controls-overview.md
+    - name: Technology controls
+      href: assurance-technology-controls.md
+    - name: Customer Lockbox
+      href: https://docs.microsoft.com/microsoft-365/compliance/customer-lockbox-requests
+    - name: Yammer Enterprise access controls
+      href: assurance-yammer-enterprise-access-controls.md
+
+- name: Incident management
+  items:
+    - name: Incident management overview
+      href: assurance-incident-management.md
+
+- name: Network security
+  items:
+    - name: Network security overview
+      href: assurance-network-security.md
+    - name: Denial-of-service defense
+      href: assurance-defending-cloud-services-against-dos-attacks.md
+    - name: Denial-of-service defense strategy
+      href: assurance-microsoft-dos-defense-strategy.md
+    - name: Core denial-of-service defense principles
+      href: assurance-core-principles-of-defense-against-dos-attacks.md
+    - name: Virus detection in Microsoft 365 services
+      href: https://docs.microsoft.com/microsoft-365/security/office-365-security/virus-detection-in-spo
+
+
+- name: Privacy
+  items:
+    - name: Privacy overview
+      href: assurance-privacy.md
+    - name: Where Microsoft 365 customer data is stored
+      href: https://docs.microsoft.com/microsoft-365/enterprise/o365-data-locations
+    - name: Data retention, deletion, and destruction
+      href: assurance-data-retention-deletion-and-destruction-overview.md
+    - name: Microsoft 365 data destruction
+      href: assurance-data-destruction.md
+    - name: Exchange Online data deletion
+      href: assurance-exchange-online-data-deletion.md
+    - name: SharePoint Online data deletion
+      href: assurance-sharepoint-online-data-deletion.md
+    - name: Microsoft 365 data immutability
+      href: assurance-data-immutability.md
+
+- name: Resiliency and continuity
+  items:
+    - name: Resiliency and continuity overview
+      href: assurance-resiliency-and-continuity.md
+    - name: Cloud service resiliency
+      href: assurance-m365-service-resiliency.md
+    - name: Service health and continuity
+      href: https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity
+    - name: Service resource limits
+      href: assurance-resource-limits.md
+    - name: Data resiliency
+      href: assurance-data-resiliency-overview.md
+    - name: Dealing with data corruption
+      href: assurance-dealing-with-data-corruption.md
+    - name: Data monitoring and self-healing
+      href: assurance-monitoring-and-self-healing.md
+    - name: Exchange Online data resiliency
+      href: assurance-exchange-data-resiliency.md
+    - name: Enterprise business continuity management (EBCM) with cloud services
+      href: assurance-understanding-ebcm-with-cloud-services.md
+    - name: Customer and cloud partner EBCM responsibilities
+      href: assurance-customer-and-cloud-partner-ebcm-responsibilities.md
+    - name: Developing your continuity plan
+      href: assurance-developing-your-ebcm-plan.md
+    - name: Service incident mitigation strategies
+      href: assurance-microsoft-365-mitigations.md
+    - name: Continuity plan rehearsal and user training
+      href: assurance-ebcm-plan-rehearsal-and-user-training.md
+
+- name: Risk management
+  items:
+    - name: Risk management overview
+      href: assurance-risk-management.md
+
+- name: Security development and operation
+  items:
+    - name: Security development and operation overview
+      href: assurance-security-development-and-operation.md
+
+- name: Security monitoring
+  items:
+    - name: Security monitoring overview
+      href: assurance-security-monitoring.md
+
+- name: Supplier management
+  items:
+    - name: Supplier management overview
+      href: assurance-supplier-management.md
+
+- name: Vulnerability management
+  items:
+    - name: Vulnerability management overview
+      href: assurance-vulnerability-management.md
+    - name: Malware and ransomware protection
+      href: assurance-malware-and-ransomware-protection.md
+    - name: Attack simulation in Microsoft 365
+      href: assurance-monitoring-and-testing.md
+
+
+- name: Azure security fundamentals
+  items:
+    - name: Azure security fundamentals
+      href: https://docs.microsoft.com/azure/security/fundamentals/
