@@ -8,6 +8,6 @@ common/
 .vscode/
 *.ini
 .DS_Store
-Thumbs.db
+*.db
 
 .openpublishing.buildcore.ps1
