@@ -332,6 +332,8 @@ additionalContent:
         # Card
         - title: Regional
           links:
+            - text: ABS OSPAR (Singapore)
+              url: offering-abs-ospar.md
             - text: Canadian Privacy Laws
               url: offering-canadian-privacy-laws.md
             - text: Cyber Essentials Plus (UK)
