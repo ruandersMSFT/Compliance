@@ -1,5 +1,7 @@
 - name: Microsoft compliance offerings
   items:
+    - name: Microsoft compliance offerings
+      href: offering-home.yml
     - name: Global
       items: 
         - name: CIS Benchmark
@@ -225,8 +227,10 @@
     - name: Regional
       items: 
         - name: Asia
-          items: 
-            - name: CS Mark (Gold) (Japan))
+          items:
+            - name: ABS OSPAR (Singapore)
+              href: offering-abs-ospar.md 
+            - name: CS Mark (Gold) (Japan)
               href: offering-cs-mark-gold-japan.md
             - name: DJCP (China)
               href: https://www.trustcenter.cn/compliance/default.html#DJCP
