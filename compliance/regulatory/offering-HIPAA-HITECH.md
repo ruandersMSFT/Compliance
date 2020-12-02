@@ -22,7 +22,7 @@ titleSuffix: Microsoft Compliance
 
 ## HIPAA and the HITECH Act overview
 
-The Health Insurance Portability and Accountability Act (HIPAA) is a US healthcare law that establishes requirements for the use, disclosure, and safeguarding of individually identifiable health information. It applies to covered entities — doctors' offices, hospitals, health insurers, and other healthcare companies — with access to patients' protected health information (PHI), as well as to business associates, such as cloud service and IT providers, that process PHI on their behalf. (Most covered entities do not carry out functions such as claims or data processing on their own; they rely on business associates to do so.)
+The Health Insurance Portability and Accountability Act (HIPAA) is a US healthcare law that establishes requirements for the use, disclosure, and safeguarding of individually identifiable health information. It applies to covered entities, doctors' offices, hospitals, health insurers, and other healthcare companies, with access to patients' protected health information (PHI), as well as to business associates, such as cloud service and IT providers, that process PHI on their behalf. (Most covered entities do not carry out functions such as claims or data processing on their own; they rely on business associates to do so.)
 
 The law regulates the use and dissemination of PHI in four general areas:
 
@@ -40,7 +40,7 @@ The HITECH Breach Notification Final Rule, which requires giving notice to indiv
 
 ## Microsoft and HIPAA and the HITECH Act
 
-HIPAA regulations require that covered entities and their business associates — in this case, Microsoft when it provides services, including cloud services, to covered entities — enter into contracts to ensure that those business associates will adequately protect PHI. These contracts, or BAAs, clarify and limit how the business associate can handle PHI, and set forth each party's adherence to the security and privacy provisions set forth in HIPAA and the HITECH Act. Once a BAA is in place, Microsoft customers — covered entities — can use its services to process and store PHI.
+HIPAA regulations require that covered entities and their business associates, in this case, Microsoft when it provides services, including cloud services, to covered entities, enter into contracts to ensure that those business associates will adequately protect PHI. These contracts, or BAAs, clarify and limit how the business associate can handle PHI, and set forth each party's adherence to the security and privacy provisions set forth in HIPAA and the HITECH Act. Once a BAA is in place, Microsoft customers (covered entities) can use its services to process and store PHI.
 
 Currently there is no official certification for HIPAA or HITECH Act compliance. However, those Microsoft services covered under the BAA have undergone audits conducted by accredited independent auditors for the Microsoft ISO/IEC 27001 certification.
 
@@ -53,7 +53,8 @@ To learn how the Microsoft Cloud helps customers support HIPAA and the HITECH re
 - [Azure and Azure Government](https://aka.ms/AzureCompliance)
 - Microsoft Cloud App Security
 - [Microsoft Cloud for Healthcare](https://aka.ms/MicrosoftCloudforHealthcareCompliance)
-- Microsoft Microsoft Healthcare Bot Service
+- Microsoft Healthcare Bot Service
+- Microsoft Managed Desktop
 - Microsoft Stream
 - Microsoft Professional Services: Premier and On Premises for Azure, Dynamics 365, Intune, and for medium business and enterprise customers of Microsoft 365 for business
 - [Dynamics 365 and Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
@@ -66,9 +67,7 @@ To learn how the Microsoft Cloud helps customers support HIPAA and the HITECH re
 
 ## Accelerate your deployment of HIPAA/HITRUST solutions on Azure
 
-Get a head start on taking advantage of the benefits of the cloud for health data solutions with the Azure Security and Compliance Blueprint — HIPAA/HITRUST Health Data and AI. This blueprint provides tools and guidance to get you started building HIPAA/HITRUST solutions today.
-
-[Start using the Azure HIPAA/HITRUST Blueprint](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2)
+Get a head start on taking advantage of the benefits of the cloud for health data solutions with the [Azure Security and Compliance Blueprint: HIPAA/HITRUST Health Data and AI](https://docs.microsoft.com/azure/governance/blueprints/samples/hipaa-hitrust-9-2). This blueprint provides tools and guidance to get you started building HIPAA/HITRUST solutions today.
 
 ## Frequently asked questions
 
