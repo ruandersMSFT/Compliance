@@ -544,20 +544,14 @@ You may have to delete items in Exchange Online mailboxes to satisfy a DSR delet
 
 #### Soft-delete mailbox items
 
-You can use the Content Search Action functionality to soft-delete items that are returned by a Content Search. As previously explained, soft-deleted items are moved to the Recoverable Items folder in the mailbox.
+You can use the Content Search Action functionality to soft-delete items that are returned by a Content Search. As previously explained, soft-deleted items are moved to the Recoverable Items folder in the mailbox while hard-deleted items are permanently deleted and cannot be recovered.
 
 Here's a quick overview of this process:
 
 1. Create and run a Content Search to find the items that you want to delete from the user mailbox. You may have to rerun the search to narrow that search results so that only the items that you want to delete are returned in the search results.
-2. Use the **New-ComplianceSearchAction** **-Purge** command in Office 365 PowerShell to soft-delete that are  returned by the Content Search that was created in the previous step.
+2. Use the **New-ComplianceSearchAction** **-Purge** **PurgeType** **SoftDelete** or **New-ComplianceSearchAction** **-Purge** **PurgeType** **HardDelete** command in Office 365 PowerShell to delete items that are returned by the Content Search that was created in the previous step.
 
 For detailed instructions, see [Search for and delete email messages in your organization](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization).
-
-#### Hard-delete mailbox items
-
-If you have to hard-delete mailbox items in response to the DSR deletion request, you can use the **Search-Mailbox -DeleteContent** command in Exchange Online PowerShell. If you use this method, consider using Content Search to develop and refine a search query so that only the items that are to be deleted are returned in the search. Then you can use that query syntax when you run the **Search-Mailbox -DeleteContent** command.
-
-For detailed instructions, see [Search for and delete messages](https://technet.microsoft.com/library/ff459253(v=exchg.150).aspx).
 
 #### Hard-delete items in a mailbox on hold
 
@@ -670,7 +664,6 @@ This section explains how to use the in-app functionality in each of the followi
 - [Bookings](#bookings)
 - [Listings](#listings)
 - [Connections](#connections)
-- [Outlook Customer Manager](#outlook-customer-manager)
 - [Invoicing](#invoicing)
 
 #### Bookings
@@ -777,57 +770,6 @@ To export business owner, staff and customer data, use the Business center priva
 ##### Delete
 
 After a Connections owner sends an email campaign, they can't delete the campaign. If there are any draft campaigns they want to delete, they can sign in to the Connections dashboard and delete the draft campaigns.
-
-#### Outlook Customer Manager
-
-The following sections explain how to use the in-app functionality in Outlook Customer Manager to find, access, export, and delete personal data.
-
-##### Discover
-
-Outlook Customer Manager gathers and stores user information for both the Outlook Customer Manager owner and their customers and business contacts.
-
-- Owner data. This includes name, address, and email address. Documents and files that an owner shares with a customer are stored in OneDrive for Business, SharePoint Online, and as tasks in Outlook.
-- Customer and business contact data. Customer data can include name, address, and email address. Customer and contact data is created by the business in Outlook or Outlook web app. Contacts are shared across Business center. Documents and files that a customer shares with a business are stored in OneDrive for Business, SharePoint Online, and as tasks in Outlook.
-
-Outlook Customer Manager also stores activities and insights about customers in Exchange.
-
-##### Access
-
-Outlook Customer Manager owners can sign in to Outlook or Outlook web app, and then go to the Outlook Customer Manager dashboard to see the interactions they've had with their customers.
-
-##### Export
-
-To export business owner and customer data, use the Outlook Customer Manager privacy portal. For details. See [Export or delete user data using the Outlook Customer Manager privacy portal](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8).
-
-##### Delete
-
-To delete customer data, use the Outlook Customer Manager privacy portal. See [Export or delete user data using the Outlook Customer Manager privacy portal](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8).
-
-#### Invoicing
-
-The following sections explain how to use the in-app functionality in Microsoft Invoicing to find, access, export, and delete personal data.
-
-##### Discover
-
-Invoicing collects and stores the following types of data:
-
-- **Contacts:** These are created by the business when an invoice or estimate is created for a customer/business contact. Contacts are shared across Business center. Customer data includes name, address, email address, and tax ID numbers.
-- **Invoices:** These are created and sent to customers and represent both a debt and a tax liability.
-- **Estimates:** The business can also send estimates to customers. If a customer accepts an estimate, it is converted to an invoice. An estimate is converted to an invoice after it's accepted by the customer. Records of estimates aren't kept once they're converted to an invoice.
-
-##### Access
-
-Users can go to the Invoicing dashboard in their Business center to see drafts of the invoices they've created and the invoices that have been seen to customers.
-
-##### Export
-
-To export customer invoicing data, use the Business center privacy portal. See [Export or delete user data using Business center privacy portal](https://support.office.com/article/export-or-delete-user-data-using-business-center-privacy-portal-eb48e2c1-4c91-4421-988d-5de497d1e8d8).
-
-##### Delete
-
-After an invoice is created and sent, it can't be deleted due to accounting laws. The Invoicing owner can request that Microsoft delete some or all their information from Office 365.
-
-Alternatively, you can delete the invoicing owner's user account in Office 365. See the section [Deleting a user](#deleting-a-user).
 
 ### Education
 
