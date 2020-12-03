@@ -6,7 +6,7 @@ summary: Learn how Microsoft products and services help your organization meet r
 brand: m365
 
 metadata:
-  title: Compliance offerings for Microsoft 365, Azure Cloud Services, and other Microsoft services. # Required; page title displayed in search results. Include the brand. < 60 chars.
+  title: Compliance offerings for Microsoft 365, Azure, and other Microsoft services. # Required; page title displayed in search results. Include the brand. < 60 chars.
   description: Learn how Microsoft products and services help your organization meet regulatory compliance standards. # Required; article description that is displayed in search results. < 160 chars.
   services: service
   ms.service: O365-seccomp #Required; service per approved list. service slug assigned to your service by ACOM.
@@ -23,7 +23,7 @@ metadata:
 # conceptualContent section (optional)
 conceptualContent:
 # itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
-  title: Compliance offerings for Microsoft 365, Azure Cloud Services, and other Microsoft services # < 60 chars (optional)
+  title: Compliance offerings for Microsoft 365, Azure, and other Microsoft services # < 60 chars (optional)
   summary: Microsoft provides compliance offerings to help your organization comply with national, regional, and industry-specific requirements governing the collection and use of data. # < 160 chars (optional)
   items:
     # Card
@@ -283,8 +283,8 @@ conceptualContent:
 additionalContent:
   # Supports up to 3 sections
   sections:
-    - title: Compliance offerings specifically for Azure Cloud Services
-      summary: Compliance offerings specifically for Azure Cloud Services to help your organization comply with national, regional, and industry-specific requirements governing the collection and use of data.
+    - title: Compliance offerings specifically for Azure
+      summary: Compliance offerings specifically for Azure to help your organization comply with national, regional, and industry-specific requirements governing the collection and use of data.
       items:
         # Card
         - title: Global

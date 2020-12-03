@@ -75,7 +75,7 @@ productDirectory:
     # Card 3
     - title: Regulatory compliance and Microsoft Azure
       imageSrc: https://docs.microsoft.com/media/logos/logo_azure.svg
-      summary: Learn about regulatory compliance and Microsoft Azure cloud services.
+      summary: Learn about regulatory compliance and Microsoft Azure.
       url: https://docs.microsoft.com/azure/compliance/
 
 
