@@ -1,11 +1,10 @@
 ---
 title: "Understanding Enterprise Business Continuity Management with cloud services"
 description: Understand how planning and implementing business continuity looks different when cloud services are part of your IT offering.
-author: chrfox
-ms.author: chrfox
+author: robmazz
+ms.author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
-ms.date:
 audience: ITPro
 ms.topic: article
 f1.keywords:
