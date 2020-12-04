@@ -1,11 +1,10 @@
 ---
 title: "Microsoft 365 for enterprise Business Continuity Management Mitigations"
 description: Some sample mitigations for Microsoft 365 service incident scenarios. 
-author: chrfox
-ms.author: chrfox
+author: robmazz
+ms.author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
-ms.date: 
 audience: ITPro
 ms.topic: article
 f1.keywords:

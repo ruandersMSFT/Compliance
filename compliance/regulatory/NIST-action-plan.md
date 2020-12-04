@@ -4,10 +4,8 @@ description: A prioritized action plan you can follow as you work to meet the re
 keywords: Microsoft 365, Microsoft 365 Education, Microsoft 365 documentation, NIST, NIST 800-53
 author: BrendaCarter
 localization_priority: Priority
-
 ms.prod: microsoft-365-enterprise
 ms.topic: article
-ms.date: 09/14/2018
 f1.keywords:
 - NOCSH
 ms.author: bcarter

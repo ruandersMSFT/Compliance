@@ -1,13 +1,12 @@
 ---
 title: "Customer and Cloud Partner Enterprise Business Continuity Responsibilities"
 description:  Understand what Microsoft does during a service incident so you can better prepare your business continuity plans.
-author: chrfox
-ms.author: chrfox
+author: robmazz
+ms.author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
 f1.keywords:
 - NOCSH
-ms.date:
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions

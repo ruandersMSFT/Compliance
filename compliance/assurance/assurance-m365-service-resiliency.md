@@ -1,13 +1,12 @@
 ---
 title: "Built-in service resiliency in Microsoft 365"
 description: Description of Microsoft 365 Service Resilience 
-author: chrfox
-ms.author: chrfox
+author: robmazz
+ms.author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
 f1.keywords:
 - NOCSH
-ms.date: 
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions
