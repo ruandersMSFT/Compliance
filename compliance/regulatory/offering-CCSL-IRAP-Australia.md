@@ -63,6 +63,7 @@ The IRAP assessment of Microsoft's services helps provide assurance to public se
 ## Microsoft in-scope cloud services
 
 - [Azure and Dynamics](https://aka.ms/AzureCompliance)
+- Microsoft Managed Desktop
 - [Office 365](https://aka.ms/Office365ComplianceOfferings)
 
 ## Frequently asked questions
