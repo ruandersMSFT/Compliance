@@ -6,7 +6,6 @@ localization_priority: Priority
 audience: itpro
 ms.prod: visual-studio-family
 ms.topic: article
-ms.date: 05/24/2018
 author: robmazz
 f1.keywords:
 - NOCSH

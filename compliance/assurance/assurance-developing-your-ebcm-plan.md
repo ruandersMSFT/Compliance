@@ -1,13 +1,12 @@
 ---
 title: "Considerations for your Enterprise Business Continuity Management Plan"
 description: Things to consider when developing your cloud aware business continuity plan. 
-author: chrfox
-ms.author: chrfox
+author: robmazz
+ms.author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
 f1.keywords:
 - NOCSH
-ms.date: 
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions

@@ -1,11 +1,11 @@
 ---
 title: Manage GDPR data subject requests with DSR case tool in Security & Compliance Center
+description: Learn how to manage EU General Data Protection Regulation (GDPR) data subject requests with the DSR case tool.
 f1.keywords:
 - NOCSH
 ms.author: markjjo
 author: markjjo
 manager: laurawi
-ms.date: 
 audience: Admin
 ms.topic: article
 ms.service: O365-seccomp
@@ -18,7 +18,6 @@ ms.collection:
 - SPO_Content
 - MS-Compliance
 ms.assetid: ce9eb942-3589-42cb-88fd-1576ecb09c5c
-description: Learn how to manage EU General Data Protection Regulation (GDPR) data subject requests with the DSR case tool.
 ms.custom: seo-marvel-apr2020
 ---
 

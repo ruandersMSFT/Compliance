@@ -1,13 +1,12 @@
 ---
 title: "Enterprise Business Continuity Management Plan Rehearsal and User Training"
 description: understand the benefits of regular training and practice of your business continuity plan. 
-author: chrfox
-ms.author: chrfox
+author: robmazz
+ms.author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
 f1.keywords:
 - NOCSH
-ms.date: 
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions

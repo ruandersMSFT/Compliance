@@ -1,13 +1,12 @@
 ---
 title: "Built-in service resiliency in Microsoft 365"
 description: Description of Microsoft 365 Service Resilience 
-author: chrfox
-ms.author: chrfox
+author: robmazz
+ms.author: robmazz
 manager: laurawi
 ms.reviewer: sosstah
 f1.keywords:
 - NOCSH
-ms.date: 
 audience: ITPro
 ms.topic: article
 ms.service: o365-solutions
@@ -31,17 +30,17 @@ To minimize downtime, either planned or unexpected, Microsoft 365 services are d
 
 ## Active/Active design
 
-In Microsoft 365 we are driving towards having all services architected and operated in an active/active design which increases resiliency. This means that there are always multiple instances of a service running that can respond to user requests and that they are hosted in geographically dispersed datacenters. All user traffic comes in through the Microsoft Front Door service and is automatically routed to the optimally located instance of the service and around any service failures to prevent or reduce impact to our customers.
+In Microsoft 365, we are driving towards having all services architected and operated in an active/active design that increases resiliency. This means that there are always multiple instances of a service running that can respond to user requests and that they are hosted in geographically dispersed datacenters. All user traffic comes in through the Microsoft Front Door service and is automatically routed to the optimally located instance of the service and around any service failures to prevent or reduce impact to our customers.
 
 ## Reduce incident scope
 
 The scope of a service incident is measured by how severe it is, how long it lasts and how many customers are impacted. We strive to limit the scope of all incidents by:
 
 - having multiple instances of each service partitioned off from each other
-- deploying updates in a controlled, graduated fashion using rings of validation so that any issues that might arise from the update can be detected and mitigated early in the deployment process. This allows for regression of the update if needed and first occurs in a small group inside Microsoft (inner ring) before it is deployed to larger groups like all 140,000 Microsoft employees (ring 2), then to early adopter rings (ring 3) and ultimately to all customers globally (ring 4).
-- driving improvements in monitoring through automation. Microsoft 365 is very large, and the SLA target uptime is high. At the very beginning of a service incident, if humans had to be involved in detection and response, we couldn't respond fast enough to meet SLAs. Automation is the key to fast and effective service incident detection and response. The sooner we know about something, the faster it can be fixed.
+- deploying updates in a controlled, graduated fashion using rings of validation so that any issues that might arise from the update can be detected and mitigated early in the deployment process. This allows for regression of the update if needed and first occurs in a small group inside Microsoft (inner ring) before it is deployed for larger groups like all 140,000 Microsoft employees (ring 2), then for early adopter rings (ring 3) and ultimately for all customers globally (ring 4).
+- driving improvements in monitoring through automation. Microsoft 365 is a large service, and the SLA target uptime is high. At the very beginning of a service incident, if humans had to be involved in detection and response, we couldn't respond fast enough to meet SLAs. Automation is the key to fast and effective service incident detection and response. The sooner we know about something, the faster it can be fixed.
 
-Along with the active/active capabilities built into Microsoft 365 service architecture, these efforts mitigate the severity, duration and number of impacted customers during a service incident.  
+Along with the active/active capabilities built into Microsoft 365 service architecture, these efforts mitigate the severity, duration, and number of impacted customers during a service incident.  
 
 ## Fault isolation
 
