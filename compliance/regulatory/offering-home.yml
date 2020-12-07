@@ -38,13 +38,16 @@ conceptualContent:
         - url: offering-ISO-22301.md
           itemType: reference
           text: ISO 22301
-        - url: offering-ISO-27017.md
+        - url: offering-ISO-27001.md
           itemType: reference
-          text: ISO 27017
+          text: ISO 27001
  
     # Card
     - title: Global
       links:
+        - url: offering-ISO-27017.md
+          itemType: reference
+          text: ISO 27017
         - url: offering-ISO-27018.md
           itemType: reference
           text: ISO 27018
