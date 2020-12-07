@@ -8,9 +8,10 @@ ms.prod: microsoft-365-enterprise
 ms.topic: article
 f1.keywords:
 - NOCSH
-ms.author: daniha
-author: DaniHalfin
-manager: dansimp
+ms.author: robmazz
+author: robmaz
+manager: laurawi
+ms.reviewer: delinat
 audience: itpro
 ms.collection: 
 - GDPR
