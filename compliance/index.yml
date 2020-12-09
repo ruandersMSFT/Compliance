@@ -240,7 +240,7 @@ additionalContent:
         # Card
         - title: Manage insider risks
           summary: Minimize internal risks by detecting, investigating, and acting on malicious and inadvertent activities in your organization.
-          url: https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management
+          url: https://docs.microsoft.com/microsoft-365/compliance/insider-risk-solution-overview
         # Card
         - title: Manage information protection
           summary: Use Microsoft Information Protection (MIP) to help you discover, classify, and protect sensitive information wherever it lives or travels.
