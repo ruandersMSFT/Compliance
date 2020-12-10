@@ -23,7 +23,7 @@ ms.custom: seo-marvel-apr2020
 
 ## Introduction to Microsoft Professional Services
 
-Microsoft Professional Services includes a diverse group of technical architects, engineers, consultants, and support professionals dedicated to delivering on the Microsoft mission of empowering customers to do more and achieve more. Our Professional Services team includes more than 21,000+ total consultants, Digital Advisors, Premier Support, engineers, and sales professionals working across 191 countries, supporting 46 different languages, managing several million engagements per month, and engaging in customer and partner interactions through on-premise, phone, web, community, and automated tools. The organization brings broad expertise across the Microsoft portfolio, leveraging an extensive network of partners, technical communities, tools, diagnostics, and channels that connect us with our enterprise customers.
+Microsoft Professional Services includes a diverse group of technical architects, engineers, consultants, and support professionals dedicated to delivering on the Microsoft mission of empowering customers to do more and achieve more. Our Professional Services team includes more than 21,000+ total consultants, Digital Advisors, Premier Support, engineers, and sales professionals working across 191 countries, supporting 46 different languages, managing several million engagements per month, and engaging in customer and partner interactions through on-premises, phone, web, community, and automated tools. The organization brings broad expertise across the Microsoft portfolio, leveraging an extensive network of partners, technical communities, tools, diagnostics, and channels that connect us with our enterprise customers.
 
 Find out more about Microsoft Professional Services by going to the [Microsoft Professional Services Security Documentation webpage](https://www.microsoft.com/en-us/professionalservices/overview). Microsoft Professional Services takes its obligations under the General Data Protection Regulation (GDPR) seriously. The information in this document is designed to answer customer questions about how Microsoft's support and consulting offerings will respond to and assist customers in responding to Data Subject Request (DSR) obligations under GDPR.
 
@@ -77,11 +77,15 @@ This guide covers four scenarios a customer may encounter if they have utilized 
 
 When a customer engages with Microsoft to receive support or consulting services, Microsoft Support automatically collects or retrieves from account records the personal data of the Customer Contact (for example, Premier CSM, Global Admin, IT Admin). This likely includes the name, email, phone, and other personal data of the individual seeking support or consulting services.
 
-The Customer Contact's personal data is part of Microsoft's business relationship with the customer, and Microsoft is the data controller. Microsoft will respond to DSRs from the Customer Contact around their personal data, regardless of whether they are still with the organization.
+The Customer Contact's personal data is part of Microsoft's business relationship with the customer, and Microsoft is the Data Controller, except when this data is collected in the course of providing technical support. Microsoft will respond to DSRs from the Customer Contact around their personal data, regardless of whether they are still with the organization.
+
+When the Customer Contact’s Personal Data is collected in the course of providing technical support, Microsoft is the Data Processor.
 
 Customers should understand that the DSR only covers the personal data of the Customer Contact, and no changes or deletions will be made to any of the customer's data submitted as part of engagements (for example, transcripts, case descriptions, files, work product), since Microsoft is the data processor. Additionally, to maintain the engagement's historical record no changes at all will be made to closed engagements, including the record of who opened an engagement.
 
-Upon receiving an inquiry from a Customer Contact regarding a DSR, Microsoft personnel will refer a customer contact to the [Privacy Response Center](https://go.microsoft.com/fwlink/?LinkId=321116). This is Microsoft's primary input mechanism for privacy inquiries and complaints. Upon receiving an inquiry, the Privacy Response Center will identify that this is part of a commercial or organizational account and respond accordingly.
+Upon receiving an inquiry from a Customer Contact regarding a DSR where Microsoft is the Data Controller, Microsoft personnel will refer a customer contact to the [Privacy Response Center](https://go.microsoft.com/fwlink/?LinkId=321116). This is Microsoft's primary input mechanism for privacy inquiries and complaints. Upon receiving an inquiry, the Privacy Response Center will identify that this is part of a commercial or organizational account and respond accordingly.
+
+Where Microsoft is the Data Processor, please see <b>DSR for Customer Provided Data: Commercial Support</b> below.
 
 To maintain customer's business continuity, Microsoft will also not process a DSR associated with an engagement until a replacement contact is confirmed. Upon confirmation of a new contact, Microsoft will swap out the old contact with the new one in open engagements.
 
@@ -89,7 +93,7 @@ Customers may choose to make changes to their data collected during Professional
 
 ***Example for Illustration Purposes Only***
 
-John is an IT Admin for an O365 enterprise customer, with one open support engagement and two closed engagements. Now John is leaving his company and wants his data deleted. John contacts the Privacy Response Center, who identifies him as the IT Admin. John is informed his name cannot be deleted from the prior (closed) engagements or from any data within the open engagements. However, the Privacy Response Center will replace John as the contact on the current open ticket if he will identify a replacement contact. John lets Microsoft know that Jane will be his replacement contact, and Microsoft makes the change across all support systems.
+John is a Project Manager for an O365 enterprise customer, with one open Consulting engagement and two closed engagements. Now John is leaving his company and wants his data deleted. John contacts the Privacy Response Center, who identifies him as the Project Manager. John is informed his name cannot be deleted from the prior (closed) engagements or from any data within the open engagements. However, the Privacy Response Center will replace John as the contact on the current open engagement if he will identify a replacement contact. John lets Microsoft know that Jane will be his replacement contact, and Microsoft makes the change across all systems.
 
 ## DSR for an End-User Engaging Microsoft
 
@@ -107,9 +111,9 @@ Jane is an employee of an Enterprise customer, Contoso, that has given her a Dyn
 
 *How to receive assistance from Microsoft when a customer has received a request from their employee or other data subjects to exercise their rights, and that data subject's personal data was collected by Microsoft Support during a support engagement.*
 
-When a customer engages with Microsoft Support, Microsoft collects Support Data from the customer to resolve any issues that required a support engagement. This Support Data includes Microsoft's interaction with the customer (for example, chat, phone, email, web submission) plus any content files the customer sends to Microsoft or Microsoft has, with customer's permission, extracted from the customer's IT environment or Online Services tenancy to resolve the support issue. In the case of Premier Support, this would also include any data we collect from you to proactively prevent future issues. However, this excludes Customer Contact information or other information from Microsoft's business relationship with the customer (for example, billing records).
+When a customer engages with Microsoft Support, Microsoft collects Support Data from the customer to resolve any issues that required a support engagement. This Support Data includes Microsoft's interaction with the customer (for example, chat, phone, email, web submission) plus any content files the customer sends to Microsoft or Microsoft has, with customer's permission, extracted from the customer's IT environment or Online Services tenancy to resolve the support issue. In the case of Premier support, this would also include any data we collect from you to proactively prevent future issues. However, this excludes other information from Microsoft's business relationship with the customer (for example, billing records).
 
-For all Support Data, Microsoft is the data processor. As such, Microsoft's will not respond to direct requests from data subjects regarding Support Data provided when they were associated with a Microsoft commercial customer. Microsoft will work with the customer through their normal support channels to assist them in responding to DSRs.
+For all Support Data and Contact Data collected in the course of providing support, Microsoft is the data processor. As such, Microsoft's will not respond to direct requests from data subjects regarding Support Data provided when they were associated with a Microsoft commercial customer. Microsoft will work with the customer through their normal support channels to assist them in responding to DSRs.
 
 ## Step 1: Discover
 
@@ -129,10 +133,10 @@ In discovering relevant data and obtaining Microsoft's assistance, a customer ha
 
 To identify specific engagements, customers need to search across their engagements. For Premier customers, the Contract Service Manager ("CSM") for a customer has visibility across all Support Requests (SRs) that are created under that Contract Schedule. For Non-Premier, equivalent support engagement portals are available, such as through Online Services support areas.
 
-![Search in SMC](../media/Prof-Serv-DSR-Doc-Final_image3.png)The CSM can go to the portal at Support.Microsoft.Com ([https://support.microsoft.com/\<local language code\>/premier](https://support.microsoft.com/%3clocal%20language%20code%3e/premier)) ("SMC") and select and review Support Requests. (Note: In the URL, please substitute for your local language code).
+The CSM can go to the portal at [Services Hub](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fserviceshub.microsoft.com%2Fsupport%2Fcontactsupport&data=04%7C01%7Cemils%40microsoft.com%7C2b37c7436afe4d8f005c08d89bd9d3c4%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637430707936546710%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=Bl8c2L83EZYIDKeHy3QIdqjsweCE60HCWi7v3meZfYI%3D&reserved=0) and select manage all Support Requests. 
 
 >[!IMPORTANT]
->In addition to the case history in SMC, customers may also have personal data of an end user in files that was collected by Microsoft (or, with customer's permission, removed from the Online Service) during a support engagement. Examples may include copies of customer's exchange mailboxes, Azure VMs, or databases. This personal data may or may not be mentioned in the case history (i.e. ticket) for a particular engagement. To review that data, the Customer Contact must be a specific authenticated (via AAD or MSA) Support Request contact that has received a URL for a workspace in Microsoft Support Data Transfer and Management tool (DTM). A Customer Contact will have access to the files, but no global view is available, and SMC will not indicate if files exist.
+>In addition to the case history in Services Hub, customers may also have personal data of an end user in files that was collected by Microsoft (or, with customer's permission, removed from the Online Service) during a support engagement. Examples may include copies of customer's exchange mailboxes, Azure VMs, or databases. This personal data may or may not be mentioned in the case history (i.e. ticket) for a particular engagement. To review that data, the Customer Contact must be a specific authenticated (via AAD or MSA) Support Request contact that has received a URL for a workspace in Microsoft Support Data Transfer and Management tool (DTM). A Customer Contact will have access to the files, but no global view is available, and Services Hub will not indicate if files exist.
 
 Once customers have identified all the relevant data in the selected support tickets, customers can decide whether to request the deletion of everything related to a ticket or selectively apply the DSR to individual instances of personal data.
 
@@ -166,13 +170,13 @@ As a customer investigates or prepares to delete personal data in response to a 
 
 All data at Microsoft has a retention and deletion policy applied to it, which will vary depending on risk and other factors.
 
-Customers requesting the deletion of a data subject's personal data universally across Support systems may do so through your TAM or by filing a Support Request (SR) in SMC or equivalent system. You *must* indicate that this is a request to assist with a DSR under GDPR.
+Customers requesting the deletion of a data subject's personal data universally across Support systems may do so through your TAM or by filing a Support Request (SR) in Services Hub or equivalent system. You *must* indicate that this is a request to assist with a DSR under GDPR.
 
 *Option A—Cross-Microsoft Support Customer DSR*. For a cross system DSR, customer must provide the personal data that Microsoft needs to identify the required data (for example, email address; phone number). Microsoft will not correlate or research records and will only search directly on identifiers provided by the customer. When data is found, Microsoft will delete all engagements and all associated data.
 
 > Important Note: this may result in loss of historical records that are important to customer's organization.
 
-*Option B—Specific Customer Engagements*. For specific engagements that the customer has identified and wants deleted, do not delete tickets out of SMC. This will result in personal data remaining in logs and downstream systems that may not be deleted within the needed timeframe. Instead, identify the ticket or personal data within the ticket that must be deleted, and contact Microsoft Support to assist you in deleting that data.
+*Option B—Specific Customer Engagements*. For specific engagements that the customer has identified and wants deleted, do not delete tickets out of Services Hub. This will result in personal data remaining in logs and downstream systems that may not be deleted within the needed timeframe. Instead, identify the ticket or personal data within the ticket that must be deleted, and contact Microsoft Support to assist you in deleting that data.
 
 ### Microsoft Support Data Transfer and Management tool (DTM) instructions
 
@@ -193,7 +197,7 @@ Note: Exported data may not include Microsoft's intellectual property or any dat
 
 John is a Premier CSM for an Enterprise customer, Contoso, that uses O365 for its employee e-mail and Azure to host a Contoso SQL Database. Contoso has multiple open and closed tickets. Recently, Microsoft Support, with Contoso's permission, moved a copy of the SQL Database into DTM for support and troubleshooting.
 
-John receives a DSR from Jane asking that all her data be deleted. John goes into SMC and searches across engagements to identify that Jane had email account issues and so was referenced in two tickets by name and email address. He contacts his TAM, provides the TAM with Jane's name and e-mail address as an identifier, and requests that those two tickets be deleted, along with all downstream data that may have been generated out of those tickets.
+John receives a DSR from Jane asking that all her data be deleted. John goes into Services Hub and searches across engagements to identify that Jane had email account issues and so was referenced in two tickets by name and email address. He contacts his TAM, provides the TAM with Jane's name and e-mail address as an identifier, and requests that those two tickets be deleted, along with all downstream data that may have been generated out of those tickets.
 
 He also suspects he was engaged in a chat conversation with support personnel where he mentions Jane, so he requests that chat log to be deleted.
 
