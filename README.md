@@ -35,7 +35,7 @@ Contributors who only make infrequent or small updates can edit the file directl
 
 8. On the **Open a pull request** page that appears, click the green **Create pull request** button.
 
-   ![Open a pull request page](mcompliance/media/open-a-pull-request-page.png)
+   ![Open a pull request page](compliance/media/open-a-pull-request-page.png)
 
 > [!NOTE]
 > Your permissions in the repo determine what you see in the last several steps. People with no special privileges will see the **Propose file change** section and subsequent confirmation pages as described. People with permissions to create and approve their own pull requests will see a similar **Commit changes** section with extra options for creating a new branch and fewer confirmation pages.<br/><br/>The point is: click any green buttons that are presented to you until there are no more.
