@@ -52,7 +52,7 @@ To evaluate Azure and Office 365 compliance with SEC Rule 17a-4(f), Microsoft re
 
 ### Office 365 & SEC Rule 17
 
-[SEC 17a-4(f) Compliance Assessment: Microsoft Security & Compliance Center with Exchange Online](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9fa8349d-a0c9-47d9-93ad-472aa0fa44ec&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
+[SEC 17a-4(f) Compliance Assessment: Microsoft Security & Compliance Center with SharePoint, OneDrive, Teams, Exchange, and Skype for Business](https://servicetrust.microsoft.com/ViewPage/TrustDocuments?command=Download&downloadType=Document&downloadId=9fa8349d-a0c9-47d9-93ad-472aa0fa44ec&docTab=6d000410-c9e9-11e7-9a91-892aae8839ad_FAQ_and_White_Papers)
 
 ## How to implement
 
