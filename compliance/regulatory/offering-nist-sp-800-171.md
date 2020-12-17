@@ -42,6 +42,7 @@ Any entity that processes or stores US government CUI — research institutions,
 ## Microsoft in-scope cloud services
 
 - [Azure Government](https://aka.ms/AzureCompliance)
+- [Azure Commercial](https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/)
 - [Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
 - Intune
 - [Office 365 U.S. Government Community Cloud (GCC), Office 365 GCC High, and DoD](https://aka.ms/o365-compliance-framework)
