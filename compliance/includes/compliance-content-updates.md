@@ -2,6 +2,16 @@
 
 
 
+## Week of December 14, 2020
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 12/17/2020 | [NIST SP 800-171](/compliance/regulatory/offering-nist-sp-800-171) | modified |
+| 12/18/2020 | [Microsoft Support and Professional Services accountability readiness checklist for the GDPR](/compliance/regulatory/gdpr-arc-prof-services) | modified |
+| 12/18/2020 | [Guidance for Data Controllers Using Microsoft Professional Services](/compliance/regulatory/gdpr-dpia-prof-services) | modified |
+
+
 ## Week of November 30, 2020
 
 
