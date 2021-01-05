@@ -22,8 +22,8 @@ titleSuffix: Microsoft GDPR
 
 As a data processor, Office 365 will ensure that our customers are able to meet the GDPR's breach notification requirements as data controllers. To that end, we are committed to the following actions:
 
-- Providing customers with an ability to specify a dedicated privacy contact who will be notified in the event breach. Customers will be able to specify this contact in Azure Active Directory.
-- Notifying customers of a personal data breach within 72 hours of a breach being declared. Notification will be done by e-mail to the contact specified by the customer
+- Providing customers with an ability to specify a dedicated privacy contact who will be notified in the event of a breach.  Customers can specify this contact using the Privacy reader role settings for Message Center.
+- Notifying customers of a personal data breach within 72 hours of a breach being declared. Notifications will be published to the Message Center, which is accessible through the M365 Tenant Admin Center. Secondarily, email notifications are sent to specified contacts indicating a new Message Center post has been published.
 - Initial notification will include, at the least, a description of the nature of the breach, approximation of user impact, and mitigation steps (if applicable). If our investigation is not complete at the time of initial notification, we will indicate next steps and timelines for subsequent communication in our initial notification
 
 Microsoft recognizes that data controllers are responsible for conducting risk assessments and determining whether a breach requires notification of the customer's DPA, and our notification to customers will provide the information needed to make that assessment. Microsoft will therefore notify customers of any personal data breach, except for those cases where personal data is confirmed to be unintelligible (for example, encrypted data where integrity of the keys is confirmed).
