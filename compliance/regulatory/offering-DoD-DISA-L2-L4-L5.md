@@ -64,6 +64,7 @@ Impact Level 2 covers Non-Controlled Unclassified Information — data that is a
 ### Covered services for DoD Impact Level 4
 
 - [Azure Government](https://aka.ms/AzureCompliance)
+- [Dynamics 365 U.S. Government](https://aka.ms/d365-compliance-list)
 - [Office 365 U.S. Government Defense](https://go.microsoft.com/fwlink/p/?LinkID=2077751)
 
 ### Covered services for DoD Impact Level 2
