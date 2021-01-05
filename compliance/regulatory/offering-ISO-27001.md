@@ -22,15 +22,15 @@ titleSuffix: Microsoft Compliance
 
 ## ISO/IEC 27001 overview
 
-The International Organization for Standardization (ISO) is an independent nongovernmental organization and the world’s largest developer of voluntary international standards. The International Electrotechnical Commission (IEC) is the world’s leading organization for the preparation and publication of international standards for electrical, electronic, and related technologies.
+The International Organization for Standardization (ISO) is an independent nongovernmental organization and the world's largest developer of voluntary international standards. The International Electrotechnical Commission (IEC) is the world's leading organization for the preparation and publication of international standards for electrical, electronic, and related technologies.
 
-Published under the joint ISO/IEC subcommittee, the ISO/IEC 27000 family of standards outlines hundreds of controls and control mechanisms to help organizations of all types and sizes keep information assets secure. These global standards provide a framework for policies and procedures that include all legal, physical, and technical controls involved in an organization’s information risk management processes.
+Published under the joint ISO/IEC subcommittee, the ISO/IEC 27000 family of standards outlines hundreds of controls and control mechanisms to help organizations of all types and sizes keep information assets secure. These global standards provide a framework for policies and procedures that include all legal, physical, and technical controls involved in an organization's information risk management processes.
 
 ISO/IEC 27001 is a security standard that formally specifies an Information Security Management System (ISMS) that is intended to bring information security under explicit management control. As a formal specification, it mandates requirements that define how to implement, monitor, maintain, and continually improve the ISMS. It also prescribes a set of best practices that include documentation requirements, divisions of responsibility, availability, access control, security, auditing, and corrective and preventive measures. Certification to ISO/IEC 27001 helps organizations comply with numerous regulatory and legal requirements that relate to the security of information.
 
 ## Microsoft and ISO/IEC 27001
 
-The international acceptance and applicability of ISO/IEC 27001 is the key reason why certification to this standard is at the forefront of Microsoft’s approach to implementing and managing information security. Microsoft’s achievement of ISO/IEC 27001 certification points up its commitment to making good on customer promises from a business, security compliance standpoint. Currently, both Azure Public and Azure Germany are audited once a year for ISO/IEC 27001 compliance by a third-party accredited certification body, providing independent validation that security controls are in place and operating effectively.
+The international acceptance and applicability of ISO/IEC 27001 is the key reason why certification to this standard is at the forefront of Microsoft's approach to implementing and managing information security. Microsoft's achievement of ISO/IEC 27001 certification points up its commitment to making good on customer promises from a business, security compliance standpoint. Currently, both Azure Public and Azure Germany are audited once a year for ISO/IEC 27001 compliance by a third-party accredited certification body, providing independent validation that security controls are in place and operating effectively.
 
 Learn about the benefits of ISO/IEC 27001 on the Microsoft Cloud: [Download the ISO/IEC 27001:2013](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide?command=Download&downloadType=Document&downloadId=47d89200-b24b-491d-b657-7c523ddfb6f9&docTab=4ce99610-c9c0-11e7-8c2c-f908a777fa4d_ISO_Reports)
 
@@ -112,14 +112,14 @@ The [Service Trust Portal](https://docs.microsoft.com/microsoft-365/compliance/g
 
 Yes. The annual ISO/IEC 27001 certification process for the Microsoft Cloud Infrastructure and Operations group includes an audit for operational resiliency. To preview the latest certificate, click the link below.
 
-- Microsoft Azure: [ISO/IEC 27001:2013 certificate for Microsoft Cloud Infrastructure and Operations](https://www.bsigroup.com/Our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=company%3dMicrosoft&licencenumber=IS%20533913)
+- Microsoft Azure: [ISO/IEC 27001:2013 certificate for Microsoft Cloud Infrastructure and Operations](https://www.bsigroup.com/our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=licence%3d%26company%3dMicrosoft&licencenumber=IS%20552878)
 - Azure German
 
-**Where do I start my organization’s own ISO/IEC 27001 compliance effort?**
+**Where do I start my organization's own ISO/IEC 27001 compliance effort?**
 
 Adopting ISO/IEC 27001 is a strategic commitment. As a starting point, consult the [ISO/IEC 27000 Directory](https://www.27000.org/index.htm).
 
-**Can I use the ISO/IEC 27001 compliance of Microsoft services in my organization’s certification?**
+**Can I use the ISO/IEC 27001 compliance of Microsoft services in my organization's certification?**
 
 Yes. If your business requires ISO/IEC 27001 certification for implementations deployed on Microsoft services, you can use the applicable certification in your compliance assessment. You are responsible, however, for engaging an assessor to evaluate the controls and processes within your own organization and your implementation for ISO/IEC 27001 compliance.
 
