@@ -82,5 +82,5 @@ No. The only environments where FTI can be stored and processed are Azure Govern
 - [IRS Publication 1075](https://www.irs.gov/pub/irs-pdf/p1075.pdf)
 - [IRS Safeguards Program](https://www.irs.gov/uac/Safeguards-Program)
 - [Microsoft Common Controls Hub Compliance Framework](https://www.microsoft.com/trust-center/compliance/compliance-overview)
-- [Microsoft Cloud for Government](https://enterprise.microsoft.com/industries/government/start-your-microsoft-cloud-for-government-trial-today)
+- [Microsoft Cloud for Government](https://azure.microsoft.com/global-infrastructure/government/)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
