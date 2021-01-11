@@ -2,6 +2,32 @@
 
 
 
+## Week of January 04, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 1/5/2021 | [Breach Notification Under the GDPR](/compliance/regulatory/gdpr-breach-office365) | modified |
+| 1/5/2021 | [US Department of Defense (DoD) Provisional Authorization](/compliance/regulatory/offering-dod-disa-l2-l4-l5) | modified |
+| 1/5/2021 | [ISO/IEC 27001:2013 Information Security Management Standards](/compliance/regulatory/offering-iso-27001) | modified |
+| 1/8/2021 | [Architecture overview](/compliance/assurance/assurance-architecture) | modified |
+| 1/8/2021 | [Audit logging overview](/compliance/assurance/assurance-audit-logging) | modified |
+| 1/8/2021 | [Encryption and key management overview](/compliance/assurance/assurance-encryption) | modified |
+| 1/8/2021 | [Governance overview](/compliance/assurance/assurance-governance) | modified |
+| 1/8/2021 | [Human resources overview](/compliance/assurance/assurance-human-resources) | modified |
+| 1/8/2021 | [Identity and access management overview](/compliance/assurance/assurance-identity-and-access-management) | modified |
+| 1/8/2021 | [Incident management overview](/compliance/assurance/assurance-incident-management) | modified |
+| 1/8/2021 | [Network security](/compliance/assurance/assurance-network-security) | modified |
+| 1/8/2021 | [Privacy overview](/compliance/assurance/assurance-privacy) | modified |
+| 1/8/2021 | [Resiliency and continuity](/compliance/assurance/assurance-resiliency-and-continuity) | modified |
+| 1/8/2021 | [Risk management](/compliance/assurance/assurance-risk-management) | modified |
+| 1/8/2021 | [Security development and operations overview](/compliance/assurance/assurance-security-development-and-operation) | modified |
+| 1/8/2021 | [Security monitoring overview](/compliance/assurance/assurance-security-monitoring) | modified |
+| 1/8/2021 | [Supplier management overview](/compliance/assurance/assurance-supplier-management) | modified |
+| 1/8/2021 | [Vulnerability management](/compliance/assurance/assurance-vulnerability-management) | modified |
+| 1/8/2021 | [US Internal Revenue Service Publication 1075](/compliance/regulatory/offering-irs-1075) | modified |
+
+
 ## Week of December 14, 2020
 
 
@@ -10,30 +36,3 @@
 | 12/17/2020 | [NIST SP 800-171](/compliance/regulatory/offering-nist-sp-800-171) | modified |
 | 12/18/2020 | [Microsoft Support and Professional Services accountability readiness checklist for the GDPR](/compliance/regulatory/gdpr-arc-prof-services) | modified |
 | 12/18/2020 | [Guidance for Data Controllers Using Microsoft Professional Services](/compliance/regulatory/gdpr-dpia-prof-services) | modified |
-
-
-## Week of November 30, 2020
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 12/1/2020 | [Microsoft compliance offerings # < 60 chars](/compliance/regulatory/offering-home) | modified |
-| 12/1/2020 | [New Zealand Government Cloud Computing Security and Privacy Considerations](/compliance/regulatory/offering-nz-cc-framework-nz) | modified |
-| 12/2/2020 | [Health Insurance Portability and Accountability (HIPAA) & HITECH Acts](/compliance/regulatory/offering-hipaa-hitech) | modified |
-| 12/2/2020 | [Office 365 Data Subject Requests Under the GDPR and CCPA](/compliance/regulatory/gdpr-dsr-office365) | modified |
-| 12/3/2020 | [Compliance documentation # < 60 chars](/compliance/index) | modified |
-| 12/3/2020 | [Criminal Justice Information Services (CJIS) Security Policy](/compliance/regulatory/offering-cjis) | modified |
-| 12/3/2020 | [Microsoft compliance offerings # < 60 chars](/compliance/regulatory/offering-home) | modified |
-| 12/4/2020 | [Microsoft 365 NIST 800-53 action plan, priorities for the first 30 days, 90 days, and beyond](/compliance/regulatory/nist-action-plan) | modified |
-| 12/4/2020 | [Australian Government Certified Cloud Services List (CCSL)](/compliance/regulatory/offering-ccsl-irap-australia) | modified |
-| 12/4/2020 | [Customer and Cloud Partner Enterprise Business Continuity Responsibilities](/compliance/assurance/assurance-customer-and-cloud-partner-ebcm-responsibilities) | modified |
-| 12/4/2020 | [Considerations for your Enterprise Business Continuity Management Plan](/compliance/assurance/assurance-developing-your-ebcm-plan) | modified |
-| 12/4/2020 | [Enterprise Business Continuity Management Plan Rehearsal and User Training](/compliance/assurance/assurance-ebcm-plan-rehearsal-and-user-training) | modified |
-| 12/4/2020 | [Built-in service resiliency in Microsoft 365](/compliance/assurance/assurance-m365-service-resiliency) | modified |
-| 12/4/2020 | [Microsoft 365 for enterprise Business Continuity Management Mitigations](/compliance/assurance/assurance-microsoft-365-mitigations) | modified |
-| 12/4/2020 | [Understanding Enterprise Business Continuity Management with cloud services](/compliance/assurance/assurance-understanding-ebcm-with-cloud-services) | modified |
-| 12/4/2020 | [Visual Studio Family Data Subject Requests for the GDPR and CCPA](/compliance/regulatory/gdpr-dsr-visual-studio-family) | modified |
-| 12/4/2020 | [Azure DevOps Data Subject Requests for GDPR and CCPA](/compliance/regulatory/gdpr-dsr-vsts) | modified |
-| 12/4/2020 | [Information protection](/compliance/regulatory/gdpr-information-protection) | modified |
-| 12/4/2020 | [Manage GDPR data subject requests with DSR case tool in Security & Compliance Center](/compliance/regulatory/gdpr-manage-gdpr-data-subject-requests-with-the-dsr-case-tool) | modified |
-| 12/4/2020 | [Microsoft compliance offerings # < 60 chars](/compliance/regulatory/offering-home) | modified |
