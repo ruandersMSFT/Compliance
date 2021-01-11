@@ -124,7 +124,7 @@ conceptualContent:
       links:
         - url: https://docs.microsoft.com/learn/modules/audit-governance/
           itemType: learn
-          text: Learn about identity and access management
+          text: Learn about governance
         - url: /compliance/assurance/assurance-governance
           itemType: concept
           text: Governance overview
