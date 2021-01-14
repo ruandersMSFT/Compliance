@@ -3,7 +3,7 @@
     - name: Architecture overview
       href: assurance-architecture.md
     - name: Isolation controls in Microsoft 365
-      href: https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-isolation-controls
+      href: https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-isolation-controls?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
     - name: Tenant isolation in Microsoft 365
       href: https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-tenant-isolation-overview
     - name: Isolation and access controls in AAD
@@ -177,4 +177,4 @@
 - name: Azure security fundamentals
   items:
     - name: Azure security fundamentals
-      href: https://docs.microsoft.com/azure/security/fundamentals?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json 
+      href: https://docs.microsoft.com/azure/security/fundamentals?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json
