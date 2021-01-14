@@ -177,4 +177,4 @@
 - name: Azure security fundamentals
   items:
     - name: Azure security fundamentals
-      href: https://docs.microsoft.com/azure/security/fundamentals/
+      href: https://docs.microsoft.com/azure/security/fundamentals?toc=/compliance/assurance/toc.json&bc=/compliance/assurance/breadcrumb/toc.json 
