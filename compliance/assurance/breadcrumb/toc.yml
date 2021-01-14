@@ -1,0 +1,33 @@
+- name: Microsoft 365
+  tocHref: /microsoft-365/
+  topicHref: /compliance/assurance
+  items:
+  - name: Compliance
+    tocHref: /microsoft-365/compliance/
+    topicHref: /compliance/assurance/
+  - name: Enterprise
+    tocHref: /microsoft-365/enterprise/
+    topicHref: /compliance/assurance/
+  - name: Security
+    tocHref: /microsoft-365/security/
+    topicHref: /compliance/assurance/
+    items:
+    - name: Office 365 security
+      tocHref: /microsoft-365/security/office-365-security/
+      topicHref: /compliance/assurance/
+
+- name: Azure
+  tocHref: /azure/
+  topicHref: /compliance/assurance
+  items:
+  - name: Security fundamentals
+    tocHref: /azure/security/fundamentals/
+    topicHref: /compliance/assurance/
+
+- name: Office 365
+  tocHref: /office365/
+  topicHref: /compliance/assurance/
+  items:
+  - name: Office 365 Service descriptions
+    tocHref: /office365/servicedescriptions/office-365-platform-service-description/
+    topicHref: /compliance/assurance/
