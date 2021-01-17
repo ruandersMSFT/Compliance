@@ -10,6 +10,16 @@
 | 1/11/2021 | [Compliance documentation # < 60 chars](/compliance/index) | modified |
 
 
+## Week of December 14, 2020
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 12/17/2020 | [NIST SP 800-171](/compliance/regulatory/offering-nist-sp-800-171) | modified |
+| 12/18/2020 | [Microsoft Support and Professional Services accountability readiness checklist for the GDPR](/compliance/regulatory/gdpr-arc-prof-services) | modified |
+| 12/18/2020 | [Guidance for Data Controllers Using Microsoft Professional Services](/compliance/regulatory/gdpr-dpia-prof-services) | modified |
+
+
 ## Week of January 04, 2021
 
 
@@ -34,13 +44,3 @@
 | 1/8/2021 | [Supplier management overview](/compliance/assurance/assurance-supplier-management) | modified |
 | 1/8/2021 | [Vulnerability management](/compliance/assurance/assurance-vulnerability-management) | modified |
 | 1/8/2021 | [US Internal Revenue Service Publication 1075](/compliance/regulatory/offering-irs-1075) | modified |
-
-
-## Week of December 14, 2020
-
-
-| Published On |Topic title | Change |
-|------|------------|--------|
-| 12/17/2020 | [NIST SP 800-171](/compliance/regulatory/offering-nist-sp-800-171) | modified |
-| 12/18/2020 | [Microsoft Support and Professional Services accountability readiness checklist for the GDPR](/compliance/regulatory/gdpr-arc-prof-services) | modified |
-| 12/18/2020 | [Guidance for Data Controllers Using Microsoft Professional Services](/compliance/regulatory/gdpr-dpia-prof-services) | modified |
