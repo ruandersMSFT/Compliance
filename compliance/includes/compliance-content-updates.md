@@ -2,6 +2,14 @@
 
 
 
+## Week of January 11, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 1/11/2021 | [Compliance documentation # < 60 chars](/compliance/index) | modified |
+
+
 ## Week of January 04, 2021
 
 
