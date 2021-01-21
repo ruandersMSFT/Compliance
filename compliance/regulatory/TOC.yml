@@ -250,7 +250,7 @@
           items: 
             - name: APRA (Australia)
               href: offering-APRA-Australia.md
-            - name: IRAP/CCSL (Australia)
+            - name: IRAP (Australia)
               href: offering-CCSL-IRAP-Australia.md
             - name: NZ CC Framework (New Zealand)
               href: offering-nz-cc-framework-nz.md
