@@ -22,7 +22,7 @@ titleSuffix: Microsoft Compliance
 
 ## About the EBA
 
-The [European Banking Authority](https://eba.europa.eu/) (EBA) is “an independent authority that works to ensure effective and consistent prudential regulation and supervision across the EU banking sector.” In December 2017, the EBA issued its [Final Report: Recommendations on outsourcing to cloud services providers](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362), which outlined a comprehensive approach to the outsourcing of cloud computing by financial institutions in the EU. The recommendations clarify when outsourcing to the cloud is permitted, apply a principles-based approach towards measuring risk from a technology-neutral perspective, and strive towards greater harmonization within Europe and beyond.
+The [European Banking Authority](https://eba.europa.eu/) (EBA) is 'an independent authority that works to ensure effective and consistent prudential regulation and supervision across the EU banking sector'. In December 2017, the EBA issued its [Final Report: Recommendations on outsourcing to cloud services providers](https://eba.europa.eu/documents/10180/2170121/Final+draft+Recommendations+on+Cloud+Outsourcing+%28EBA-Rec-2017-03%29.pdf/5fa5cdde-3219-4e95-946d-0c0d05494362), which outlined a comprehensive approach to the outsourcing of cloud computing by financial institutions in the EU. The recommendations clarify when outsourcing to the cloud is permitted, apply a principles-based approach towards measuring risk from a technology-neutral perspective, and strive towards greater harmonization within Europe and beyond.
 
 The EBA recommendations took effect in July 2018, and they build on and add clarity to the general outsourcing guidelines published in 2006 by the Committee of European Banking Supervisors. In fact, the issuance of these recommendations comes after a consultation period during which Microsoft provided substantive feedback. Many of the final recommendations account for comments Microsoft provided to the EBA.
 
@@ -50,7 +50,7 @@ For financial institutions in the EU, Microsoft has also published [Risk Assessm
 
 - [Response to EBA guidance](https://aka.ms/FinServ-Guide-EuBankAuth): Microsoft guidance helps EU financial institutions follow EBA recommendations for cloud adoption.
 - [Financial use cases](https://docs.microsoft.com/azure/industry/financial/): Use-case overviews, tutorials, and other resources to build Azure solutions for financial services.
-- [Financial Compliance Program](https://aka.ms/FSCP-Print): Financial institutions can get help assessing the risks of using Microsoft cloud services.
+- [Financial Compliance Program](https://aka.ms/FSCP-Print): Financial institutions can get help with assessing the risks of using Microsoft cloud services.
 
 ## Frequently asked questions
 
@@ -61,9 +61,9 @@ The Microsoft publication, [Risk Assessment and Compliance Guide for Financial I
 ## Resources
 
 - [Microsoft Service Trust Portal](https://aka.ms/STP)
+- [Microsoft Cloud Checklist for Financial Institutions in Europe](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4IPF3)
 - [Microsoft Financial Services Compliance Program](https://aka.ms/FSCP-Print)
 - [Microsoft business cloud services and financial services](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Financial services compliance in Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Azure Financial Services Cloud Risk Assessment Tool](https://aka.ms/FFIEC-CSDT)
 - [Microsoft Financial Services Blog](https://techcommunity.microsoft.com/t5/Financial-Services-Blog/bg-p/FinancialServicesBlog)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

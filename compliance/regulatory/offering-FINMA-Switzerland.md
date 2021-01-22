@@ -30,7 +30,7 @@ The FINMA published [Circular 2018/3 Outsourcing–banks and insurers](https://w
 
 To help guide financial institutions in Switzerland considering outsourcing business functions to the cloud, Microsoft has published [A compliance checklist for financial institutions in Switzerland](https://aka.ms/FinServ-Guide-Switzerland). By reviewing and completing the checklist, financial organizations can adopt Microsoft business cloud services with the confidence that they are complying with applicable regulatory requirements.
 
-When Swiss financial institutions outsource business activities, they must comply with the requirements of the Swiss Financial Market Supervisory Authority (FINMA) and be cognizant of additional requirements and guidelines that include those of the Swiss Bank Act, the Swiss Bank Ordinance, and the Swiss Insurance Supervision Act.
+When Swiss financial institutions outsource business activities, they must comply with the requirements of the Swiss Financial Market Supervisory Authority (FINMA) and be cognizant of other requirements and guidelines that include those of the Swiss Bank Act, the Swiss Bank Ordinance, and the Swiss Insurance Supervision Act.
 
 The Microsoft checklist helps Swiss financial firms conducting due-diligence assessments of Microsoft business cloud services and includes:
 
@@ -64,5 +64,4 @@ Yes. In Part 2 of the Compliance Checklist, we have mapped these terms against t
 - [Microsoft Financial Services Compliance Program](https://aka.ms/FSCP-Print)
 - [Microsoft business cloud services and financial services](https://servicetrust.microsoft.com/viewpage/financialservicesoverview)
 - [Financial services compliance in Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Azure Financial Services Cloud Risk Assessment Tool](https://aka.ms/FFIEC-CSDT)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
