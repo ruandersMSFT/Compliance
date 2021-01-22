@@ -30,7 +30,7 @@ In 2017, the [CFTC revised its rule](https://www.cftc.gov/sites/default/files/id
 
 ## Microsoft and CFTC Rule 1.31(c-d)
 
-Financial services customers, representing one of the most heavily regulated industries in the world, are subject to complex provisions like the retention of financial transactions and related communication in a non-erasable and non-modifiable state. Among the most prescriptive is Rule 1.31 of the US Commodity Futures Trading Commission (CFTC) that stipulates stringent requirements for regulated entities that elect to retain books and records on electronic storage media. Records stored must be tamper-proof with no ability to alter or delete them until after the designated retention period. Microsoft Azure Immutable Blob Storage with Policy Lock and Microsoft Office 365 with Preservation Lock can help financial institutions meet the storage requirements of CFTC Rule 1.31(c-d).
+Financial services customers, representing one of the most heavily regulated industries in the world, are subject to complex provisions like the retention of financial transactions and related communication in a non-erasable and non-modifiable state. One of the most prescriptive is Rule 1.31 of the US Commodity Futures Trading Commission (CFTC) that stipulates stringent requirements for regulated entities that elect to retain books and records on electronic storage media. Records stored must be tamper-proof with no ability to alter or delete them until after the designated retention period. Microsoft Azure Immutable Blob Storage with Policy Lock and Microsoft Office 365 with Preservation Lock can help financial institutions meet the storage requirements of CFTC Rule 1.31(c-d).
 
 ### Microsoft Azure
 
@@ -62,7 +62,6 @@ For [CFTC 1.31(c)-(d)](https://docs.microsoft.com/microsoft-365/compliance/reten
 - [Microsoft Financial Services Compliance Program](https://aka.ms/FSCP-Print)
 - [Microsoft business cloud services and financial services](https://www.microsoft.com/trustcenter/cloudservices/financialservices)
 - [Financial services compliance in Azure](https://azure.microsoft.com/resources/videos/azurecon-2015-financial-services-compliance-in-azure/)
-- [Azure Financial Services Cloud Risk Assessment Tool](https://aka.ms/FFIEC-CSDT)
 - [Microsoft Office 365 Retention Policies](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 - [Microsoft Financial Services Blog](https://techcommunity.microsoft.com/t5/Financial-Services-Blog/bg-p/FinancialServicesBlog)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)

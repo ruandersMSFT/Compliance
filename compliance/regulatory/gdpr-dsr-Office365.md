@@ -113,7 +113,10 @@ Applications where Content Search can be used to find Customer Data:
 - Word
 
 > [!NOTE]
-> The Content Search eDiscovery tool is not available in [Office 365 operated by 21Vianet (China)](https://docs.microsoft.com/microsoft-365/admin/services-in-china/services-in-china). This means you won't able to use this tool to search for and export Customer Data in the Office 365 applications shown in Table 1. However, you can use the In-Place eDiscovery tool in Exchange Online to search for content in user mailboxes. You can also use the eDiscovery Center in SharePoint Online to search for content in SharePoint sites and OneDrive accounts. Alternatively, you can ask a document owner to help you find and make changes or deletions to content or export it if necessary. For more information, see:</br><br> * [Create an In-Place eDiscovery search](https://docs.microsoft.com/exchange/create-in-place-ediscovery-search-exchange-2013-help)<br> * [Set up an eDiscovery Center in SharePoint Online](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)
+> The Content Search eDiscovery tool is not available in [Office 365 operated by 21Vianet (China)](https://docs.microsoft.com/microsoft-365/admin/services-in-china/services-in-china). This means you won't able to use this tool to search for and export Customer Data in the Office 365 applications shown in Table 1. However, you can use the In-Place eDiscovery tool in Exchange Online to search for content in user mailboxes. You can also use the eDiscovery Center in SharePoint Online to search for content in SharePoint sites and OneDrive accounts. Alternatively, you can ask a document owner to help you find and make changes or deletions to content or export it if necessary. For more information, see:
+> 
+> * [Create an In-Place eDiscovery search](https://docs.microsoft.com/exchange/create-in-place-ediscovery-search-exchange-2013-help)
+> * [Set up an eDiscovery Center in SharePoint Online](https://support.office.com/article/Set-up-an-eDiscovery-Center-in-SharePoint-Online-A18F8975-AA7F-43B4-A7D6-001D14744D8E)
 
 ### Using Content Search to find personal data
 
@@ -164,7 +167,7 @@ The following table lists some conditions you can use to narrow the scope of a s
 
 ***Table 2: Narrow scope of search by using conditions***
 
-| **Condition** | **Description** | **Example of condition value** |
+| Condition | Description | Example of condition value |
 | :--- | :--- |:--- |
 | File type | The extension of a document or file. Use this condition to search for Office documents and files created by Office 365 applications. Use this condition when searching for documents on SharePoint Online sites and OneDrive for Business accounts.<br/>The corresponding document property is filetype. <br/>For a complete list of file extensions that you can search for, see that Default crawled file name extensions and parsed file types in SharePoint](https://technet.microsoft.com/library/jj219530.aspx).|&nbsp;&bull;&nbsp;&nbsp;csv — Searches for comma-separated value (CSV) files; Excel files can be saved in CSV format and CSV file can easily be imported into Excel<br><br>&bull;&nbsp;&nbsp;docx — Searches for Word file <br><br>&bull;&nbsp;&nbsp;mpp — Searches for Project files<br/><br>&bull;&nbsp;&nbsp;one — Searches for OneNote files <br><br>&bull;&nbsp;&nbsp;pdf — Search for files saved in a PDF format <br><br>&bull;&nbsp;&nbsp;pptx — Searches for PowerPoint files <br><br>&bull;&nbsp;&nbsp;xlxs — Searches for Excel files <br><br>&bull;&nbsp;&nbsp;vsd — Searches for Visio files <br><br>&bull;&nbsp;&nbsp;wmv — Searches for Windows Media video files <br>|
 | Message type | The email message type to search for. Use this condition to search mailboxes for contacts (People), meetings (Calendar) tasks, or Skype for Business conversations. The corresponding email property is *kind*.|&bull;&nbsp;&nbsp;*contacts — Searches the My Contacts list (People) of a mailbox <br><br>&bull;&nbsp;&nbsp;*email — Searches email messages <br><br>&bull;&nbsp;&nbsp;*im — Searches Skype for Business conversations<br><br>&bull;&nbsp;&nbsp;*meetings — Searches appointments and meeting requests (Calendar) <br><br>&bull;&nbsp;&nbsp;*tasks — Searches the My Tasks list (Tasks); using this value will also return tasks created in Microsoft To Do.<br>|
@@ -203,7 +206,9 @@ pilar@contoso.com AND filetype="xlxs"
 
 This example returns Excel or Word files on SharePoint Online sites and OneDrive for Business accounts that contain the specified employee ID or birth date.
 
+```
 (98765 OR "01-20-1990") AND (filetype="xlxs" OR filetype="docx")
+```
 
 ***GUI***
 
@@ -289,14 +294,14 @@ End users can discover, access, and rectify SharePoint Online user profile data 
 
 Another way for users to access their SharePoint profile data is to navigate to the **edit profile page** in their OneDrive for Business account, which can be accessed by going to the **EditProfile.aspx** path under the OneDrive for Business account URL. For example, for a user <strong>user1@contoso.com</strong>, the user's OneDrive for Business account is at:
 
-```URL
-`https://contoso-my.sharepoint.com/personal/user1\_contoso\_com/\_layouts/15/OneDrive.aspx`
+```http
+https://contoso-my.sharepoint.com/personal/user1\_contoso\_com/\_layouts/15/OneDrive.aspx
 ```
 
 The URL for the edit profile page would be:
 
-```URL
-`https://contoso-my.sharepoint.com/personal/user1\_contoso\_com/\_layouts/15/EditProfile.aspx`
+```http
+https://contoso-my.sharepoint.com/personal/user1\_contoso\_com/\_layouts/15/EditProfile.aspx
 ```
 
 Properties sourced in Azure Active Directory can't be changed within SharePoint Online. However, users can go to their **Account** page by selecting their **photo** in the Office 365 header, and then selecting **My account**. Changing the properties here may require users to work with their admins to discover, access, or rectify a user profile property.
@@ -674,7 +679,6 @@ This section explains how to use the in-app functionality in each of the followi
 - [Bookings](#bookings)
 - [Listings](#listings)
 - [Connections](#connections)
-- [Invoicing](#invoicing)
 
 #### Bookings
 
@@ -1394,11 +1398,11 @@ Because most Office documents are on a SharePoint Online or OneDrive for Busines
 2. Store the document in an on-premises location (such as a file server or a file share) or another location other than your Office 365 tenant in the Microsoft cloud.
 3. Permanently delete (purge) the original document from Office 365. This is a 3-step process:
 
-    a.  Delete the original copy of the document. When you delete a document from a site, it's sent to the site Recycle Bin (also called the *first-stage Recycle Bin*).
+   1.  Delete the original copy of the document. When you delete a document from a site, it's sent to the site Recycle Bin (also called the *first-stage Recycle Bin*).
 
-    b.  Go to the site Recycle Bin and delete that copy of the document. When you delete a document from the site Recycle Bin, it's sent to the site collection Recycle Bin (also called the *second-stage Recycle Bin*). See [Delete a file, folder, or link from a SharePoint document library](https://support.microsoft.com/office/delete-a-file-folder-or-link-from-a-sharepoint-document-library-71f3c90a-0d24-4d80-8b66-f88234b79a52).
+   1.  Go to the site Recycle Bin and delete that copy of the document. When you delete a document from the site Recycle Bin, it's sent to the site collection Recycle Bin (also called the *second-stage Recycle Bin*). See [Delete a file, folder, or link from a SharePoint document library](https://support.microsoft.com/office/delete-a-file-folder-or-link-from-a-sharepoint-document-library-71f3c90a-0d24-4d80-8b66-f88234b79a52).
 
-    c.  Go to the site collection Recycle Bin and delete that copy of the document, which permanently removes it from Office 365. See [Delete items from the site collection recycle bin](https://support.microsoft.com/office/delete-items-from-the-site-collection-recycle-bin-dd5c00c2-aef6-4458-9d04-80b185077653).
+   1.  Go to the site collection Recycle Bin and delete that copy of the document, which permanently removes it from Office 365. See [Delete items from the site collection recycle bin](https://support.microsoft.com/office/delete-items-from-the-site-collection-recycle-bin-dd5c00c2-aef6-4458-9d04-80b185077653).
 
 4. When the restriction no longer applies, the copy of the document that was stored on-premises can be re-uploaded to the site in Office 365.
 
@@ -1470,7 +1474,7 @@ Users can delete the following information in Delve:
 
 ### MyAnalytics
 
-MyAnalytics provides statistics to users to help them understand how they spend their time at work. To help your users better understand the data that is presented to them in their personal dashboard and how that data is calculated, direct your users to the [MyAnalytics personal dashboard](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2) help topic.
+MyAnalytics provides statistics to users to help them understand how they spend their time at work. To help your users better understand the data that is presented to them in their personal dashboard and how that data is calculated, direct your users to [MyAnalytics personal dashboard](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2).
 
 #### Access and export
 
