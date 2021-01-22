@@ -674,7 +674,6 @@ This section explains how to use the in-app functionality in each of the followi
 - [Bookings](#bookings)
 - [Listings](#listings)
 - [Connections](#connections)
-- [Invoicing](#invoicing)
 
 #### Bookings
 
