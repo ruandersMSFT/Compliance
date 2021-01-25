@@ -211,9 +211,9 @@ conceptualContent:
         - url: offering-ccpa.md
           itemType: reference
           text: CCPA (US-California)
-        - url: offering-ccsl-irap-australia.md
+        - url: offering-irap-australia.md
           itemType: reference
-          text: IRAP / CCSL (Australia)
+          text: IRAP (Australia)
         - url: offering-cs-mark-gold-japan.md
           itemType: reference
           text: CS Mark Gold (Japan)

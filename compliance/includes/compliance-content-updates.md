@@ -2,6 +2,31 @@
 
 
 
+## Week of January 18, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 1/22/2021 | [Office 365 Data Subject Requests Under the GDPR and CCPA](/compliance/regulatory/gdpr-dsr-office365) | modified |
+| 1/22/2021 | [Dutch Authority for the Financial Markets and the Central Bank of the Netherlands](/compliance/regulatory/offering-afm-dnb-netherlands) | modified |
+| 1/22/2021 | [Commodity Futures Trading Commission (CFTC) Rule 1.31(c-d) United States](/compliance/regulatory/offering-cftc-1-31-us) | modified |
+| 1/22/2021 | [European Banking Authority (EBA)](/compliance/regulatory/offering-eba-eu) | modified |
+| 1/22/2021 | [Federal Financial Institutions Examination Council (FFIEC)](/compliance/regulatory/offering-ffiec-us) | modified |
+| 1/22/2021 | [Financial Market Supervisory Authority (FINMA) Switzerland](/compliance/regulatory/offering-finma-switzerland) | modified |
+| 1/22/2021 | [Office of the Superintendent of Financial Institutions (OSFI) Canada](/compliance/regulatory/offering-osfi-canada) | modified |
+| 1/21/2021 | [Microsoft compliance offerings # < 60 chars](/compliance/regulatory/offering-home) | modified |
+| 1/21/2021 | [Australian Government Information Security Registered Assessor Program (IRAP)](/compliance/regulatory/offering-irap-australia) | renamed |
+| 1/21/2021 | [Australian Government Information Security Registered Assessor Program (IRAP)](/compliance/regulatory/offering-ccsl-irap-australia) | modified |
+
+
+## Week of January 11, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 1/11/2021 | [Compliance documentation # < 60 chars](/compliance/index) | modified |
+
+
 ## Week of January 04, 2021
 
 
