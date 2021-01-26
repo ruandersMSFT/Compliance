@@ -20,7 +20,7 @@ titleSuffix: Microsoft Service Assurance
 
 # Enterprise business continuity management legal disclaimer
 
-## Microsoft Corporation Non-Disclosure Agreement for Compliance Materials
+## Microsoft corporation non-disclosure agreement for compliance materials
 
 READ THIS! THIS IS A LEGAL AGREEMENT BETWEEN MICROSOFT CORPORATION ("MICROSOFT") AND THE RECIPIENT OF THESE MATERIALS, WHETHER AN INDIVIDUAL OR A CORPORATION OR OTHER ENTITY ("YOU"). BY CLICKING "I ACCEPT", DOWNLOADING OR USING THE MATERIALS, YOU AGREE TO THESE TERMS. IF THIS AGREEMENT IS ATTACHED TO MATERIALS, BY ACCESSING OR USING THE ATTACHED MATERIALS, YOU
 AGREE TO THESE TERMS.
@@ -29,7 +29,7 @@ AGREE TO THESE TERMS.
     - (a) to refrain from disclosing or distributing the Confidential Information to any third party for five (5) years from the date of disclosure of the Confidential Information by Microsoft to Company/You; 
     - (b) to refrain from reproducing or summarizing the  Confidential Information; and 
     - (c) to take reasonable security precautions, at least as great as the precautions it takes to protect its own confidential information, but no less than reasonable care, to keep confidential the Confidential Information. You/Company, however, may disclose Confidential Information in  accordance with a judicial or other governmental order, provided You/Company either 
-        - (i) gives Microsoft reasonable notice prior to such disclosure and to allow  Microsoft a reasonable opportunity to seek a protective order or equivalent, or (ii) obtains written assurance from the applicable judicial or governmental entity  that it will afford the Confidential Information the highest level of protection afforded under applicable law or regulation. Confidential Information shall not include any information, however designated, that: (i) is or subsequently becomes publicly available without Your/Company's breach of any obligation owed to  Microsoft; 
+        - (i) gives Microsoft reasonable notice prior to such disclosure and to allow  Microsoft a reasonable opportunity to seek a protective order or equivalent, or (ii) obtains written assurance from the applicable judicial or governmental entity  that it will afford the Confidential Information the highest level of protection afforded under applicable law or regulation. Confidential Information shall not include any information, however designated, that: (i) is or later becomes publicly available without Your/Company's breach of any obligation owed to  Microsoft; 
         - (ii) became known to You/Company prior to Microsoft's disclosure of such information to You/Company pursuant to the terms of this Agreement;
         - (iii) became known to You/Company from a source other than Microsoft other than by the breach of an obligation of confidentiality owed to Microsoft; or
         - (iv) is  independently developed by You/Company. For purposes of this paragraph, "Confidential Information" means nonpublic information that Microsoft designates as being confidential or which, under the circumstances surrounding disclosure ought to be treated as confidential by Recipient. "Confidential Information" includes, without limitation, information in tangible or intangible form relating to and/or including released or unreleased Microsoft software or hardware  products, the marketing, or promotion of any Microsoft product, Microsoft's business policies or practices, and information received from others that Microsoft is obligated to treat as confidential.
