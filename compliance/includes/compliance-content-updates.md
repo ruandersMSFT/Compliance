@@ -2,6 +2,23 @@
 
 
 
+## Week of January 18, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 1/22/2021 | [Office 365 Data Subject Requests Under the GDPR and CCPA](/compliance/regulatory/gdpr-dsr-office365) | modified |
+| 1/22/2021 | [Dutch Authority for the Financial Markets and the Central Bank of the Netherlands](/compliance/regulatory/offering-afm-dnb-netherlands) | modified |
+| 1/22/2021 | [Commodity Futures Trading Commission (CFTC) Rule 1.31(c-d) United States](/compliance/regulatory/offering-cftc-1-31-us) | modified |
+| 1/22/2021 | [European Banking Authority (EBA)](/compliance/regulatory/offering-eba-eu) | modified |
+| 1/22/2021 | [Federal Financial Institutions Examination Council (FFIEC)](/compliance/regulatory/offering-ffiec-us) | modified |
+| 1/22/2021 | [Financial Market Supervisory Authority (FINMA) Switzerland](/compliance/regulatory/offering-finma-switzerland) | modified |
+| 1/22/2021 | [Office of the Superintendent of Financial Institutions (OSFI) Canada](/compliance/regulatory/offering-osfi-canada) | modified |
+| 1/21/2021 | [Microsoft compliance offerings # < 60 chars](/compliance/regulatory/offering-home) | modified |
+| 1/21/2021 | [Australian Government Information Security Registered Assessor Program (IRAP)](/compliance/regulatory/offering-irap-australia) | renamed |
+| 1/21/2021 | [Australian Government Information Security Registered Assessor Program (IRAP)](/compliance/regulatory/offering-ccsl-irap-australia) | modified |
+
+
 ## Week of January 11, 2021
 
 
@@ -34,3 +51,13 @@
 | 1/8/2021 | [Supplier management overview](/compliance/assurance/assurance-supplier-management) | modified |
 | 1/8/2021 | [Vulnerability management](/compliance/assurance/assurance-vulnerability-management) | modified |
 | 1/8/2021 | [US Internal Revenue Service Publication 1075](/compliance/regulatory/offering-irs-1075) | modified |
+
+
+## Week of December 14, 2020
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 12/17/2020 | [NIST SP 800-171](/compliance/regulatory/offering-nist-sp-800-171) | modified |
+| 12/18/2020 | [Microsoft Support and Professional Services accountability readiness checklist for the GDPR](/compliance/regulatory/gdpr-arc-prof-services) | modified |
+| 12/18/2020 | [Guidance for Data Controllers Using Microsoft Professional Services](/compliance/regulatory/gdpr-dpia-prof-services) | modified |
