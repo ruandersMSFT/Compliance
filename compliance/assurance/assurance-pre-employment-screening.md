@@ -23,7 +23,7 @@ titleSuffix: Microsoft Service Assurance
 
 # Microsoft pre-employment screening
 
-Microsoft works to maintain a safe and secure environment that properly protects our employees, customers, property, personal data, and proprietary information. A comprehensive background screening program is essential for achieving this goal. All candidates for employment and internship are required to satisfactorily complete a background screening prior to commencing employment at Microsoft. Current employees in specific roles may also be subject to periodic re-screening.
+Microsoft works to maintain a safe and secure environment that properly protects our employees, customers, property, personal data, and proprietary information. A comprehensive background screening program is essential for achieving this goal. All candidates for employment and internship are required to satisfactorily complete a background screening prior to commencing employment at Microsoft. Current employees in specific roles may also be subject to periodic rescreening.
 
 ## The Microsoft Personnel Screening Standard
 
@@ -47,19 +47,19 @@ Microsoft's Global Security Department is responsible for ensuring candidates ar
 To the extent permissible by local law the checks include the following:
 
 - SSN trace in the United States or confirmation of identity from a government-issued document in Europe, the Middle East, and Asia.
-- Criminal history check up to seven years for felony and misdemeanor offenses at the state, county, and local levels, and at the federal level if appropriate in the United States. An international criminal history check (dependent on local law) is applicable for areas outside of the United States.
+- Criminal history checks up to seven years for felony and misdemeanor offenses at the state, county, and local levels, and at the federal level if appropriate in the United States. An international criminal history check (dependent on local law) is applicable for areas outside of the United States.
 - Confirmation of highest level of academic achievement
-- 5-year employment history
+- Five-year employment history
 - Global sanctions and enforcement check, including Office of Foreign Assets Control (OFAC) list, Bureau of Industry and Security (BIS) list, and Office of Defense Trade Controls Debarred Persons (DDTC) list checks.
 
 ## Supplier screening
 
-Microsoft requires that Suppliers (contingent staff) conduct pre-placement background checks on all their personnel who will perform services or projects that require any access to Microsoft owned or leased facilities or access to Microsoft resources such as email, network access, cardkey, or other access badges.
+Microsoft requires that Suppliers (contingent staff) conduct pre-placement background checks on all their personnel who will perform services or projects that require any access to Microsoft owned or leased facilities or access to Microsoft resources such as email, network access, card key, or other access badges.
 
-To the extent permissible by local law Supplier Screening checks include the following:
+To the extent permissible by local law, Supplier Screening checks include the following items:
 
 - SSN trace in the United States or confirmation of identity from a government-issued document in Europe, the Middle East, and Asia.
-- Criminal history check up to seven years for felony and misdemeanor offenses at the state, county, and local levels, and at the federal level if appropriate in the United States. An international criminal history check (dependent on local law) is applicable for areas outside of the United States.
+- Criminal history checks up to seven years for felony and misdemeanor offenses at the state, county, and local levels, and at the federal level if appropriate in the United States. An international criminal history check (dependent on local law) is applicable for areas outside of the United States.
 - Confirmation of highest level of academic achievement
 - Global sanctions and enforcement check
 
@@ -69,12 +69,12 @@ Internationally, the foregoing requirement will be implemented in all countries 
 
 ## Microsoft cloud background check
 
-A Microsoft Cloud Background Check is required for candidates hired as employees providing Microsoft 365-related services in the United States. Microsoft employees in the United States with access to customer data must follow the Microsoft Cloud Background Check process required by all Microsoft 365 services. Outside of the United States, the process varies. For example, the Microsoft Cloud for Germany uses a Data Trustee approval model, designed to ensure that the Data Trustee (a German company), and not Microsoft, is in control of access to customer data. The Microsoft Cloud in Germany is delivered from datacenters in Germany, and the Operations Centers (OC) containing the technical staff of the Data Trustee are also in Germany. Both the datacenter and the OC facilities are operated, maintained and controlled by the Data Trustee.
+A Microsoft Cloud Background Check is required for candidates hired as employees providing Microsoft 365-related services in the United States. Microsoft employees in the United States with access to customer data must follow the Microsoft Cloud Background Check process required by all Microsoft 365 services. Outside of the United States, the process varies. For example, the Microsoft Cloud for Germany uses a Data Trustee approval model, designed to ensure that the Data Trustee (a German company), and not Microsoft, is in control of access to customer data. The Microsoft Cloud in Germany is delivered from datacenters in Germany, and the Operations Centers (OC) containing the technical staff of the Data Trustee are also in Germany. Both the datacenter and the OC facilities are operated, maintained, and controlled by the Data Trustee.
 
 To the extent permissible by local law, the following checks are performed as part of the Microsoft Cloud Background Check.
 
 - United States: Social Security Number trace
-- Criminal history check up to seven years for felony and misdemeanor offenses at the state, county, and local levels, and at the federal level if appropriate in the United States. An international criminal history check (dependent on local law) is applicable for areas outside of the United States.
+- Criminal history checks up to seven years for felony and misdemeanor offenses at the state, county, and local levels, and at the federal level if appropriate in the United States. An international criminal history check (dependent on local law) is applicable for areas outside of the United States.
 - Global sanctions and enforcement check, including Office of Foreign Assets Control (OFAC) list, Bureau of Industry and Security (BIS) list, and Office of Defense Trade Controls Debarred Persons (DDTC) list checks.
 
 The results from the Microsoft Cloud Background Check are stored in our employee database and connected to our datacenter access control systems. If the Microsoft Cloud Background Check expires and the employee does not renew it, access to Microsoft 365 services is revoked and no longer available until the Microsoft Cloud Background Check is completed. When the employment relationship with Microsoft ends, all datacenter access is immediately revoked.
