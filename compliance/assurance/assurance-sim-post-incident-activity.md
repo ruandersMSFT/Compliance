@@ -44,5 +44,5 @@ Responding to a security incident in Microsoft 365 involves coordination with mu
 
 - [Microsoft 365 security incident management](assurance-security-incident-management.md)
 - [Microsoft 365 security incident management preparation](assurance-sim-preparation.md)
-- [Microsoft 365 security incident management containment, eradication, and recovery](assurance-sim-containment-eradication-recovery.md)
 - [Microsoft 365 security incident management detection and analysis](assurance-sim-detection-analysis.md)
+- [Microsoft 365 security incident management containment, eradication, and recovery](assurance-sim-containment-eradication-recovery.md)
