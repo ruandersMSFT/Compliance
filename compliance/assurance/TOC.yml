@@ -83,6 +83,16 @@
   items:
     - name: Incident management overview
       href: assurance-incident-management.md
+    - name: Microsoft 365 security incident management
+      href: assurance-security-incident-management.md
+    - name: Security incident management preparation
+      href: assurance-sim-preparation.md
+    - name: Security incident management containment, eradication, and recovery
+      href: assurance-sim-containment-eradication-recovery.md
+    - name: Security incident management detection and analysis
+      href: assurance-sim-detection-analysis.md
+    - name: Security incident management post-incident activity
+      href: assurance-sim-post-incident-activity.md
 
 - name: Network security
   items:
