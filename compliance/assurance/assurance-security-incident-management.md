@@ -74,6 +74,6 @@ This table presents the operational boundaries between the various Microsoft 365
 ## Related articles
 
 - [Microsoft 365 security incident management preparation](assurance-sim-preparation.md)
-- [Microsoft 365 security incident management containment, eradication, and recovery](assurance-sim-containment-eradication-recovery.md)
 - [Microsoft 365 security incident management detection and analysis](assurance-sim-detection-analysis.md)
+- [Microsoft 365 security incident management containment, eradication, and recovery](assurance-sim-containment-eradication-recovery.md)
 - [Microsoft 365 security incident management post-incident activity](assurance-sim-post-incident-activity.md)
