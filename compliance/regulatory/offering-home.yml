@@ -23,8 +23,8 @@ metadata:
 # conceptualContent section (optional)
 conceptualContent:
 # itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
-  title: Compliance offerings for Microsoft 365, Azure, and other Microsoft services # < 60 chars (optional)
-  summary: Microsoft provides compliance offerings to help your organization comply with national, regional, and industry-specific requirements governing the collection and use of data. # < 160 chars (optional)
+  title: Microsoft compliance offerings # < 60 chars (optional)
+  summary: Information for Microsoft 365, Azure, Dynamics 365, Power Platform, and other services to help with national, regional, and industry-specific regulations for data collection and use. # < 160 chars (optional)
   items:
     # Card
     - title: Global
