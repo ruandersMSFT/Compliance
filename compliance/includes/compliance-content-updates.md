@@ -2,6 +2,33 @@
 
 
 
+## Week of January 25, 2021
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 1/26/2021 | [Data Resiliency in Microsoft 365](/compliance/assurance/assurance-data-resiliency-overview) | modified |
+| 1/26/2021 | [Enterprise business continuity management legal disclaimer](/compliance/assurance/assurance-ebcm-legal-disclaimer) | modified |
+| 1/26/2021 | [Exchange Online Data Resiliency in Microsoft 365](/compliance/assurance/assurance-exchange-data-resiliency) | modified |
+| 1/26/2021 | [Microsoft 365 Exchange Online data deletion](/compliance/assurance/assurance-exchange-online-data-deletion) | modified |
+| 1/26/2021 | [Attack simulation in Microsoft 365](/compliance/assurance/assurance-monitoring-and-testing) | modified |
+| 1/26/2021 | [Microsoft pre-employment screening](/compliance/assurance/assurance-pre-employment-screening) | modified |
+| 1/26/2021 | [Data processor service for Windows Enterprise notification under the GDPR](/compliance/regulatory/gdpr-breach-windows) | modified |
+| 1/26/2021 | [Microsoft's data protection officer](/compliance/regulatory/gdpr-data-protection-officer) | modified |
+| 1/26/2021 | [Microsoft Support and Professional Services Data Subject Requests for the GDPR and CCPA](/compliance/regulatory/gdpr-dsr-prof-services) | modified |
+| 1/26/2021 | [Cloud Computing Compliance Controls Catalog (C5)](/compliance/regulatory/offering-c5-germany) | modified |
+| 1/26/2021 | [NEN 7510](/compliance/regulatory/offering-nen-7510-netherlands) | modified |
+| 1/28/2021 | [Microsoft 365 security incident management](/compliance/assurance/assurance-security-incident-management) | added |
+| 1/28/2021 | [Microsoft 365 security incident management: Containment, eradication, and recovery](/compliance/assurance/assurance-sim-containment-eradication-recovery) | added |
+| 1/28/2021 | [Microsoft 365 security incident management: Detection and analysis](/compliance/assurance/assurance-sim-detection-analysis) | added |
+| 1/28/2021 | [Microsoft 365 security incident management: Post-incident activity](/compliance/assurance/assurance-sim-post-incident-activity) | added |
+| 1/28/2021 | [Microsoft 365 security incident management: Preparation](/compliance/assurance/assurance-sim-preparation) | added |
+| 1/28/2021 | [SharePoint and OneDrive data resiliency in Microsoft 365](/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency) | added |
+| 1/28/2021 | [Microsoft 365 security incident management](/compliance/assurance/assurance-security-incident-management) | modified |
+| 1/28/2021 | [Microsoft 365 security incident management: Post-incident activity](/compliance/assurance/assurance-sim-post-incident-activity) | modified |
+| 1/28/2021 | [Microsoft 365 security incident management: Preparation](/compliance/assurance/assurance-sim-preparation) | modified |
+
+
 ## Week of January 18, 2021
 
 
