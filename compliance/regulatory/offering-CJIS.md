@@ -83,7 +83,6 @@ Microsoft signs an Information Agreement with a state CJIS Systems Agency (CSA);
 
 - [Criminal Justice Information Services](https://aka.ms/cjis)
 - [CJIS Security Policy](https://aka.ms/cjis-security-policy)
-- [CJIS implementation guidelines for Azure Government](https://aka.ms/cjisimplementationguidelines)
 - [Microsoft Common Controls Hub Compliance Framework](https://www.microsoft.com/trustcenter/common-controls-hub)
 - [Microsoft Government Cloud](https://go.microsoft.com/fwlink/?linkid=2087246)
 - [Compliance on the Microsoft Trust Center](https://www.microsoft.com/trust-center/compliance/compliance-overview)
